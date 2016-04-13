@@ -1,0 +1,37 @@
+{
+    "id": 513,
+    "title": "Shingeki no Kyojin",
+    "title-en": "Attack on Titan",
+    "title-jp": "進撃の巨人",
+    "picture": "http://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "synopsis": "Centuries ago...",
+    "type": "TV",
+    "episodes": 25,
+    "tags": [ "shounen", "action", "drama", "fantasy" ],
+    "released": "2013-04-07",
+    "season": "Spring 2013", 
+    "characters": [
+        {
+            "id": 1212,
+            "name": "Mikasa Ackerman",
+            "name-jp": "ミカサ・アッカーマン",
+            "picture": "http://cdn.myanimelist.net/images/characters/9/215563.jpg",
+            "age": 15,
+            "birthdate": "February 10",
+            "height": 170,
+            "weight": 68,
+            "about": "Mikasa is Eren's adoptive sister and..."
+        },
+        {
+            "id": 1213,
+            "name": "Eren Yeager",
+            "name-jp": "エレン・イェーガー",
+            "picture": "http://cdn.myanimelist.net/images/characters/10/216895.jpg",
+            "age": 15,
+            "birthdate": "March 30",
+            "height": 170,
+            "weight": 63,
+            "about": "Eren is Shingeki no Kyojin's protagonist. His adoptive sister..."
+        }
+    ]
+}
