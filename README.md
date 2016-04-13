@@ -5,6 +5,10 @@ It's a javascript API built using `node.js` and `express`.
 
 **Status:** `early development`
 
+![status](https://img.shields.io/badge/status-early%20development-red.svg)
+[![Build Status](https://travis-ci.org/jieverson/animeapi.svg?branch=master)](https://travis-ci.org/jieverson/animeapi)
+[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
+
 ## Usage
 
 AnimeAPI is going to provide a complete service for requesting anime data.
@@ -120,14 +124,24 @@ Then
 git clone https://github.com/jieverson/animeapi.git
 # Go into the repo
 cd animeapi
+# Make sure you have some global packages
+npm install -g grunt-cli
+npm install -g nodemon
 # Install dependencies
 npm install
 # Run mongodb
 mongod
 # Run server at localhost
-node server.js
+nodemon server.js
 ```
 
-## License
+>**Note:** We use [nodemon](https://github.com/remy/nodemon) instead of `node` for running or server, 'cause it will automatically restart your node application when files change.
 
-[The MIT License (MIT)](./LICENSE)
+## Running Tests
+
+This project uses [grunt](http://gruntjs.com/) for running `jshint` and `nodeunit`.
+
+```shell
+# Grunt default task is going to execute jshint and nodeunit
+grunt
+```

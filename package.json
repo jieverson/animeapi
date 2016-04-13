@@ -1,17 +1,21 @@
 {
   "name": "animeapi",
   "version": "0.0.1",
-  "description": "TODO",
+  "description": "A RESTful API for Anime Data.",
   "main": "service.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt nodeunit"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jieverson/animeapi.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "anime",
+    "animes"
+  ],
+  "author": "Jiéverson Maissiat",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jieverson/animeapi/issues"
   },
@@ -20,6 +24,12 @@
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "mongoose": "^4.4.12",
-    "node-restful": "^0.2.5"
+    "node-restful": "^0.2.5",
+    "volkswagen": "^1.4.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0"
   }
 }
