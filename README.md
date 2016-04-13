@@ -2,8 +2,9 @@
 
 ![status](https://img.shields.io/badge/status-early%20development-red.svg)
 [![travis](https://travis-ci.org/jieverson/animeapi.svg?branch=master)](https://travis-ci.org/jieverson/animeapi)
+[![coveralls](https://coveralls.io/repos/github/jieverson/animeapi/badge.svg?branch=master)](https://coveralls.io/github/jieverson/animeapi?branch=master)
 [![gitter](https://badges.gitter.im/jieverson/animeapi.svg)](https://gitter.im/jieverson/animeapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![mit](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
+[![license](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
 
 A free, easy-to-use and open-source RESTful API for Anime Data. 
 It's a javascript API built using `node.js` and `express`.
