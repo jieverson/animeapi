@@ -13,3 +13,6 @@ node_js:
 before_script:
   - npm install -g grunt-cli
 script: grunt
+after_script:
+  - npm install -g nodeunit
+  - npm run coveralls

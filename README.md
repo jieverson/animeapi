@@ -125,6 +125,7 @@ git clone https://github.com/jieverson/animeapi.git
 cd animeapi
 # Make sure you have some global packages
 npm install -g grunt-cli
+npm install -g nodeunit
 npm install -g nodemon
 # Install dependencies
 npm install

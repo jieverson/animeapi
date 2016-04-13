@@ -2,9 +2,10 @@
   "name": "animeapi",
   "version": "0.0.1",
   "description": "A RESTful API for Anime Data.",
-  "main": "service.js",
+  "main": "lib/service.js",
   "scripts": {
-    "test": "grunt nodeunit"
+    "test": "grunt nodeunit",
+    "coveralls": "jscoverage lib && ANIMEAPI_COV=1 nodeunit --reporter=lcov tests | coveralls"
   },
   "repository": {
     "type": "git",
@@ -28,8 +29,10 @@
     "volkswagen": "^1.4.2"
   },
   "devDependencies": {
+    "coveralls": "^2.11.9",
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-nodeunit": "^1.0.0"
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "jscoverage": "^0.6.0"
   }
 }
