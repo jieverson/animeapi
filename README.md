@@ -3,8 +3,6 @@
 A free, easy-to-use and open-source RESTful API for Anime Data. 
 It's a javascript API built using `node.js` and `express`.
 
-**Status:** `early development`
-
 ![status](https://img.shields.io/badge/status-early%20development-red.svg)
 [![Build Status](https://travis-ci.org/jieverson/animeapi.svg?branch=master)](https://travis-ci.org/jieverson/animeapi)
 [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
