@@ -2,7 +2,6 @@
 
 ![status](https://img.shields.io/badge/status-early%20development-red.svg)
 [![travis](https://travis-ci.org/jieverson/animeapi.svg?branch=master)](https://travis-ci.org/jieverson/animeapi)
-[![coveralls](https://coveralls.io/repos/github/jieverson/animeapi/badge.svg?branch=master)](https://coveralls.io/github/jieverson/animeapi?branch=master)
 [![gitter](https://badges.gitter.im/jieverson/animeapi.svg)](https://gitter.im/jieverson/animeapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![license](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
 
@@ -126,14 +125,13 @@ git clone https://github.com/jieverson/animeapi.git
 cd animeapi
 # Make sure you have some global packages
 npm install -g grunt-cli
-npm install -g nodeunit
 npm install -g nodemon
 # Install dependencies
 npm install
 # Run mongodb
 mongod
 # Run server at localhost
-nodemon server.js
+nodemon
 ```
 
 >**Note:** We use [nodemon](https://github.com/remy/nodemon) instead of `node` for running or server, 'cause it will automatically restart your node application when files change.
