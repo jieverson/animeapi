@@ -1,12 +1,12 @@
 # AnimeAPI
 
-![status](https://img.shields.io/badge/status-early%20development-red.svg)
+[![status](https://img.shields.io/badge/status-early%20development-red.svg)](https://img.shields.io/badge/status-early%20development-red.svg)
 [![travis](https://travis-ci.org/jieverson/animeapi.svg?branch=master)](https://travis-ci.org/jieverson/animeapi)
 [![gitter](https://badges.gitter.im/jieverson/animeapi.svg)](https://gitter.im/jieverson/animeapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![license](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
 
 A free, easy-to-use and open-source RESTful API for Anime Data. 
-It's a javascript API built using `node.js` and `express`.
+It's a javascript API built using `node.js` and `express.js`.
 
 ## Usage
 
@@ -114,7 +114,7 @@ For who wants to contribute, here are things that are welcome
 
 ## Running from Source
 
-Make sure you have [Node](https://nodejs.org/en/) and [Mongo](https://www.mongodb.org/) installed.
+Make sure you have [Node.js](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.org/) installed.
 
 Then
 
@@ -134,7 +134,7 @@ mongod
 nodemon
 ```
 
->**Note:** We use [nodemon](https://github.com/remy/nodemon) instead of `node` for running or server, 'cause it will automatically restart your node application when files change.
+>**Note:** We use [NoDemon](https://github.com/remy/nodemon) instead of node for running or server, 'cause it will make your life a lot easier by automatically restarting your node application when files change.
 
 ## Running Tests
 
@@ -143,4 +143,13 @@ This project uses [grunt](http://gruntjs.com/) for running `jshint` and `nodeuni
 ```shell
 # Grunt default task is going to execute jshint and nodeunit
 grunt
+```
+
+## Running Crawlers
+
+Make sure you have [Phantom.js](http://phantomjs.org/) installed.
+
+```shell
+cd crawlers
+phantomjs hello.js
 ```
