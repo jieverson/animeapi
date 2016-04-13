@@ -1,5 +1,7 @@
 # AnimeAPI
 
+[![Join the chat at https://gitter.im/jieverson/animeapi](https://badges.gitter.im/jieverson/animeapi.svg)](https://gitter.im/jieverson/animeapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A free, easy-to-use and open-source RESTful API for Anime Data. 
 It's a javascript API built using `node.js` and `express`.
 
