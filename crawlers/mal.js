@@ -1,7 +1,7 @@
 function download(page){
-    page.onConsoleMessage = function(msg) {
+    /*page.onConsoleMessage = function(msg) {
         console.log("> " + msg);
-    };
+    };*/
     
     var data = page.evaluate(function() {
         var id = document.URL.split('/')[4];
@@ -88,6 +88,7 @@ function getAnime(links, index){
         
         page.open(link, function(){
             download(page);
+            page.close();
             getAnime(links, index + 1);
         });
     }
@@ -112,6 +113,7 @@ function paginator(i){
                 return links;
             });
             
+            page.close();
             getAnime(links, 0);
         }
         else{
