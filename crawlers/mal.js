@@ -7,7 +7,8 @@ function download(page){
         var id = document.URL.split('/')[4];
         var picture = document.querySelector('img[itemprop="image"]').src;
         var title = document.querySelector('span[itemprop="name"]').innerText;
-        var synopsis = document.querySelector('span[itemprop="description"]').innerText;
+        var descriptionSpan = document.querySelector('span[itemprop="description"]');
+        var synopsis = descriptionSpan ? descriptionSpan.innerText : null;
         var type = document.querySelector('span.information.type').innerText;
         var episodes = parseInt(document.getElementById('curEps').innerText);
         
@@ -74,12 +75,13 @@ function download(page){
     var json = JSON.stringify(data, null, 4);
     
     var fs = require('fs');
-    fs.write('data/' + data.id + '.json', json, 'w');
+    fs.write('../data/' + data.id + '.json', json, 'w');
 }
 
 function getAnime(links, index){
     if(index < links.length){
         var link = links[index];
+        console.log('Anime: ' + (_index + index));
         console.log(link);
         
         var page = require('webpage').create();
@@ -100,6 +102,7 @@ function paginator(i){
     
     page.open('http://myanimelist.net/topanime.php?limit=' + i, function(status){
         if(status === "success") {
+            console.log('Page: ' + i);
             var links = page.evaluate(function() {
                 var a_list = document.querySelectorAll('a.hoverinfo_trigger');
                 var links = [];
@@ -112,11 +115,12 @@ function paginator(i){
             getAnime(links, 0);
         }
         else{
+            console.log('EXIT!');
             phantom.exit();
         }
     });
 }
 
-var _index = 100;
+var _index = 0;
 var PAGE_SIZE = 50;
 paginator(_index);
