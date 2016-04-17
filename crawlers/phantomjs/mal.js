@@ -119,7 +119,7 @@ function download(page, callback){
         var json = JSON.stringify(data, null, 4);
     
         var fs = require('fs');
-        fs.write('../data/animes/' + data.id + '.json', json, 'w');
+        fs.write('../../data/animes/' + data.id + '.json', json, 'w');
         
         callback();
     });
@@ -170,6 +170,6 @@ function paginator(i){
     });
 }
 
-var _index = 0;
+var _index = 1347;
 var PAGE_SIZE = 50;
 paginator(_index);
