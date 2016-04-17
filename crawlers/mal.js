@@ -1,11 +1,46 @@
-function download(page){
+function getCharacters(page) {
+    console.log(page.url);
+    
+    /*page.onConsoleMessage = function(msg) {
+        console.log("> " + msg);
+    };*/
+    
+    var characters = page.evaluate(function() {
+        var ids = [];
+        
+        var tds = document.querySelectorAll('td.borderClass');
+        for(var i in tds){
+            var td = tds[i];
+            
+            if(typeof(td) !== 'object'){
+                continue;
+            }
+            
+            var a = td.querySelector('a[href]');
+            if(a && a.href.search('http://myanimelist.net/character/') >= 0){
+                var id = parseInt(a.href.split('/')[4]);
+                ids.push(id);
+            }
+            else{
+                continue;
+            }
+        }
+        
+        return ids;
+    });
+    
+    return characters;
+}
+
+function download(page, callback){
     /*page.onConsoleMessage = function(msg) {
         console.log("> " + msg);
     };*/
     
     var data = page.evaluate(function() {
         var id = document.URL.split('/')[4];
-        var picture = document.querySelector('img[itemprop="image"]').src;
+        var img = document.querySelector('img[itemprop="image"]');
+        var picture = img ? img.src : null;
         var title = document.querySelector('span[itemprop="name"]').innerText;
         var descriptionSpan = document.querySelector('span[itemprop="description"]');
         var synopsis = descriptionSpan ? descriptionSpan.innerText : null;
@@ -39,8 +74,9 @@ function download(page){
             if(ds[0] == "Aired:"){
                 var aired = d.innerHTML.split('</span>')[1].trim();
                 released = new Date(aired.split('to')[0]);
-            }
-            if(released){
+                if (isNaN(released.getTime())){
+                    released = null;
+                }
                 break;
             }
         }
@@ -71,11 +107,22 @@ function download(page){
         };
         return anime;
     });
+    var characters_url = page.url + '/characters';
+    page.close();
     
-    var json = JSON.stringify(data, null, 4);
+    page = require('webpage').create();
+    page.open(characters_url, function(){
+        var characters = getCharacters(page);
+        data.characters = characters;
+        page.close();
+        
+        var json = JSON.stringify(data, null, 4);
     
-    var fs = require('fs');
-    fs.write('../data/' + data.id + '.json', json, 'w');
+        var fs = require('fs');
+        fs.write('../data/animes/' + data.id + '.json', json, 'w');
+        
+        callback();
+    });
 }
 
 function getAnime(links, index){
@@ -87,9 +134,9 @@ function getAnime(links, index){
         var page = require('webpage').create();
         
         page.open(link, function(){
-            download(page);
-            page.close();
-            getAnime(links, index + 1);
+            download(page, function() {                
+                getAnime(links, index + 1);
+            });
         });
     }
     else{
