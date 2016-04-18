@@ -1,10 +1,12 @@
 {
-    "characters": [],
-    "episodes": 23,
-    "id": "4061",
+    "id": 4061,
+    "title": "Grimm Masterpiece Theater II",
+    "title_en": "Grimm's Fairy Tale Classics",
+    "title_jp": "新グリム名作劇場",
     "picture": "http://cdn.myanimelist.net/images/anime/8/44608.jpg",
-    "released": "1988-10-02T03:00:00.000Z",
-    "synopsis": "Every episode is a stand-alone retelling of a different fairy or folk tale. Not all of them are based on the fairy tales collected by the Brothers Grimm.",
+    "synopsis": "Every episode is a stand-alone retelling of a different fairy or folk tale.  Not all of them are based on the fairy tales collected by the Brothers Grimm.",
+    "type": "TV",
+    "episodes": 23,
     "tags": [
         "adventure",
         "comedy",
@@ -12,8 +14,6 @@
         "kids",
         "magic"
     ],
-    "title": "Grimm Masterpiece Theater II",
-    "title_en": "Grimm's Fairy Tale Classics",
-    "title_jp": "新グリム名作劇場",
-    "type": "TV"
+    "released": "1988-10-02T03:00:00.000Z",
+    "characters": []
 }

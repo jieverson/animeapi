@@ -1,18 +1,22 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "1004",
+    "id": 1004,
+    "title": "Kanojo to Kanojo no Neko",
+    "title_en": "She and Her Cat: Their Standing Points",
+    "title_jp": "彼女と彼女の猫",
     "picture": "http://cdn.myanimelist.net/images/anime/11/73498.jpg",
-    "released": "2002-04-19T03:00:00.000Z",
-    "synopsis": "Do you believe in love at first sight?\n\nThis short but sweet film revolves around She, a woman whose name is never uttered, and her pet cat, Chobi. Their first meeting was beautiful. One rainy day, She found Chobi abandoned outside and decided to bring him home with her. Chobi instantaneously fell for his kind and gentle owner. He had not only found a home, but also the love of his life. But can their relationship ever become anything more than just pet and owner?\n\nKanojo to Kanojo no Neko is a short animated film that explores love in an extremely innovative way. The subtle romance is both heartwarming and thought-provoking and is sure to bring a gentle smile to your face.",
+    "synopsis": "Do you believe in love at first sight?",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "drama",
         "psychological",
         "romance",
         "slice_of_life"
     ],
-    "title": "Kanojo to Kanojo no Neko",
-    "title_en": "She and Her Cat: Their Standing Points",
-    "title_jp": "彼女と彼女の猫",
-    "type": "OVA"
+    "released": "2002-04-19T03:00:00.000Z",
+    "characters": [
+        7801,
+        10126,
+        103525
+    ]
 }

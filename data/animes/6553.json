@@ -1,19 +1,19 @@
 {
-    "characters": [
-        6038,
-        6038
-    ],
-    "episodes": 1,
-    "id": "6553",
+    "id": 6553,
+    "title": "Junjou Romantica Special",
+    "title_en": null,
+    "title_jp": "純情ロマンチカ",
     "picture": "http://cdn.myanimelist.net/images/anime/11/14958.jpg",
-    "released": "2008-01-01T00:00:00.000Z",
     "synopsis": "Voice actors comment various scenes from the anime.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy",
         "romance",
         "shounen_ai"
     ],
-    "title": "Junjou Romantica Special",
-    "title_jp": "純情ロマンチカ",
-    "type": "Special"
+    "released": "2008-01-01T00:00:00.000Z",
+    "characters": [
+        6038
+    ]
 }

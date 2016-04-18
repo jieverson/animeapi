@@ -1,25 +1,21 @@
 {
-    "characters": [
-        80869,
-        80869,
-        80867,
-        80867,
-        92055,
-        92055,
-        80871,
-        80871
-    ],
-    "episodes": 1,
-    "id": "17121",
+    "id": 17121,
+    "title": "Dareka no Manazashi",
+    "title_en": "Someone's Gaze",
+    "title_jp": "だれかのまなざし",
     "picture": "http://cdn.myanimelist.net/images/anime/9/46741.jpg",
-    "released": "2013-02-10T02:00:00.000Z",
-    "synopsis": "The stage is set at near future. Okamura Aya, also known as \"Aachan\", started to live by herself as she started a new job after graduation. Her mother needed to go overseas to work as a doctor, so now only her father and a cat, Mii-san, live in a Proud apartment. Since Aachan moved out, her father has been trying to reach out to her but somehow there is an awkward gap between the two. And the cat Mii-san, which Aachan has kept since she was a child, is getting old... One night, Aachan came back from a tiring day and threw herself on the bed. She closed her eyes and remembered the happy days she spent with her parents and when Mii-san came to comfort her when she got lonely after her mother left.... And then the phone rang...\n\n",
+    "synopsis": "The stage is set at near future. Okamura Aya, also known as \"Aachan\", started to live by herself as she started a new job after graduation. Her mother needed to go overseas to work as a doctor, so now only her father and a cat, Mii-san, live in a Proud apartment. Since Aachan moved out, her father has been trying to reach out to her but somehow there is an awkward gap between the two. And the cat Mii-san, which Aachan has kept since she was a child, is getting old... One night, Aachan came back from a tiring day and threw herself on the bed. She closed her eyes and remembered the happy days she spent with her parents and when Mii-san came to comfort her when she got lonely after her mother left.... And then the phone rang...",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "slice_of_life"
     ],
-    "title": "Dareka no Manazashi",
-    "title_en": "Someone's Gaze",
-    "title_jp": "だれかのまなざし",
-    "type": "Movie"
+    "released": "2013-02-10T02:00:00.000Z",
+    "characters": [
+        80869,
+        80867,
+        92055,
+        80871
+    ]
 }

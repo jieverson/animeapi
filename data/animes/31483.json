@@ -1,36 +1,28 @@
 {
-    "characters": [
-        25273,
-        25273,
-        18323,
-        18323,
-        18324,
-        18324,
-        64659,
-        64659,
-        18326,
-        18326,
-        25483,
-        25483,
-        130980,
-        130980,
-        18325,
-        18325,
-        75480,
-        75480
-    ],
-    "episodes": 1,
-    "id": "31483",
+    "id": 31483,
+    "title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+    "title_en": null,
+    "title_jp": "赤髪の白雪姫 ～なんでもない宝物、この頁～",
     "picture": "http://cdn.myanimelist.net/images/anime/10/77943.jpg",
-    "released": "2016-01-05T02:00:00.000Z",
-    "synopsis": "Bundled with the limited edition 15th volume of the manga.\n\nChapters adapted\n1. Volume 10, Chapter 41: Shirayuki to Zen, Hajimete no Joukamachi Date (白雪とゼン、はじめての城下町デート)\n2. Volume 7, Special Chapter: Raji Ouji Youshou no Migiri (ラジ王子幼少のみぎり)\n3. Volume 11, Special Chapter: Hajimari no Zen & Mitsuhide & Kiki (始まりのゼン＆ミツヒデ＆木々)",
+    "synopsis": "Bundled with the limited edition 15th volume of the manga.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "drama",
         "fantasy",
         "romance",
         "shoujo"
     ],
-    "title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
-    "title_jp": "赤髪の白雪姫 ～なんでもない宝物、この頁～",
-    "type": "OVA"
+    "released": "2016-01-05T02:00:00.000Z",
+    "characters": [
+        25273,
+        18323,
+        18324,
+        64659,
+        18326,
+        25483,
+        130980,
+        18325,
+        75480
+    ]
 }

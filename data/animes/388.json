@@ -1,27 +1,23 @@
 {
-    "characters": [
-        22566,
-        22566,
-        22541,
-        22541,
-        7043,
-        7043,
-        7161,
-        7161,
-        22568,
-        22568
-    ],
-    "episodes": 52,
-    "id": "388",
+    "id": 388,
+    "title": "Capeta",
+    "title_en": null,
+    "title_jp": "カペタ",
     "picture": "http://cdn.myanimelist.net/images/anime/5/17667.jpg",
-    "released": "2005-10-04T03:00:00.000Z",
-    "synopsis": "Taira Kappeita, or Capeta, was a 4th grader boy. He had lost his mother when he had been very little. Although he pretended to be tough in front of his father, actually he felt lonely. One day, his father brought junk parts home from his workplace and made a racing cart. Soon, they went to a circuit to drive the cart. However, Capeta found that its frame was bent and it could hardly run straight. But, with his technique he managed the cart. Furthermore, he followed soon after the fast cart and he could nearly leave it behind. The driver in the cart was Minamoto Naomi, the champion of the East Japan Junior Cart. Looking at their chase, Naomi's mother, Minamoto Nanako, advised Capeta to take part in the official race.\n\n(Source: ANN)",
+    "synopsis": "Taira Kappeita, or Capeta, was a 4th grader boy. He had lost his mother when he had been very little. Although he pretended to be tough in front of his father, actually he felt lonely. One day, his father brought junk parts home from his workplace and made a racing cart. Soon, they went to a circuit to drive the cart. However, Capeta found that its frame was bent and it could hardly run straight. But, with his technique he managed the cart. Furthermore, he followed soon after the fast cart and he could nearly leave it behind. The driver in the cart was Minamoto Naomi, the champion of the East Japan Junior Cart. Looking at their chase, Naomi's mother, Minamoto Nanako, advised Capeta to take part in the official race.",
+    "type": "TV",
+    "episodes": 52,
     "tags": [
         "cars",
         "shounen",
         "sports"
     ],
-    "title": "Capeta",
-    "title_jp": "カペタ",
-    "type": "TV"
+    "released": "2005-10-04T03:00:00.000Z",
+    "characters": [
+        22566,
+        22541,
+        7043,
+        7161,
+        22568
+    ]
 }

@@ -1,25 +1,21 @@
 {
-    "characters": [
-        81751,
-        81751,
-        81753,
-        81753,
-        81757,
-        81757,
-        81763,
-        81763,
-        91479,
-        91479
-    ],
-    "episodes": 1,
-    "id": "30745",
+    "id": 30745,
+    "title": "Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna",
+    "title_en": null,
+    "title_jp": "劇場版 境界の彼方 -I'LL BE HERE- 過去篇『約束の絆』ダンスPV",
     "picture": "http://cdn.myanimelist.net/images/anime/13/73894.jpg",
-    "released": "2015-03-14T03:00:00.000Z",
-    "synopsis": "Music video Yakusoku no Kizuna from Kyoukai no Kanata Movie: I'll Be Here - Kako-hen Blu-ray/DVD.",
+    "synopsis": "Music video ",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "music"
     ],
-    "title": "Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna",
-    "title_jp": "劇場版 境界の彼方 -I'LL BE HERE- 過去篇『約束の絆』ダンスPV",
-    "type": "Special"
+    "released": "2015-03-14T03:00:00.000Z",
+    "characters": [
+        81751,
+        81753,
+        81757,
+        81763,
+        91479
+    ]
 }

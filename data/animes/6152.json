@@ -1,23 +1,21 @@
 {
-    "characters": [
-        1816,
-        1816,
-        456,
-        456
-    ],
-    "episodes": 1,
-    "id": "6152",
+    "id": 6152,
+    "title": "Final Fantasy VII: Advent Children - Venice Film Festival Footage",
+    "title_en": "Final Fantasy VII: Advent Children - Venice Film Festival Footage",
+    "title_jp": "FINAL FANTASY VII ADVENT CHILDREN ヴェネチア映画祭版",
     "picture": "http://cdn.myanimelist.net/images/anime/9/13516.jpg",
-    "released": "2005-09-14T03:00:00.000Z",
     "synopsis": "Advent Children Special Edition is the 25 minute version of the movie which was shown at the 62nd Venice Film Festival in 2005. Available as dvd bonus on 2-disc special edition.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "drama",
         "fantasy",
         "sci-fi"
     ],
-    "title": "Final Fantasy VII: Advent Children - Venice Film Festival Footage",
-    "title_en": "Final Fantasy VII: Advent Children - Venice Film Festival Footage",
-    "title_jp": "FINAL FANTASY VII ADVENT CHILDREN ヴェネチア映画祭版",
-    "type": "Movie"
+    "released": "2005-09-14T03:00:00.000Z",
+    "characters": [
+        1816,
+        456
+    ]
 }

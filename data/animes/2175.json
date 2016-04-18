@@ -1,23 +1,21 @@
 {
-    "characters": [
-        88,
-        88,
-        7885,
-        7885,
-        87,
-        87
-    ],
-    "episodes": 1,
-    "id": "2175",
+    "id": 2175,
+    "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+    "title_en": null,
+    "title_jp": "キノの旅 -the Beautiful World- 病気の国 -For You-",
     "picture": "http://cdn.myanimelist.net/images/anime/8/73906.jpg",
-    "released": "2007-04-21T03:00:00.000Z",
-    "synopsis": "Kino travels to a country divided into two parts: the very clean and peaceful city, closed off from the surrounding wastelands. She meets a little girl in the city suffering from a disease which is constantly being researched. The girl, however, does not know just how the research is being done.\n\n(Source: ANN)",
+    "synopsis": "Kino travels to a country divided into two parts: the very clean and peaceful city, closed off from the surrounding wastelands. She meets a little girl in the city suffering from a disease which is constantly being researched. The girl, however, does not know just how the research is being done.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "drama",
         "fantasy"
     ],
-    "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
-    "title_jp": "キノの旅 -the Beautiful World- 病気の国 -For You-",
-    "type": "Movie"
+    "released": "2007-04-21T03:00:00.000Z",
+    "characters": [
+        88,
+        7885,
+        87
+    ]
 }

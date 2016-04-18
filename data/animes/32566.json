@@ -1,27 +1,23 @@
 {
-    "characters": [
-        48967,
-        48967,
-        123883,
-        123883,
-        137713,
-        137713,
-        48753,
-        48753,
-        56365,
-        56365
-    ],
-    "episodes": 1,
-    "id": "32566",
+    "id": 32566,
+    "title": "Noblesse: Pamyeol-ui Sijak",
+    "title_en": null,
+    "title_jp": "NOBLESSE 파멸의 시작",
     "picture": "http://cdn.myanimelist.net/images/anime/6/78178.jpg",
-    "released": "2015-12-04T02:00:00.000Z",
-    "synopsis": "820 years ago, Mujaka, the lord of werewolves finally visits Raizel after a long journey. But the werewolf Maduk interferes in a war of human plotting some scheme. Raizel and Mujaka fall into a hand of tragic destiny, fighting with each other desperately leaving their friendship behind.\n\n(Source: Bucheon International Animation Festival)",
+    "synopsis": "820 years ago, Mujaka, the lord of werewolves finally visits Raizel after a long journey. But the werewolf Maduk interferes in a war of human plotting some scheme. Raizel and Mujaka fall into a hand of tragic destiny, fighting with each other desperately leaving their friendship behind.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
         "supernatural"
     ],
-    "title": "Noblesse: Pamyeol-ui Sijak",
-    "title_jp": "NOBLESSE 파멸의 시작",
-    "type": "OVA"
+    "released": "2015-12-04T02:00:00.000Z",
+    "characters": [
+        48967,
+        123883,
+        137713,
+        48753,
+        56365
+    ]
 }

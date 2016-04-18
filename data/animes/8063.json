@@ -1,26 +1,23 @@
 {
-    "characters": [
-        38730,
-        38730,
-        30049,
-        30049,
-        30050,
-        30050,
-        41942,
-        41942
-    ],
-    "episodes": 2,
-    "id": "8063",
+    "id": 8063,
+    "title": "Sekaiichi Hatsukoi OVA",
+    "title_en": null,
+    "title_jp": "世界一初恋 OVA",
     "picture": "http://cdn.myanimelist.net/images/anime/11/35863.jpg",
-    "released": "2011-03-22T03:00:00.000Z",
-    "synopsis": "Two OVA episodes featuring additional stories. \n\nEpisode 0: Ritsu and Takano used to date back in high school, but broke up due to a misunderstanding. This is that story. \n\nEpisode 12.5: Hatori and Chiaki go to visit the latter's family. It's really awkward in many, many ways.",
+    "synopsis": "Two OVA episodes featuring additional stories. ",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "comedy",
         "drama",
         "romance",
         "shounen_ai"
     ],
-    "title": "Sekaiichi Hatsukoi OVA",
-    "title_jp": "世界一初恋 OVA",
-    "type": "OVA"
+    "released": "2011-03-22T03:00:00.000Z",
+    "characters": [
+        38730,
+        30049,
+        30050,
+        41942
+    ]
 }

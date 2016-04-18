@@ -1,26 +1,22 @@
 {
-    "characters": [
-        65257,
-        65257,
-        70069,
-        70069,
-        65263,
-        65263,
-        65259,
-        65259,
-        70603,
-        70603
-    ],
-    "episodes": 1,
-    "id": "22961",
+    "id": 22961,
+    "title": "Date A Live: Encore OVA",
+    "title_en": null,
+    "title_jp": "デート・ア・ライブ　アンコール",
     "picture": "http://cdn.myanimelist.net/images/anime/6/69489.jpg",
-    "released": "2014-12-08T02:00:00.000Z",
-    "synopsis": "The third volume of the Date A Live: Encore short story collection will bundle an unaired episode in a limited edition.\n\nThe story is set on July 7th. \"In the midst of the Tanabata festival celebrations, Shidou meets Kurumi, the worst Spirit. And the couple's destination is ...a wedding ceremony hall?!\"\n\n(Source: ANN)",
+    "synopsis": "The third volume of the ",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "romance",
         "slice_of_life"
     ],
-    "title": "Date A Live: Encore OVA",
-    "title_jp": "デート・ア・ライブ　アンコール",
-    "type": "OVA"
+    "released": "2014-12-08T02:00:00.000Z",
+    "characters": [
+        65257,
+        70069,
+        65263,
+        65259,
+        70603
+    ]
 }

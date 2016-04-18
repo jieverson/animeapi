@@ -1,31 +1,12 @@
 {
-    "characters": [
-        2653,
-        2653,
-        2654,
-        2654,
-        2677,
-        2677,
-        38533,
-        38533,
-        79699,
-        79699,
-        2676,
-        2676,
-        79701,
-        79701,
-        18447,
-        18447,
-        1795,
-        1795,
-        94033,
-        94033
-    ],
-    "episodes": 1,
-    "id": "468",
+    "id": 468,
+    "title": "Ghost in the Shell 2: Innocence",
+    "title_en": "Ghost in the Shell 2: Innocence",
+    "title_jp": "イノセンス",
     "picture": "http://cdn.myanimelist.net/images/anime/10/75628.jpg",
-    "released": "2004-03-06T03:00:00.000Z",
-    "synopsis": "The heavily cyborged police officer Batou, newly partnered with the mostly-human Togusa after the disappearance of Major Motoko Kusanagi, is assigned to investigate a series of murders committed by prototype \"sexaroids\"—female androids created for sex.\n\n(Source: ANN)",
+    "synopsis": "The heavily cyborged police officer Batou, newly partnered with the mostly-human Togusa after the disappearance of Major Motoko Kusanagi, is assigned to investigate a series of murders committed by prototype \"sexaroids\"—female androids created for sex.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "mecha",
         "military",
@@ -33,8 +14,17 @@
         "psychological",
         "sci-fi"
     ],
-    "title": "Ghost in the Shell 2: Innocence",
-    "title_en": "Ghost in the Shell 2: Innocence",
-    "title_jp": "イノセンス",
-    "type": "Movie"
+    "released": "2004-03-06T03:00:00.000Z",
+    "characters": [
+        2653,
+        2654,
+        2677,
+        38533,
+        79699,
+        2676,
+        79701,
+        18447,
+        1795,
+        94033
+    ]
 }

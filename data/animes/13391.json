@@ -1,38 +1,28 @@
 {
-    "characters": [
-        86857,
-        86857,
-        118667,
-        118667,
-        92747,
-        92747,
-        120999,
-        120999,
-        120991,
-        120991,
-        121001,
-        121001,
-        120993,
-        120993,
-        121003,
-        121003,
-        121005,
-        121005,
-        120995,
-        120995
-    ],
-    "episodes": 1,
-    "id": "13391",
+    "id": 13391,
+    "title": "Rakuen Tsuihou: Expelled from Paradise",
+    "title_en": "Expelled from Paradise",
+    "title_jp": "楽園追放 -Expelled from Paradise-",
     "picture": "http://cdn.myanimelist.net/images/anime/3/67507.jpg",
-    "released": "2014-11-15T02:00:00.000Z",
-    "synopsis": "In the world of Rakuen Tsuihou: Expelled from Paradise, the Earth has been left uninhabitable following an event known as the Nano Hazard. With no planet to sustain them, humanity was forced to move itself to the space station DEVA. Evacuating all humans into space would have been physically impossible. As an alternative, mankind has digitized their minds and they now live in a virtual reality within DEVA, leaving their physical bodies behind. One day, a hacker referred to as “Frontier Setter” infiltrates DEVA’s mainframe. The hacker's signal originates from the wasteland that is now Earth.\n\nAngela Balzac has been attempting to track down Frontier Setter after each hacking attempt, but has had no success in doing so. Resolving to finally catch the criminal once and for all, Angela is given a prosthetic body and journeys to Earth. There she meets local agent Dingo and their search for the mysterious Frontier Setter begins.",
+    "synopsis": "In the world of ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "mecha",
         "sci-fi"
     ],
-    "title": "Rakuen Tsuihou: Expelled from Paradise",
-    "title_en": "Expelled from Paradise",
-    "title_jp": "楽園追放 -Expelled from Paradise-",
-    "type": "Movie"
+    "released": "2014-11-15T02:00:00.000Z",
+    "characters": [
+        86857,
+        118667,
+        92747,
+        120999,
+        120991,
+        121001,
+        120993,
+        121003,
+        121005,
+        120995
+    ]
 }

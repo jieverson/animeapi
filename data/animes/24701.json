@@ -1,27 +1,12 @@
 {
-    "characters": [
-        425,
-        425,
-        126469,
-        126469,
-        126470,
-        126470,
-        126471,
-        126471,
-        116277,
-        116277,
-        39597,
-        39597,
-        120079,
-        120079,
-        132211,
-        132211
-    ],
-    "episodes": 10,
-    "id": "24701",
+    "id": 24701,
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "title_en": null,
+    "title_jp": "蟲師 続章",
     "picture": "http://cdn.myanimelist.net/images/anime/9/68095.jpg",
-    "released": "2014-10-19T04:00:00.000Z",
-    "synopsis": "Second season of Mushishi Zoku Shou.",
+    "synopsis": "Second season of ",
+    "type": "TV",
+    "episodes": 10,
     "tags": [
         "adventure",
         "fantasy",
@@ -31,7 +16,15 @@
         "slice_of_life",
         "supernatural"
     ],
-    "title": "Mushishi Zoku Shou 2nd Season",
-    "title_jp": "蟲師 続章",
-    "type": "TV"
+    "released": "2014-10-19T03:00:00.000Z",
+    "characters": [
+        425,
+        126469,
+        126470,
+        126471,
+        116277,
+        39597,
+        120079,
+        132211
+    ]
 }

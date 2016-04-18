@@ -1,31 +1,25 @@
 {
-    "characters": [
-        132323,
-        132323,
-        132322,
-        132322,
-        132324,
-        132324,
-        131005,
-        131005,
-        132514,
-        132514,
-        132515,
-        132515
-    ],
-    "episodes": 12,
-    "id": "31404",
+    "id": 31404,
+    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+    "title_en": "And you thought there is never a girl online?",
+    "title_jp": "ネトゲの嫁は女の子じゃないと思った？",
     "picture": "http://cdn.myanimelist.net/images/anime/3/79414.jpg",
-    "released": "2016-04-07T03:00:00.000Z",
-    "synopsis": "Our naïve protagonist proposes to a female character in an online game, only to find out that the player is actually a guy. Traumatized by that, he decides to never trust a girl online, but now, two years later, a female player is proposing to him. What will happen?\n\n(Source: Unlimited Novel Failures, edited)",
+    "synopsis": "Our naïve protagonist proposes to a female character in an online game, only to find out that the player is actually a guy. Traumatized by that, he decides to never trust a girl online, but now, two years later, a female player is proposing to him. What will happen?",
+    "type": "TV",
+    "episodes": 12,
     "tags": [
         "comedy",
         "ecchi",
         "romance",
         "school"
     ],
-    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
-    "title_en": "And you thought there is never a girl online?",
-    "title_jp": "ネトゲの嫁は女の子じゃないと思った？",
-    "type": "TV"
+    "released": "2016-04-07T03:00:00.000Z",
+    "characters": [
+        132323,
+        132322,
+        132324,
+        131005,
+        132514,
+        132515
+    ]
 }

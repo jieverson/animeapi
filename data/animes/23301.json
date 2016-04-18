@@ -1,29 +1,12 @@
 {
-    "characters": [
-        104257,
-        104257,
-        104249,
-        104249,
-        104247,
-        104247,
-        133336,
-        133336,
-        7558,
-        7558,
-        104291,
-        104291,
-        91981,
-        91981,
-        27162,
-        27162,
-        104253,
-        104253
-    ],
-    "episodes": 4,
-    "id": "23301",
+    "id": 23301,
+    "title": "Pokemon XY: Mega Evolution",
+    "title_en": null,
+    "title_jp": "ポケットモンスターXY MEGA EVOLUTION",
     "picture": "http://cdn.myanimelist.net/images/anime/12/60225.jpg",
-    "released": "2014-04-03T03:00:00.000Z",
-    "synopsis": "Mega Evolution—a new form of evolution that has spread through the Kalos region; however, is Mega Evolution something all Pokemon are capable of? This story is centered around a young Trainer named Alan and his partner Lizardon. \"To master Mega Evolution, to defeat all mega evolved Pokemon and stand on top as the strongest\": That is the goal of Alan's journey.\n\n(Source: AniDB)",
+    "synopsis": "Mega Evolution—a new form of evolution that has spread through the Kalos region; however, is Mega Evolution something all Pokemon are capable of? This story is centered around a young Trainer named Alan and his partner Lizardon. \"To master Mega Evolution, to defeat all mega evolved Pokemon and stand on top as the strongest\": That is the goal of Alan's journey.",
+    "type": "Special",
+    "episodes": 4,
     "tags": [
         "action",
         "adventure",
@@ -31,7 +14,16 @@
         "fantasy",
         "kids"
     ],
-    "title": "Pokemon XY: Mega Evolution",
-    "title_jp": "ポケットモンスターXY MEGA EVOLUTION",
-    "type": "Special"
+    "released": "2014-04-03T03:00:00.000Z",
+    "characters": [
+        104257,
+        104249,
+        104247,
+        133336,
+        7558,
+        104291,
+        91981,
+        27162,
+        104253
+    ]
 }

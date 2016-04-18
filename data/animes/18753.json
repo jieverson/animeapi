@@ -1,37 +1,28 @@
 {
-    "characters": [
-        67065,
-        67065,
-        67077,
-        67077,
-        67069,
-        67069,
-        67067,
-        67067,
-        79595,
-        79595,
-        67075,
-        67075,
-        74587,
-        74587,
-        79593,
-        79593,
-        67071,
-        67071,
-        67073,
-        67073
-    ],
-    "episodes": 1,
-    "id": "18753",
+    "id": 18753,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA",
+    "title_en": null,
+    "title_jp": "やはり俺の青春ラブコメはまちがっている。OVA「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」",
     "picture": "http://cdn.myanimelist.net/images/anime/9/54831.jpg",
-    "released": "2013-09-19T03:00:00.000Z",
-    "synopsis": "Anime original episode bundled with the limited edition of the Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. PlayStation Vita game set to be released this summer.",
+    "synopsis": "Anime original episode bundled with the limited edition of the ",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "comedy",
         "romance",
         "school"
     ],
-    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA",
-    "title_jp": "やはり俺の青春ラブコメはまちがっている。OVA「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」",
-    "type": "OVA"
+    "released": "2013-09-19T03:00:00.000Z",
+    "characters": [
+        67065,
+        67077,
+        67069,
+        67067,
+        79595,
+        67075,
+        74587,
+        79593,
+        67071,
+        67073
+    ]
 }

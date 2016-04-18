@@ -1,33 +1,25 @@
 {
-    "characters": [
-        14286,
-        14286,
-        15009,
-        15009,
-        17230,
-        17230,
-        17232,
-        17232,
-        17233,
-        17233,
-        94031,
-        94031,
-        17231,
-        17231,
-        29298,
-        29298
-    ],
-    "episodes": 1,
-    "id": "2890",
+    "id": 2890,
+    "title": "Gake no Ue no Ponyo",
+    "title_en": "Ponyo",
+    "title_jp": "崖の上のポニョ",
     "picture": "http://cdn.myanimelist.net/images/anime/7/8970.jpg",
-    "released": "2008-07-19T03:00:00.000Z",
-    "synopsis": "A lonely little boy named Sousuke lives with his mother by the sea, flashing messages across the water to his father's boat. One day, amid the detritus brought in with the tide, he stumbles upon a little goldfish. Delighted by this strange new friend, he takes her home and names her Ponyo. Sousuke comes to learn, however, that Ponyo is no ordinary fish. A visit from a strange man brings with it fantastical happenings that lead Sousuke and Ponyo on an enlightening adventure. \n\nIn Gake no Ue no Ponyo, magic and reality clash around Ponyo and Sousuke, testing their resolve. Despite the trials they face, Ponyo and Sousuke form a strong friendship. They meet many interesting characters, and learn just as many lessons from them.",
+    "synopsis": "A lonely little boy named Sousuke lives with his mother by the sea, flashing messages across the water to his father's boat. One day, amid the detritus brought in with the tide, he stumbles upon a little goldfish. Delighted by this strange new friend, he takes her home and names her Ponyo. Sousuke comes to learn, however, that Ponyo is no ordinary fish. A visit from a strange man brings with it fantastical happenings that lead Sousuke and Ponyo on an enlightening adventure. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "fantasy"
     ],
-    "title": "Gake no Ue no Ponyo",
-    "title_en": "Ponyo",
-    "title_jp": "崖の上のポニョ",
-    "type": "Movie"
+    "released": "2008-07-19T03:00:00.000Z",
+    "characters": [
+        14286,
+        15009,
+        17230,
+        17232,
+        17233,
+        94031,
+        17231,
+        29298
+    ]
 }

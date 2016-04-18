@@ -1,31 +1,12 @@
 {
-    "characters": [
-        53205,
-        53205,
-        1742,
-        1742,
-        53207,
-        53207,
-        4251,
-        4251,
-        20372,
-        20372,
-        9177,
-        9177,
-        1748,
-        1748,
-        1749,
-        1749,
-        4252,
-        4252,
-        4228,
-        4228
-    ],
-    "episodes": 1,
-    "id": "5348",
+    "id": 5348,
+    "title": "Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+    "title_en": null,
+    "title_jp": "名探偵コナンMagic File 2 ～工藤新一 謎の壁と黒ラブ事件～",
     "picture": "http://cdn.myanimelist.net/images/anime/6/10891.jpg",
-    "released": "2008-04-19T03:00:00.000Z",
-    "synopsis": "Magic File 2 was sold at select retailers (7-11 branded equivalents) in Japan, along with PPV episodes of the show (episodes released long before, such as the NY case). The first disc housed the Movie 12 Side-Story OVA, which features Kudou Shinichi and details a bit of the backstory from the upcoming movie. The second disc was the one with the PPV episodes.\n\n(Source: DCTP Forum)",
+    "synopsis": "Magic File 2 was sold at select retailers (7-11 branded equivalents) in Japan, along with PPV episodes of the show (episodes released long before, such as the NY case). The first disc housed the Movie 12 Side-Story OVA, which features Kudou Shinichi and details a bit of the backstory from the upcoming movie. The second disc was the one with the PPV episodes.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -33,7 +14,17 @@
         "police",
         "shounen"
     ],
-    "title": "Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
-    "title_jp": "名探偵コナンMagic File 2 ～工藤新一 謎の壁と黒ラブ事件～",
-    "type": "OVA"
+    "released": "2008-04-19T03:00:00.000Z",
+    "characters": [
+        53205,
+        1742,
+        53207,
+        4251,
+        20372,
+        9177,
+        1748,
+        1749,
+        4252,
+        4228
+    ]
 }

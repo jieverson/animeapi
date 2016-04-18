@@ -1,21 +1,12 @@
 {
-    "characters": [
-        425,
-        425,
-        112349,
-        112349,
-        13714,
-        13714,
-        39597,
-        39597,
-        17128,
-        17128
-    ],
-    "episodes": 1,
-    "id": "24687",
+    "id": 24687,
+    "title": "Mushishi Zoku Shou: Odoro no Michi",
+    "title_en": null,
+    "title_jp": "蟲師 続章",
     "picture": "http://cdn.myanimelist.net/images/anime/8/63539.jpg",
-    "released": "2014-08-20T03:00:00.000Z",
-    "synopsis": "One hour special broadcast on August 20, 2014 and bundled with anime's third Blu-ray/DVD volume on November 26, 2014.\n\nAdapts \"Odoro no Michi\" (Path of Thorns) manga chapters.",
+    "synopsis": "One hour special broadcast on August 20, 2014 and bundled with anime's third Blu-ray/DVD volume on November 26, 2014.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "adventure",
         "fantasy",
@@ -25,7 +16,12 @@
         "slice_of_life",
         "supernatural"
     ],
-    "title": "Mushishi Zoku Shou: Odoro no Michi",
-    "title_jp": "蟲師 続章",
-    "type": "Special"
+    "released": "2014-08-20T03:00:00.000Z",
+    "characters": [
+        425,
+        112349,
+        13714,
+        39597,
+        17128
+    ]
 }

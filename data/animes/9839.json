@@ -1,10 +1,12 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "9839",
+    "id": 9839,
+    "title": "Detective Conan: Black History 2",
+    "title_en": "Case Closed: Black History 2",
+    "title_jp": "名探偵コナン 黒の組織との接触",
     "picture": "http://cdn.myanimelist.net/images/anime/5/27235.jpg",
-    "released": "2007-12-17T02:00:00.000Z",
     "synopsis": "A special episode aired after ep. 490, it summarizes episodes 309 -> 311.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -12,8 +14,6 @@
         "police",
         "shounen"
     ],
-    "title": "Detective Conan: Black History 2",
-    "title_en": "Case Closed: Black History 2",
-    "title_jp": "名探偵コナン 黒の組織との接触",
-    "type": "Special"
+    "released": "2007-12-17T02:00:00.000Z",
+    "characters": []
 }

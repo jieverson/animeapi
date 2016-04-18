@@ -1,29 +1,24 @@
 {
-    "characters": [
-        3884,
-        3884,
-        3887,
-        3887,
-        2058,
-        2058,
-        3497,
-        3497,
-        3886,
-        3886,
-        3885,
-        3885
-    ],
-    "episodes": 2,
-    "id": "1911",
+    "id": 1911,
+    "title": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+    "title_en": null,
+    "title_jp": "トップをねらえ！＆トップをねらえ２！合体劇場版!!",
     "picture": "http://cdn.myanimelist.net/images/anime/1/1911.jpg",
-    "released": "2006-10-01T03:00:00.000Z",
-    "synopsis": "This double feature comprises of Gunbuster and Die Buster (aka Gunbuster 2) condensed them into a single theatrical release told in two parts with a musical intermission in between. The first part, Gunbuster the Movie, condenses the six episodes of the original OVA into a 95-minute movie featuring a new 5.1 audio remix and a redub by the original Japanese cast. The second part, Die Buster the Movie, mixes large chunks of the second OVA series with a few altered or newly-animated scenes to create a truncated take on Nono's story.\n\n(Source: ANN)",
+    "synopsis": "This double feature comprises of Gunbuster and Die Buster (aka Gunbuster 2) condensed them into a single theatrical release told in two parts with a musical intermission in between. The first part, Gunbuster the Movie, condenses the six episodes of the original OVA into a 95-minute movie featuring a new 5.1 audio remix and a redub by the original Japanese cast. The second part, Die Buster the Movie, mixes large chunks of the second OVA series with a few altered or newly-animated scenes to create a truncated take on Nono's story.",
+    "type": "Movie",
+    "episodes": 2,
     "tags": [
         "comedy",
         "mecha",
         "shounen"
     ],
-    "title": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
-    "title_jp": "トップをねらえ！＆トップをねらえ２！合体劇場版!!",
-    "type": "Movie"
+    "released": "2006-10-01T03:00:00.000Z",
+    "characters": [
+        3884,
+        3887,
+        2058,
+        3497,
+        3886,
+        3885
+    ]
 }

@@ -1,37 +1,28 @@
 {
-    "characters": [
-        3216,
-        3216,
-        2627,
-        2627,
-        3215,
-        3215,
-        2528,
-        2528,
-        30762,
-        30762,
-        13561,
-        13561,
-        14193,
-        14193,
-        13019,
-        13019,
-        14148,
-        14148,
-        1750,
-        1750
-    ],
-    "episodes": 2,
-    "id": "3165",
+    "id": 3165,
+    "title": "Hidamari Sketch Specials",
+    "title_en": null,
+    "title_jp": "ひだまりスケッチ 特別編 前後編",
     "picture": "http://cdn.myanimelist.net/images/anime/9/14372.jpg",
-    "released": "2007-10-18T03:00:00.000Z",
     "synopsis": "Sequel of the Hidamari Sketch TV series.",
+    "type": "Special",
+    "episodes": 2,
     "tags": [
         "comedy",
         "school",
         "slice_of_life"
     ],
-    "title": "Hidamari Sketch Specials",
-    "title_jp": "ひだまりスケッチ 特別編 前後編",
-    "type": "Special"
+    "released": "2007-10-18T03:00:00.000Z",
+    "characters": [
+        3216,
+        2627,
+        3215,
+        2528,
+        30762,
+        13561,
+        14193,
+        13019,
+        14148,
+        1750
+    ]
 }

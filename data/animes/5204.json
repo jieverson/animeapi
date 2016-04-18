@@ -1,31 +1,12 @@
 {
-    "characters": [
-        5268,
-        5268,
-        3105,
-        3105,
-        5266,
-        5266,
-        5269,
-        5269,
-        5267,
-        5267,
-        20082,
-        20082,
-        20081,
-        20081,
-        102047,
-        102047,
-        21283,
-        21283,
-        105749,
-        105749
-    ],
-    "episodes": 1,
-    "id": "5204",
+    "id": 5204,
+    "title": "Kara no Kyoukai 6: Boukyaku Rokuon",
+    "title_en": "the Garden of sinners Chapter 6: Oblivion Recording",
+    "title_jp": "劇場版 空の境界 the Garden of sinners 第六章『忘却録音』",
     "picture": "http://cdn.myanimelist.net/images/anime/2/21739.jpg",
-    "released": "2008-12-20T02:00:00.000Z",
-    "synopsis": "January 1999: Apprentice mage Azaka Kokutou, Mikiya's younger sister, has been ordered by her mentor, Touko Aozaki, to investigate a certain incident in which fairies steal the memories of students at Azaka's school, Reien Academy. Azaka launches an investigation with the help of Shiki.\n\n(Source: Aniplex USA)",
+    "synopsis": "January 1999: Apprentice mage Azaka Kokutou, Mikiya's younger sister, has been ordered by her mentor, Touko Aozaki, to investigate a certain incident in which fairies steal the memories of students at Azaka's school, Reien Academy. Azaka launches an investigation with the help of Shiki.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "magic",
@@ -34,8 +15,17 @@
         "supernatural",
         "thriller"
     ],
-    "title": "Kara no Kyoukai 6: Boukyaku Rokuon",
-    "title_en": "the Garden of sinners Chapter 6: Oblivion Recording",
-    "title_jp": "劇場版 空の境界 the Garden of sinners 第六章『忘却録音』",
-    "type": "Movie"
+    "released": "2008-12-20T02:00:00.000Z",
+    "characters": [
+        5268,
+        3105,
+        5266,
+        5269,
+        5267,
+        20082,
+        20081,
+        102047,
+        21283,
+        105749
+    ]
 }

@@ -1,25 +1,12 @@
 {
-    "characters": [
-        219,
-        219,
-        217,
-        217,
-        9263,
-        9263,
-        220,
-        220,
-        218,
-        218,
-        12133,
-        12133,
-        9469,
-        9469
-    ],
-    "episodes": 3,
-    "id": "2143",
+    "id": 2143,
+    "title": "Saiyuuki Reload: Burial",
+    "title_en": null,
+    "title_jp": "最遊記RELOAD -burial-",
     "picture": "http://cdn.myanimelist.net/images/anime/5/75819.jpg",
-    "released": "2007-04-28T03:00:00.000Z",
     "synopsis": "Taking place in the past it offers a view at the Saiyuuki quartet before their formation and their journey to the west. First OVA starts with Sanzo and his master, also with Ukoku (known as a later Ni Jianyi). Second OVA shows first meeting of Goku and Sanzo. Third OVA considers the events after Hakkai's sins and his trial (that we know from first season of \"Saiyuuki\") and his decision to live in Gojyo's house.",
+    "type": "OVA",
+    "episodes": 3,
     "tags": [
         "action",
         "adventure",
@@ -27,7 +14,14 @@
         "fantasy",
         "shoujo"
     ],
-    "title": "Saiyuuki Reload: Burial",
-    "title_jp": "最遊記RELOAD -burial-",
-    "type": "OVA"
+    "released": "2007-04-28T03:00:00.000Z",
+    "characters": [
+        219,
+        217,
+        9263,
+        220,
+        218,
+        12133,
+        9469
+    ]
 }

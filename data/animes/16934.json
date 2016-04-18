@@ -1,31 +1,24 @@
 {
-    "characters": [
-        67215,
-        67215,
-        65871,
-        65871,
-        65865,
-        65865,
-        65863,
-        65863,
-        67213,
-        67213,
-        65869,
-        65869,
-        73129,
-        73129
-    ],
-    "episodes": 1,
-    "id": "16934",
+    "id": 16934,
+    "title": "Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel",
+    "title_en": "Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel",
+    "title_jp": "中二病でも恋がしたい! 煌めきの... 聖爆誕祭（スラップステック・ノエル）",
     "picture": "http://cdn.myanimelist.net/images/anime/7/45512.jpg",
-    "released": "2013-06-19T03:00:00.000Z",
-    "synopsis": "Episode 13, included in the final volume of the BD/DVD.\n\nTaking place directly after the events of \"Chuunibyou demo Koi ga Shitai!\", Christmas is coming up and Rikka is told by Nibutani that this is an opportunity for her to get closer to Yuuta. Under Makoto's suggestion, they plan a Christmas party at Sanae's Mansion.",
+    "synopsis": "Episode 13, included in the final volume of the BD/DVD.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy",
         "school"
     ],
-    "title": "Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel",
-    "title_en": "Love, Chunibyo &amp; Other Delusions!: Sparkling... Slapstick Noel",
-    "title_jp": "中二病でも恋がしたい! 煌めきの... 聖爆誕祭（スラップステック・ノエル）",
-    "type": "Special"
+    "released": "2013-06-19T03:00:00.000Z",
+    "characters": [
+        67215,
+        65871,
+        65865,
+        65863,
+        67213,
+        65869,
+        73129
+    ]
 }

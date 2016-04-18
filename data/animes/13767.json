@@ -1,36 +1,28 @@
 {
-    "characters": [
-        10769,
-        10769,
-        13884,
-        13884,
-        6039,
-        6039,
-        6040,
-        6040,
-        6041,
-        6041,
-        6037,
-        6037,
-        6042,
-        6042,
-        6038,
-        6038,
-        14824,
-        14824
-    ],
-    "episodes": 2,
-    "id": "13767",
+    "id": 13767,
+    "title": "Junjou Romantica OVA",
+    "title_en": null,
+    "title_jp": "純情ロマンチカ",
     "picture": "http://cdn.myanimelist.net/images/anime/6/60389.jpg",
-    "released": "2012-12-20T02:00:00.000Z",
     "synopsis": "OVAs that come with the limited premium edition of volumes 16 and 20 of the manga series.",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "comedy",
         "drama",
         "romance",
         "shounen_ai"
     ],
-    "title": "Junjou Romantica OVA",
-    "title_jp": "純情ロマンチカ",
-    "type": "OVA"
+    "released": "2012-12-20T02:00:00.000Z",
+    "characters": [
+        10769,
+        13884,
+        6039,
+        6040,
+        6041,
+        6037,
+        6042,
+        6038,
+        14824
+    ]
 }

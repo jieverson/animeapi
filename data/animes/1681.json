@@ -1,31 +1,12 @@
 {
-    "characters": [
-        2454,
-        2454,
-        66355,
-        66355,
-        6802,
-        6802,
-        6485,
-        6485,
-        2453,
-        2453,
-        94103,
-        94103,
-        112167,
-        112167,
-        28950,
-        28950,
-        28949,
-        28949,
-        94131,
-        94131
-    ],
-    "episodes": 1,
-    "id": "1681",
+    "id": 1681,
+    "title": "Brave Story",
+    "title_en": "Brave Story",
+    "title_jp": "ブレイブ・ストーリー",
     "picture": "http://cdn.myanimelist.net/images/anime/6/11057.jpg",
-    "released": "2006-07-08T03:00:00.000Z",
-    "synopsis": "When 11-year-old Wataru's father leaves home and his mother is taken ill to the hospital, he decides to change his fate by traveling through the door shown to him by his friend Mitsuru. In a land of magic and monsters, Wataru must summon all his courage and embark on a journey with several comrades to meet the Goddess of Destiny and change this \"mistaken fate.\"\n\n(Source: ANN)",
+    "synopsis": "When 11-year-old Wataru's father leaves home and his mother is taken ill to the hospital, he decides to change his fate by traveling through the door shown to him by his friend Mitsuru. In a land of magic and monsters, Wataru must summon all his courage and embark on a journey with several comrades to meet the Goddess of Destiny and change this \"mistaken fate.\"",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
@@ -34,8 +15,17 @@
         "magic",
         "supernatural"
     ],
-    "title": "Brave Story",
-    "title_en": "Brave Story",
-    "title_jp": "ブレイブ・ストーリー",
-    "type": "Movie"
+    "released": "2006-07-08T03:00:00.000Z",
+    "characters": [
+        2454,
+        66355,
+        6802,
+        6485,
+        2453,
+        94103,
+        112167,
+        28950,
+        28949,
+        94131
+    ]
 }

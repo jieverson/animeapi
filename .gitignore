@@ -29,3 +29,6 @@ node_modules
 # Crawlers Screenshots
 crawlers/**/*.png
 crawlers/**/*.jpg
+
+# vscode files
+.vscode

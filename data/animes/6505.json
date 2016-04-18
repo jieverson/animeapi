@@ -1,22 +1,20 @@
 {
-    "characters": [
-        26245,
-        26245,
-        26246,
-        26246,
-        135107,
-        135107
-    ],
-    "episodes": 5,
-    "id": "6505",
+    "id": 6505,
+    "title": "There She Is!!",
+    "title_en": null,
+    "title_jp": "떳다 그녀!!",
     "picture": "http://cdn.myanimelist.net/images/anime/2/29995.jpg",
-    "released": "2003-04-20T03:00:00.000Z",
-    "synopsis": "The plot revolves around Doki, a female rabbit, meeting, falling in love with, and chasing Nabi, a male cat, in a world where love between the two species is socially unacceptable. The theme of the short is that all love can be accepted and has a chance. Nabi attempts to cure Doki's infatuation for him, but after seeing the extent of her love, he gives in and finds something he can appreciate in her.\n\n(Source: Wikipedia)",
+    "synopsis": "The plot revolves around Doki, a female rabbit, meeting, falling in love with, and chasing Nabi, a male cat, in a world where love between the two species is socially unacceptable. The theme of the short is that all love can be accepted and has a chance. Nabi attempts to cure Doki's infatuation for him, but after seeing the extent of her love, he gives in and finds something he can appreciate in her.",
+    "type": "ONA",
+    "episodes": 5,
     "tags": [
         "comedy",
         "romance"
     ],
-    "title": "There She Is!!",
-    "title_jp": "떳다 그녀!!",
-    "type": "ONA"
+    "released": "2003-04-20T03:00:00.000Z",
+    "characters": [
+        26245,
+        26246,
+        135107
+    ]
 }

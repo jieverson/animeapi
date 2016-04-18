@@ -1,35 +1,27 @@
 {
-    "characters": [
-        40486,
-        40486,
-        31419,
-        31419,
-        60929,
-        60929,
-        31418,
-        31418,
-        31417,
-        31417,
-        60939,
-        60939,
-        62311,
-        62311,
-        62153,
-        62153,
-        60927,
-        60927
-    ],
-    "episodes": 1,
-    "id": "26023",
+    "id": 26023,
+    "title": "Haiyore! Nyaruko-san F",
+    "title_en": null,
+    "title_jp": "這いよれ！ニャル子さんF",
     "picture": "http://cdn.myanimelist.net/images/anime/7/73735.jpg",
-    "released": "2015-06-19T03:00:00.000Z",
-    "synopsis": "A new OVA of the light novel Haiyore! Nyaruko-san, titled Haiyore! Nyaruko-san F, has been green-lit.\n\n(Source: MAL News)",
+    "synopsis": "A new OVA of the light novel Haiyore! Nyaruko-san, titled ",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "comedy",
         "parody",
         "sci-fi"
     ],
-    "title": "Haiyore! Nyaruko-san F",
-    "title_jp": "這いよれ！ニャル子さんF",
-    "type": "OVA"
+    "released": "2015-06-19T03:00:00.000Z",
+    "characters": [
+        40486,
+        31419,
+        60929,
+        31418,
+        31417,
+        60939,
+        62311,
+        62153,
+        60927
+    ]
 }

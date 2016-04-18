@@ -1,37 +1,28 @@
 {
-    "characters": [
-        92799,
-        92799,
-        92797,
-        92797,
-        92801,
-        92801,
-        133710,
-        133710,
-        133711,
-        133711,
-        131207,
-        131207,
-        120217,
-        120217,
-        92803,
-        92803,
-        92805,
-        92805,
-        120219,
-        120219
-    ],
-    "episodes": 12,
-    "id": "28825",
+    "id": 28825,
+    "title": "Himouto! Umaru-chan",
+    "title_en": null,
+    "title_jp": "干物妹！うまるちゃん",
     "picture": "http://cdn.myanimelist.net/images/anime/12/75086.jpg",
-    "released": "2015-07-09T03:00:00.000Z",
-    "synopsis": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!\n\nHimouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of—and put up with—each other the best they can, as well as the unbreakable bonds between friends and siblings.\n\n[Written by MAL Rewrite]",
+    "synopsis": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!",
+    "type": "TV",
+    "episodes": 12,
     "tags": [
         "comedy",
         "school",
         "slice_of_life"
     ],
-    "title": "Himouto! Umaru-chan",
-    "title_jp": "干物妹！うまるちゃん",
-    "type": "TV"
+    "released": "2015-07-09T03:00:00.000Z",
+    "characters": [
+        92799,
+        92797,
+        92801,
+        133710,
+        133711,
+        131207,
+        120217,
+        92803,
+        92805,
+        120219
+    ]
 }

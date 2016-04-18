@@ -1,17 +1,17 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "1047",
+    "id": 1047,
+    "title": "On Your Mark",
+    "title_en": "On Your Mark",
+    "title_jp": "On Your Mark CHAGE & ASKA",
     "picture": "http://cdn.myanimelist.net/images/anime/12/77788.jpg",
-    "released": "1995-07-15T03:00:00.000Z",
-    "synopsis": "In the future, mankind can no longer live on the ground due to intense radiation, both from the sun and from an abandoned nuclear plant. One day, a group of special police raided a religious cult compound, and after a fierce firefight two policemen found a winged mutant girl, with chains on her arms, barely alive. However, government scientists dressed in hazardous material suits immediately intervened and brought her back to a research facility. Realizing they were merely transferring her from one prison to another, those two policemen formulated a daring plan to set her free once and for all. \n\n(Source: ANN)\n\nThis is a music video created by Hayao Miyazaki for the pop music duo Chage & Aska (after whom the two police officers are modeled).",
+    "synopsis": "In the future, mankind can no longer live on the ground due to intense radiation, both from the sun and from an abandoned nuclear plant. One day, a group of special police raided a religious cult compound, and after a fierce firefight two policemen found a winged mutant girl, with chains on her arms, barely alive. However, government scientists dressed in hazardous material suits immediately intervened and brought her back to a research facility. Realizing they were merely transferring her from one prison to another, those two policemen formulated a daring plan to set her free once and for all. ",
+    "type": "Music",
+    "episodes": 1,
     "tags": [
         "drama",
         "music",
         "sci-fi"
     ],
-    "title": "On Your Mark",
-    "title_en": "On Your Mark",
-    "title_jp": "On Your Mark CHAGE &amp; ASKA",
-    "type": "Music"
+    "released": "1995-07-15T03:00:00.000Z",
+    "characters": []
 }

@@ -1,38 +1,27 @@
 {
-    "characters": [
-        57899,
-        57899,
-        57907,
-        57907,
-        57909,
-        57909,
-        57897,
-        57897,
-        57905,
-        57905,
-        57903,
-        57903,
-        57911,
-        57911,
-        73777,
-        73777,
-        57901,
-        57901,
-        57915,
-        57915,
-        57913,
-        57913
-    ],
-    "episodes": 1,
-    "id": "10389",
-    "picture": "http://cdn.myanimelist.net/images/anime/2/43557.jpg",
-    "released": "2011-09-10T03:00:00.000Z",
-    "synopsis": "Momo is a young girl who grew up in a big city. However, following the premature loss of her father, she has to move with her mother to the old family house on a remote island. Here, time seems to have stopped: old wooden buildings, holy shrines surrounded by trees, fields painstakingly carved out from steep hills... and no shopping mall. \n\nNeedless to say, Momo is not too overenthusiastic about this new environment. Most of all, her heart is still feeling uneasy about an unfinished letter left by her father. A letter that contained only two words: \"Dear Momo...\" \n\nWhat was dad going to say? \n\nOne day, exploring the attic of her new big house, Momo finds a dusty and worn out book. And from that moment, something really unexpected starts happening around her... \n\n(Source: Production I.G Official Website)",
-    "tags": [
-        "drama"
-    ],
+    "id": 10389,
     "title": "Momo e no Tegami",
     "title_en": "A Letter to Momo",
     "title_jp": "ももへの手紙",
-    "type": "Movie"
+    "picture": "http://cdn.myanimelist.net/images/anime/2/43557.jpg",
+    "synopsis": "Momo is a young girl who grew up in a big city. However, following the premature loss of her father, she has to move with her mother to the old family house on a remote island. Here, time seems to have stopped: old wooden buildings, holy shrines surrounded by trees, fields painstakingly carved out from steep hills... and no shopping mall. ",
+    "type": "Movie",
+    "episodes": 1,
+    "tags": [
+        "drama"
+    ],
+    "released": "2011-09-10T03:00:00.000Z",
+    "characters": [
+        57899,
+        57907,
+        57909,
+        57897,
+        57905,
+        57903,
+        57911,
+        73777,
+        57901,
+        57915,
+        57913
+    ]
 }

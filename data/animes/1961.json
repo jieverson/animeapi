@@ -1,34 +1,27 @@
 {
-    "characters": [
-        5714,
-        5714,
-        5717,
-        5717,
-        5722,
-        5722,
-        5725,
-        5725,
-        5719,
-        5719,
-        5718,
-        5718,
-        5720,
-        5720,
-        5723,
-        5723
-    ],
-    "episodes": 1,
-    "id": "1961",
+    "id": 1961,
+    "title": "Arashi no Yoru ni",
+    "title_en": null,
+    "title_jp": "あらしのよるに",
     "picture": "http://cdn.myanimelist.net/images/anime/9/5064.jpg",
-    "released": "2005-12-10T02:00:00.000Z",
-    "synopsis": "A story about a goat and a wolf who become friends in a stormy night, and how they overcome differences and hardships. \n\n(Source: ANN)",
+    "synopsis": " A story about a goat and a wolf who become friends in a stormy night, and how they overcome differences and hardships. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
         "drama",
         "fantasy"
     ],
-    "title": "Arashi no Yoru ni",
-    "title_jp": "あらしのよるに",
-    "type": "Movie"
+    "released": "2005-12-10T02:00:00.000Z",
+    "characters": [
+        5714,
+        5717,
+        5722,
+        5725,
+        5719,
+        5718,
+        5720,
+        5723
+    ]
 }

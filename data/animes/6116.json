@@ -1,27 +1,22 @@
 {
-    "characters": [
-        23146,
-        23146,
-        23141,
-        23141,
-        21726,
-        21726,
-        21725,
-        21725,
-        23579,
-        23579
-    ],
-    "episodes": 142,
-    "id": "6116",
+    "id": 6116,
+    "title": "Mainichi Kaasan",
+    "title_en": "Kaasan - Mom's Life",
+    "title_jp": "毎日かあさん",
     "picture": "http://cdn.myanimelist.net/images/anime/4/70931.jpg",
-    "released": "2009-04-01T03:00:00.000Z",
     "synopsis": "Based on Rieko Saibara's humorous semi-autobiographical manga about her life raising her two children.",
+    "type": "TV",
+    "episodes": 142,
     "tags": [
         "comedy",
         "slice_of_life"
     ],
-    "title": "Mainichi Kaasan",
-    "title_en": "Kaasan - Mom's Life",
-    "title_jp": "毎日かあさん",
-    "type": "TV"
+    "released": "2009-04-01T03:00:00.000Z",
+    "characters": [
+        23146,
+        23141,
+        21726,
+        21725,
+        23579
+    ]
 }

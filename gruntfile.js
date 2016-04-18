@@ -2,7 +2,7 @@ module.exports = function(grunt) {
   // Project configuration.
   grunt.initConfig({
     jshint: {
-      files: ['*.js', 'lib/**/*.js', 'tests/**/*.js', 'crawlers/**/*.js']
+      files: ['*.js', 'lib/**/*.js', 'tests/**/*.js', 'bots/**/*.js']
     },
     nodeunit: {
       files: ['tests/*_test.js']

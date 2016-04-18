@@ -1,24 +1,22 @@
 {
-    "characters": [
-        14639,
-        14639,
-        14640,
-        14640,
-        34081,
-        34081
-    ],
-    "episodes": 3,
-    "id": "1462",
+    "id": 1462,
+    "title": "Memories",
+    "title_en": null,
+    "title_jp": "メモリーズ",
     "picture": "http://cdn.myanimelist.net/images/anime/9/74781.jpg",
-    "released": "1995-12-23T02:00:00.000Z",
-    "synopsis": "From Katsuhiro Otomo, acclaimed creator of Akira, comes an animated masterpiece: three short stories all put together as a series of Memories. Part one is titled Magnetic Rose, a science fiction tale that tells a chilling story of love, loss, and the unwillingness to forget. Part two is titled Stink Bomb, a tongue-in-cheek story of a chemical researcher who is just looking for a way to get rid of his cold... so why is everybody around him dying? Part three is titled Cannon Fodder and is an introspective tale about modern wars and simply following orders. Music conducted by Yoko Kanno, Jun Miyake, Hiroyuki Nagashima, and Takkyu Ishino.\n\n(Source: AniDB, edited)",
+    "synopsis": "From Katsuhiro Otomo, acclaimed creator of Akira, comes an animated masterpiece: three short stories all put together as a series of Memories. Part one is titled Magnetic Rose, a science fiction tale that tells a chilling story of love, loss, and the unwillingness to forget. Part two is titled Stink Bomb, a tongue-in-cheek story of a chemical researcher who is just looking for a way to get rid of his cold... so why is everybody around him dying? Part three is titled Cannon Fodder and is an introspective tale about modern wars and simply following orders. Music conducted by Yoko Kanno, Jun Miyake, Hiroyuki Nagashima, and Takkyu Ishino.",
+    "type": "Movie",
+    "episodes": 3,
     "tags": [
         "drama",
         "horror",
         "psychological",
         "sci-fi"
     ],
-    "title": "Memories",
-    "title_jp": "メモリーズ",
-    "type": "Movie"
+    "released": "1995-12-23T02:00:00.000Z",
+    "characters": [
+        14639,
+        14640,
+        34081
+    ]
 }

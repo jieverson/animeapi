@@ -1,36 +1,28 @@
 {
-    "characters": [
-        41026,
-        41026,
-        41025,
-        41025,
-        58681,
-        58681,
-        43089,
-        43089,
-        43087,
-        43087,
-        43088,
-        43088,
-        112097,
-        112097,
-        90903,
-        90903,
-        112095,
-        112095
-    ],
-    "episodes": 2,
-    "id": "24151",
+    "id": 24151,
+    "title": "Ao Haru Ride OVA",
+    "title_en": null,
+    "title_jp": "アオハライド OAD",
     "picture": "http://cdn.myanimelist.net/images/anime/9/69517.jpg",
-    "released": "2014-08-25T03:00:00.000Z",
-    "synopsis": "\"Unwritten\" - An episode about Futaba and Kou in middle school. Based on the chapter called \"Unwritten.\" also known as chapter 0 or Prologue.\n\n\"Page.13\" - An episode that continues the story after the television series's 12th and final episode.\n\n(Source: sakisaka10)",
+    "synopsis": "\"Unwritten\" - An episode about Futaba and Kou in middle school. Based on the chapter called \"Unwritten.\" also known as chapter 0 or Prologue.",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "romance",
         "school",
         "shoujo",
         "slice_of_life"
     ],
-    "title": "Ao Haru Ride OVA",
-    "title_jp": "アオハライド OAD",
-    "type": "OVA"
+    "released": "2014-08-25T03:00:00.000Z",
+    "characters": [
+        41026,
+        41025,
+        58681,
+        43089,
+        43087,
+        43088,
+        112097,
+        90903,
+        112095
+    ]
 }

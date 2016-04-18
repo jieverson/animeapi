@@ -1,33 +1,26 @@
 {
-    "characters": [
-        63495,
-        63495,
-        66335,
-        66335,
-        66341,
-        66341,
-        37492,
-        37492,
-        37491,
-        37491,
-        66337,
-        66337,
-        49741,
-        49741,
-        37480,
-        37480
-    ],
-    "episodes": 1,
-    "id": "14123",
+    "id": 14123,
+    "title": "Pokemon Black and White 2: Introduction Movie",
+    "title_en": null,
+    "title_jp": "ポケットモンスターブラック２・ホワイト２",
     "picture": "http://cdn.myanimelist.net/images/anime/3/56333.jpg",
-    "released": "2012-05-16T03:00:00.000Z",
     "synopsis": "Promotional short for Pokemon Black and White 2.",
+    "type": "ONA",
+    "episodes": 1,
     "tags": [
         "action",
         "fantasy",
         "kids"
     ],
-    "title": "Pokemon Black and White 2: Introduction Movie",
-    "title_jp": "ポケットモンスターブラック２・ホワイト２",
-    "type": "ONA"
+    "released": "2012-05-16T03:00:00.000Z",
+    "characters": [
+        63495,
+        66335,
+        66341,
+        37492,
+        37491,
+        66337,
+        49741,
+        37480
+    ]
 }

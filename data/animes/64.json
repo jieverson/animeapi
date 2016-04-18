@@ -1,33 +1,12 @@
 {
-    "characters": [
-        1108,
-        1108,
-        5618,
-        5618,
-        1073,
-        1073,
-        1107,
-        1107,
-        1072,
-        1072,
-        1105,
-        1105,
-        13367,
-        13367,
-        10680,
-        10680,
-        5619,
-        5619,
-        43505,
-        43505,
-        43504,
-        43504
-    ],
-    "episodes": 12,
-    "id": "64",
+    "id": 64,
+    "title": "Rozen Maiden",
+    "title_en": null,
+    "title_jp": "ローゼンメイデン",
     "picture": "http://cdn.myanimelist.net/images/anime/2/15728.jpg",
-    "released": "2004-10-08T03:00:00.000Z",
     "synopsis": "Sakurada Jun spends his days online, ordering whatever he takes a liking to, only to return it before the payment is due. Due to psychological trauma from school, Jun generally keeps contact with people as little as possible. One day he finds instructions online that tell him to put his order into his desk drawer. Rubbing it off as a joke, Jun mindlessly does so only to find that his order instantly disappears from his drawer. A package suddenly appears, containing a beautiful antique doll. When wound up, this doll comes to life. Sadly for Jun, this doll Shinku views Jun as an equivalent for a servant. Despite the constant demands Jun now receives from Shinku, she slowly helps him overcome his fears of human contact as well as protect him from the deadly battles that come into his life due to her appearance. Based on the manga by PEACH-PIT.",
+    "type": "TV",
+    "episodes": 12,
     "tags": [
         "action",
         "comedy",
@@ -35,7 +14,18 @@
         "magic",
         "seinen"
     ],
-    "title": "Rozen Maiden",
-    "title_jp": "ローゼンメイデン",
-    "type": "TV"
+    "released": "2004-10-08T03:00:00.000Z",
+    "characters": [
+        1108,
+        5618,
+        1073,
+        1107,
+        1072,
+        1105,
+        13367,
+        10680,
+        5619,
+        43505,
+        43504
+    ]
 }

@@ -1,29 +1,12 @@
 {
-    "characters": [
-        2756,
-        2756,
-        12938,
-        12938,
-        9014,
-        9014,
-        55549,
-        55549,
-        55555,
-        55555,
-        12939,
-        12939,
-        11076,
-        11076,
-        55547,
-        55547,
-        57631,
-        57631
-    ],
-    "episodes": 1,
-    "id": "2454",
+    "id": 2454,
+    "title": "Kimagure Orange☆Road: Ano Hi ni Kaeritai",
+    "title_en": null,
+    "title_jp": "きまぐれオレンジ★ロード　あの日にかえりたい",
     "picture": "http://cdn.myanimelist.net/images/anime/13/76352.jpg",
-    "released": "1988-10-01T03:00:00.000Z",
-    "synopsis": "After the TV-series of Kimagure Orange Road, Kyosuke and Madoka have finally arrived at the point where they are close to graduation and have to decide where they want to go to college. Naturally, they want to go together, so beside all the studying they also have to look for a proper college where they can enter both.\n\nHikaru, still a year from graduating, wants to support Kyosuke as well and does that in her own way. But while she does that, Madoka feels jealous and tells her feelings to Kyosuke.\n\nAnd then Kyosuke has to take action to finally decide on the girl he loves... thus concluding the story of the Kimagure Orange Road.\n\n(Source: AniDB)",
+    "synopsis": "After the TV-series of Kimagure Orange Road, Kyosuke and Madoka have finally arrived at the point where they are close to graduation and have to decide where they want to go to college. Naturally, they want to go together, so beside all the studying they also have to look for a proper college where they can enter both.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "comedy",
         "drama",
@@ -31,7 +14,16 @@
         "shounen",
         "slice_of_life"
     ],
-    "title": "Kimagure Orange☆Road: Ano Hi ni Kaeritai",
-    "title_jp": "きまぐれオレンジ★ロード　あの日にかえりたい",
-    "type": "Movie"
+    "released": "1988-10-01T03:00:00.000Z",
+    "characters": [
+        2756,
+        12938,
+        9014,
+        55549,
+        55555,
+        12939,
+        11076,
+        55547,
+        57631
+    ]
 }

@@ -1,21 +1,12 @@
 {
-    "characters": [
-        2653,
-        2653,
-        1795,
-        1795,
-        18516,
-        18516,
-        2654,
-        2654,
-        2677,
-        2677
-    ],
-    "episodes": 1,
-    "id": "4672",
+    "id": 4672,
+    "title": "Ghost in the Shell 2.0",
+    "title_en": "Ghost in the Shell 2.0",
+    "title_jp": "攻殻機動隊2.0",
     "picture": "http://cdn.myanimelist.net/images/anime/3/75608.jpg",
-    "released": "2008-07-12T03:00:00.000Z",
-    "synopsis": "Mamoru Oshii's first Ghost in the Shell cyberspace film will return to five Japanese theaters in an enhanced Ghost in the Shell 2.0 edition on July 12. The new edition will include new computer graphics and digital effects for some scenes and a reunion of most of the cast members for a new 6.1 surround sound recording. Academy-Award-winning sound mixer/editor Randy Thom (Ghost in the Shell 2: Innocence, The Incredibles, The Right Stuff) has overseen the new soundtrack with Kenji Kawai's original music and a final mix that has been produced at Thom and Lucas Digital's Skywalker Sound studio in California.\n\nIn the new edition, the enigmatic Puppet Master character will be played by Yoshiko Sakakibara (Ghost in the Shell 2: Innocence's Harraway, Ghost in the Shell: Stand Alone Complex's Prime Minister Yoko Kayabuki). Iemasa Kayumi (Giant Robo's Chief Chuujou Shizuo, RahXephon's Ernst Von Bähbem) played the role in the original edition.\n\nThe film will screen in Tokyo, Osaka, Nagoya, Fukuoka, and Sapporo. Not coincidentally, Oshii's latest film, The Sky Crawlers, will open one month after Ghost in the Shell 2.0 on August 2. \n\n(Source: ANN)",
+    "synopsis": "Mamoru Oshii's first Ghost in the Shell cyberspace film will return to five Japanese theaters in an enhanced Ghost in the Shell 2.0 edition on July 12. The new edition will include new computer graphics and digital effects for some scenes and a reunion of most of the cast members for a new 6.1 surround sound recording. Academy-Award-winning sound mixer/editor Randy Thom (Ghost in the Shell 2: Innocence, The Incredibles, The Right Stuff) has overseen the new soundtrack with Kenji Kawai's original music and a final mix that has been produced at Thom and Lucas Digital's Skywalker Sound studio in California.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "mecha",
@@ -23,8 +14,12 @@
         "psychological",
         "sci-fi"
     ],
-    "title": "Ghost in the Shell 2.0",
-    "title_en": "Ghost in the Shell 2.0",
-    "title_jp": "攻殻機動隊2.0",
-    "type": "Movie"
+    "released": "2008-07-12T03:00:00.000Z",
+    "characters": [
+        2653,
+        1795,
+        18516,
+        2654,
+        2677
+    ]
 }

@@ -1,23 +1,12 @@
 {
-    "characters": [
-        3725,
-        3725,
-        8432,
-        8432,
-        8431,
-        8431,
-        8433,
-        8433,
-        8434,
-        8434,
-        8430,
-        8430
-    ],
-    "episodes": 1,
-    "id": "1033",
+    "id": 1033,
+    "title": "Sennen Joyuu",
+    "title_en": "Millennium Actress",
+    "title_jp": "千年女優",
     "picture": "http://cdn.myanimelist.net/images/anime/1/1033.jpg",
-    "released": "2001-09-14T03:00:00.000Z",
-    "synopsis": "At the turn of the millennium, Ginei Studio's dilapidated buildings are set to be demolished. Ex-employee and filmmaker Genya Tachibana decides to honor this occasion with a commemorative documentary about the company's star actress: Chiyoko Fujiwara, the reclusive sweetheart of Shouwa Era cinema. Having finally obtained permission to interview the retired starlet, an enamored Genya drags along cynical cameraman Kyouji Ida to meet her, ready to put his lifelong idol back in the spotlight once more.\n\nHidden in this secluded mountain retreat is a thousand years of history condensed into one lifetime, waiting to be narrated. Chiyoko's recollections take them on an illusionary journey through Japanese cinematic history that transcends the boundaries of reality; the saga of her acting career intertwines with her filmography, the actors in her life blend seamlessly with the characters on screen, and the present melds with the past. Though the actress may have retired at the height of her career 30 years ago, the curtain on her life's stage has yet to fall.\n\n[Written by MAL Rewrite]",
+    "synopsis": "At the turn of the millennium, Ginei Studio's dilapidated buildings are set to be demolished. Ex-employee and filmmaker Genya Tachibana decides to honor this occasion with a commemorative documentary about the company's star actress: Chiyoko Fujiwara, the reclusive sweetheart of Shouwa Era cinema. Having finally obtained permission to interview the retired starlet, an enamored Genya drags along cynical cameraman Kyouji Ida to meet her, ready to put his lifelong idol back in the spotlight once more.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
@@ -26,8 +15,13 @@
         "historical",
         "romance"
     ],
-    "title": "Sennen Joyuu",
-    "title_en": "Millennium Actress",
-    "title_jp": "千年女優",
-    "type": "Movie"
+    "released": "2001-09-14T03:00:00.000Z",
+    "characters": [
+        3725,
+        8432,
+        8431,
+        8433,
+        8434,
+        8430
+    ]
 }

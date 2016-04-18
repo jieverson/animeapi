@@ -1,32 +1,26 @@
 {
-    "characters": [
-        50795,
-        50795,
-        42002,
-        42002,
-        38730,
-        38730,
-        68819,
-        68819,
-        30049,
-        30049,
-        30050,
-        30050,
-        41535,
-        41535
-    ],
-    "episodes": 1,
-    "id": "20371",
+    "id": 20371,
+    "title": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+    "title_en": null,
+    "title_jp": "劇場版 世界一初恋 横澤隆史の場合",
     "picture": "http://cdn.myanimelist.net/images/anime/11/65927.jpg",
-    "released": "2014-03-15T03:00:00.000Z",
     "synopsis": "Movie adaptation of the Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai BL light novel.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "comedy",
         "drama",
         "romance",
         "shounen_ai"
     ],
-    "title": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
-    "title_jp": "劇場版 世界一初恋 横澤隆史の場合",
-    "type": "Movie"
+    "released": "2014-03-15T03:00:00.000Z",
+    "characters": [
+        50795,
+        42002,
+        38730,
+        68819,
+        30049,
+        30050,
+        41535
+    ]
 }

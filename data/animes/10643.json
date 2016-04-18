@@ -1,34 +1,27 @@
 {
-    "characters": [
-        2650,
-        2650,
-        674,
-        674,
-        1533,
-        1533,
-        2943,
-        2943,
-        2282,
-        2282,
-        672,
-        672,
-        673,
-        673,
-        4653,
-        4653
-    ],
-    "episodes": 1,
-    "id": "10643",
+    "id": 10643,
+    "title": "Gintama: Dai Hanseikai",
+    "title_en": null,
+    "title_jp": "アニメ銀魂　大反省会",
     "picture": "http://cdn.myanimelist.net/images/anime/7/29295.jpg",
-    "released": "2010-03-25T03:00:00.000Z",
     "synopsis": "Some of the characters get together and talk about \"regrets\" they have after 4 years of anime Gintama. Soon they fight over who gets more screen time. Special of the Gintama Harumatsuri live event.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "action",
         "comedy",
         "parody",
         "samurai"
     ],
-    "title": "Gintama: Dai Hanseikai",
-    "title_jp": "アニメ銀魂　大反省会",
-    "type": "Special"
+    "released": "2010-03-25T03:00:00.000Z",
+    "characters": [
+        2650,
+        674,
+        1533,
+        2943,
+        2282,
+        672,
+        673,
+        4653
+    ]
 }

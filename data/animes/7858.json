@@ -1,27 +1,12 @@
 {
-    "characters": [
-        21150,
-        21150,
-        23491,
-        23491,
-        23496,
-        23496,
-        23490,
-        23490,
-        37553,
-        37553,
-        37696,
-        37696,
-        23495,
-        23495,
-        23494,
-        23494
-    ],
-    "episodes": 1,
-    "id": "7858",
+    "id": 7858,
+    "title": "Sora no Otoshimono: Project Pink",
+    "title_en": "Heaven's Lost Property OVA",
+    "title_jp": "そらのおとしもの プロジェクト桃源郷[ピンク]",
     "picture": "http://cdn.myanimelist.net/images/anime/2/19135.jpg",
-    "released": "2010-09-09T03:00:00.000Z",
-    "synopsis": "The gang goes to an indoor swimming pool for some fun in the sun. As expected, all hell breaks loose when Tomoki goes on one of his perverted missions.\n\nMeanwhile, Nymph is having some issues with the loss of her master and considers asking Tomoki to be her replacement master.\n\nThis episode was not aired on TV because it was deemed too dangerous...",
+    "synopsis": "The gang goes to an indoor swimming pool for some fun in the sun.  As expected, all hell breaks loose when Tomoki goes on one of his perverted missions.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "comedy",
         "ecchi",
@@ -30,8 +15,15 @@
         "shounen",
         "supernatural"
     ],
-    "title": "Sora no Otoshimono: Project Pink",
-    "title_en": "Heaven's Lost Property OVA",
-    "title_jp": "そらのおとしもの プロジェクト桃源郷[ピンク]",
-    "type": "OVA"
+    "released": "2010-09-09T03:00:00.000Z",
+    "characters": [
+        21150,
+        23491,
+        23496,
+        23490,
+        37553,
+        37696,
+        23495,
+        23494
+    ]
 }

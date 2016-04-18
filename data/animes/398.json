@@ -1,19 +1,12 @@
 {
-    "characters": [
-        3131,
-        3131,
-        3130,
-        3130,
-        20180,
-        20180,
-        16417,
-        16417
-    ],
-    "episodes": 2,
-    "id": "398",
+    "id": 398,
+    "title": "Seikai no Senki III",
+    "title_en": null,
+    "title_jp": "星界の戦旗 III",
     "picture": "http://cdn.myanimelist.net/images/anime/11/2755.jpg",
-    "released": "2005-08-06T03:00:00.000Z",
-    "synopsis": "Jinto and Lafiel were riding on a light-armed transport ship \"Bokbrusue\" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, \"Daiichi Jyuurin Sentai\" (the First Devastation Fleet), formed with the new ship type \"Attack Vessel\", travelled to the Hyde System for drilling practices, but... \n\n(Source: ANN)",
+    "synopsis": "Jinto and Lafiel were riding on a light-armed transport ship \"Bokbrusue\" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, \"Daiichi Jyuurin Sentai\" (the First Devastation Fleet), formed with the new ship type \"Attack Vessel\", travelled to the Hyde System for drilling practices, but... ",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "action",
         "military",
@@ -21,7 +14,11 @@
         "sci-fi",
         "space"
     ],
-    "title": "Seikai no Senki III",
-    "title_jp": "星界の戦旗 III",
-    "type": "OVA"
+    "released": "2005-08-06T03:00:00.000Z",
+    "characters": [
+        3131,
+        3130,
+        20180,
+        16417
+    ]
 }

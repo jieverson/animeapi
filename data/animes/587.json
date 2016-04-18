@@ -1,36 +1,27 @@
 {
-    "characters": [
-        5028,
-        5028,
-        5027,
-        5027,
-        92825,
-        92825,
-        20890,
-        20890,
-        5034,
-        5034,
-        10327,
-        10327,
-        16577,
-        16577,
-        5033,
-        5033,
-        20889,
-        20889
-    ],
-    "episodes": 6,
-    "id": "587",
+    "id": 587,
+    "title": "Hanbun no Tsuki ga Noboru Sora",
+    "title_en": "Looking Up At The Half-Moon",
+    "title_jp": "半分の月がのぼる空",
     "picture": "http://cdn.myanimelist.net/images/anime/10/75201.jpg",
-    "released": "2006-01-13T02:00:00.000Z",
-    "synopsis": "After contracting hepatitis A, Ezaki Yuuichi has been confined to a hospital, away from his friends and family, much to his displeasure. To relieve his boredom, he has taken to sneaking out of the hospital, usually putting himself on the receiving end of a beating from his nurse. Upon meeting a girl his age also staying in the hospital, he is immediately captivated by her beauty. Akiba Rika's personality is not quite as captivating as her beauty however. In fact, she is rather selfish, moody, and bossy. But as the two spend more time with each other, they become closer, sharing the ordinary joys and trials of a budding teenage romance, even when darkened with impending tragedy—for Rika's condition does not leave her much longer to live.\n\n[Written by MAL Rewrite]",
+    "synopsis": "After contracting hepatitis A, Ezaki Yuuichi has been confined to a hospital, away from his friends and family, much to his displeasure. To relieve his boredom, he has taken to sneaking out of the hospital, usually putting himself on the receiving end of a beating from his nurse. Upon meeting a girl his age also staying in the hospital, he is immediately captivated by her beauty. Akiba Rika's personality is not quite as captivating as her beauty however. In fact, she is rather selfish, moody, and bossy. But as the two spend more time with each other, they become closer, sharing the ordinary joys and trials of a budding teenage romance, even when darkened with impending tragedy—for Rika's condition does not leave her much longer to live.",
+    "type": "TV",
+    "episodes": 6,
     "tags": [
         "comedy",
         "drama",
         "romance"
     ],
-    "title": "Hanbun no Tsuki ga Noboru Sora",
-    "title_en": "Looking Up At The Half-Moon",
-    "title_jp": "半分の月がのぼる空",
-    "type": "TV"
+    "released": "2006-01-13T02:00:00.000Z",
+    "characters": [
+        5028,
+        5027,
+        92825,
+        20890,
+        5034,
+        10327,
+        16577,
+        5033,
+        20889
+    ]
 }

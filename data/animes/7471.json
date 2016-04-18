@@ -1,10 +1,12 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "7471",
+    "id": 7471,
+    "title": "Detective Conan Movie 09: Promo Special",
+    "title_en": null,
+    "title_jp": "名探偵コナン 水平線上の陰謀",
     "picture": "http://cdn.myanimelist.net/images/anime/6/25397.jpg",
-    "released": "2005-01-01T00:00:00.000Z",
     "synopsis": "A promotional preview summary of the events in Detective Conan Movie 09: Strategy Above the Depths. Aired before the movie.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -12,7 +14,6 @@
         "police",
         "shounen"
     ],
-    "title": "Detective Conan Movie 09: Promo Special",
-    "title_jp": "名探偵コナン 水平線上の陰謀",
-    "type": "Special"
+    "released": "2005-01-01T00:00:00.000Z",
+    "characters": []
 }

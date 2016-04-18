@@ -1,33 +1,12 @@
 {
-    "characters": [
-        1742,
-        1742,
-        1743,
-        1743,
-        1748,
-        1748,
-        28485,
-        28485,
-        1745,
-        1745,
-        4251,
-        4251,
-        1746,
-        1746,
-        1749,
-        1749,
-        3198,
-        3198,
-        4252,
-        4252,
-        4228,
-        4228
-    ],
-    "episodes": 1,
-    "id": "6438",
+    "id": 6438,
+    "title": "Detective Conan OVA 09: The Stranger in 10 Years...",
+    "title_en": null,
+    "title_jp": "名探偵コナン～10年後の異邦人[ストレンジャー]～",
     "picture": "http://cdn.myanimelist.net/images/anime/5/14746.jpg",
-    "released": "2009-06-17T03:00:00.000Z",
     "synopsis": "This OVA takes place ten years in the future and chronicles the possible events if Conan Edogawa and Ai Haibara do not take the antidote to APTX 4869 and grow up alongside their friends Genta, Mitsuhiko, and Ayumi, while still maintaining their detective endeavors.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -35,7 +14,18 @@
         "police",
         "shounen"
     ],
-    "title": "Detective Conan OVA 09: The Stranger in 10 Years...",
-    "title_jp": "名探偵コナン～10年後の異邦人[ストレンジャー]～",
-    "type": "OVA"
+    "released": "2009-06-17T03:00:00.000Z",
+    "characters": [
+        1742,
+        1743,
+        1748,
+        28485,
+        1745,
+        4251,
+        1746,
+        1749,
+        3198,
+        4252,
+        4228
+    ]
 }

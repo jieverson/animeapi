@@ -1,17 +1,12 @@
 {
-    "characters": [
-        425,
-        425,
-        131852,
-        131852,
-        138855,
-        138855
-    ],
-    "episodes": 1,
-    "id": "28957",
+    "id": 28957,
+    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "title_en": null,
+    "title_jp": "蟲師 続章: 鈴の雫",
     "picture": "http://cdn.myanimelist.net/images/anime/9/72689.jpg",
-    "released": "2015-05-16T03:00:00.000Z",
     "synopsis": "Adaptation of the last arc of the manga's final volume.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "fantasy",
@@ -21,7 +16,10 @@
         "slice_of_life",
         "supernatural"
     ],
-    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
-    "title_jp": "蟲師 続章: 鈴の雫",
-    "type": "Movie"
+    "released": "2015-05-16T03:00:00.000Z",
+    "characters": [
+        425,
+        131852,
+        138855
+    ]
 }

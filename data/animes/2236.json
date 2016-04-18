@@ -1,37 +1,28 @@
 {
-    "characters": [
-        2530,
-        2530,
-        2531,
-        2531,
-        2532,
-        2532,
-        16605,
-        16605,
-        22928,
-        22928,
-        16604,
-        16604,
-        16631,
-        16631,
-        28922,
-        28922,
-        24227,
-        24227
-    ],
-    "episodes": 1,
-    "id": "2236",
+    "id": 2236,
+    "title": "Toki wo Kakeru Shoujo",
+    "title_en": "The Girl Who Leapt Through Time",
+    "title_jp": "時をかける少女",
     "picture": "http://cdn.myanimelist.net/images/anime/1/2432.jpg",
-    "released": "2006-07-15T03:00:00.000Z",
-    "synopsis": "The power to travel through time... It can be used for the good of humanity, or just selfishly abused. While many may fantasize about obtaining such a power, it has become nothing less than reality for otherwise-normal schoolgirl Konno Makoto.\n\nAfter a fated event, her life takes a turn for the extraordinary. Though she initially uses her power to literally \"leap\" into the past and change little things in order to make her life easier, she soon has to face the fact that changing the past can have drastic consequences.\n\n[Written by MAL Rewrite]",
+    "synopsis": "The power to travel through time... It can be used for the good of humanity, or just selfishly abused. While many may fantasize about obtaining such a power, it has become nothing less than reality for otherwise-normal schoolgirl Konno Makoto.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "drama",
         "romance",
         "sci-fi"
     ],
-    "title": "Toki wo Kakeru Shoujo",
-    "title_en": "The Girl Who Leapt Through Time",
-    "title_jp": "時をかける少女",
-    "type": "Movie"
+    "released": "2006-07-15T03:00:00.000Z",
+    "characters": [
+        2530,
+        2531,
+        2532,
+        16605,
+        22928,
+        16604,
+        16631,
+        28922,
+        24227
+    ]
 }

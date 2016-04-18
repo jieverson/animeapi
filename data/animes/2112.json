@@ -1,30 +1,24 @@
 {
-    "characters": [
-        3356,
-        3356,
-        3354,
-        3354,
-        2935,
-        2935,
-        3355,
-        3355,
-        3357,
-        3357,
-        8958,
-        8958,
-        8957,
-        8957
-    ],
-    "episodes": 26,
-    "id": "2112",
+    "id": 2112,
+    "title": "Over Drive",
+    "title_en": null,
+    "title_jp": "オーバードライヴ",
     "picture": "http://cdn.myanimelist.net/images/anime/11/23588.jpg",
-    "released": "2007-04-04T03:00:00.000Z",
-    "synopsis": "Tour de France, it is the biggest bicycle race in the world. Now, a new achievement is about to be recorded in the history of Tour de France. The top racer is a Japanese boy named Shinozaki Mikoto.\n\n\"Why don't you join our bicycle club?\" said Fukazawa, Shinozaki Mikoto's secret love.\n\nUnfortunately, despite being a high school student, he doesn't know how to ride a bike. With no real idea of what the bicycle club is, he earnestly practices. After he overcomes this challenge, while he pedals along, something that was smoldering in his mind for 15 years ignites.\n\n\"I want to devote myself to bike riding.\"\n\nExperiencing failure with his friends and rivals, he pedals towards becoming the top racer.\n\n(Source: AnimeNfo)",
+    "synopsis": "Tour de France, it is the biggest bicycle race in the world. Now, a new achievement is about to be recorded in the history of Tour de France. The top racer is a Japanese boy named Shinozaki Mikoto.",
+    "type": "TV",
+    "episodes": 26,
     "tags": [
         "shounen",
         "sports"
     ],
-    "title": "Over Drive",
-    "title_jp": "オーバードライヴ",
-    "type": "TV"
+    "released": "2007-04-04T03:00:00.000Z",
+    "characters": [
+        3356,
+        3354,
+        2935,
+        3355,
+        3357,
+        8958,
+        8957
+    ]
 }

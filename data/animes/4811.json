@@ -1,29 +1,23 @@
 {
-    "characters": [
-        574,
-        574,
-        572,
-        572,
-        571,
-        571,
-        570,
-        570,
-        573,
-        573,
-        21090,
-        21090
-    ],
-    "episodes": 2,
-    "id": "4811",
+    "id": 4811,
+    "title": "Ichigo Mashimaro Encore",
+    "title_en": "Strawberry Marshmallow Encore",
+    "title_jp": "苺ましまろencore",
     "picture": "http://cdn.myanimelist.net/images/anime/12/14251.jpg",
-    "released": "2009-01-23T02:00:00.000Z",
     "synopsis": "Ichigo Mashimaro encore is a two-episode OVA continues onwards from the previous set of OVAs of Ichigo Mashimaro.",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "comedy",
         "slice_of_life"
     ],
-    "title": "Ichigo Mashimaro Encore",
-    "title_en": "Strawberry Marshmallow Encore",
-    "title_jp": "苺ましまろencore",
-    "type": "OVA"
+    "released": "2009-01-23T02:00:00.000Z",
+    "characters": [
+        574,
+        572,
+        571,
+        570,
+        573,
+        21090
+    ]
 }

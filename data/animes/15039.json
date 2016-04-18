@@ -1,38 +1,28 @@
 {
-    "characters": [
-        40593,
-        40593,
-        40596,
-        40596,
-        40592,
-        40592,
-        40594,
-        40594,
-        40595,
-        40595,
-        40591,
-        40591,
-        42863,
-        42863,
-        42941,
-        42941,
-        42943,
-        42943,
-        42942,
-        42942
-    ],
-    "episodes": 1,
-    "id": "15039",
+    "id": 15039,
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+    "title_en": "anohana: The Flower We Saw That Day The Movie",
+    "title_jp": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
     "picture": "http://cdn.myanimelist.net/images/anime/5/49993.jpg",
-    "released": "2013-08-31T03:00:00.000Z",
     "synopsis": "The TV series is retold through the different main characters' points of view with new additional material from their childhood, during the original series, and one year after the conclusion of the series.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "slice_of_life",
         "supernatural"
     ],
-    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
-    "title_en": "anohana: The Flower We Saw That Day The Movie",
-    "title_jp": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
-    "type": "Movie"
+    "released": "2013-08-31T03:00:00.000Z",
+    "characters": [
+        40593,
+        40596,
+        40592,
+        40594,
+        40595,
+        40591,
+        42863,
+        42941,
+        42943,
+        42942
+    ]
 }

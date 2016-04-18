@@ -1,23 +1,12 @@
 {
-    "characters": [
-        5266,
-        5266,
-        5267,
-        5267,
-        3105,
-        3105,
-        5269,
-        5269,
-        16743,
-        16743,
-        5268,
-        5268
-    ],
-    "episodes": 1,
-    "id": "6624",
+    "id": 6624,
+    "title": "Kara no Kyoukai Remix: Gate of Seventh Heaven",
+    "title_en": "the Garden of sinners Remix -Gate of seventh heaven-",
+    "title_jp": "空の境界 Remix -Gate of seventh heaven-",
     "picture": "http://cdn.myanimelist.net/images/anime/11/15175.jpg",
-    "released": "2009-03-14T03:00:00.000Z",
-    "synopsis": "Before the release of the final 7th movie, a remix work \"Kara no Kyoukai Remix-Gate of seventh heaven-\" comes out in theaters on March 14, 2009. This remix collection extracts the key themes and scenes from first six movies. The hour long movie is organized in chronological order, beginning from the 2nd movie, followed by the 4th, 3rd, 1st, 5th and 6th. It's a mixture of mostly existing scenes, and some new scenes.",
+    "synopsis": "Before the release of the final 7th movie, a remix work \"Kara no Kyoukai Remix-Gate of seventh heaven-\" comes out in theaters on March 14, 2009. This remix collection extracts the key themes and scenes from first six movies. The hour long movie is organized in chronological order, beginning from the 2nd movie, followed by the 4th, 3rd, 1st, 5th and 6th. It's a mixture of mostly existing scenes, and some new scenes. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "mystery",
@@ -25,8 +14,13 @@
         "super_power",
         "thriller"
     ],
-    "title": "Kara no Kyoukai Remix: Gate of Seventh Heaven",
-    "title_en": "the Garden of sinners Remix -Gate of seventh heaven-",
-    "title_jp": "空の境界 Remix -Gate of seventh heaven-",
-    "type": "Movie"
+    "released": "2009-03-14T03:00:00.000Z",
+    "characters": [
+        5266,
+        5267,
+        3105,
+        5269,
+        16743,
+        5268
+    ]
 }

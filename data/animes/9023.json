@@ -1,37 +1,27 @@
 {
-    "characters": [
-        671,
-        671,
-        4372,
-        4372,
-        10752,
-        10752,
-        1854,
-        1854,
-        1535,
-        1535,
-        1858,
-        1858,
-        1853,
-        1853,
-        670,
-        670,
-        4377,
-        4377,
-        4373,
-        4373,
-        1556,
-        1556
-    ],
-    "episodes": 3,
-    "id": "9023",
+    "id": 9023,
+    "title": "Katekyo Hitman Reborn!: Mr. Rebokku no Ciao Ciao Interview",
+    "title_en": null,
+    "title_jp": "家庭教師ヒットマンREBORN! ミスターリボックのちゃおちゃおインタビュ",
     "picture": "http://cdn.myanimelist.net/images/anime/8/25975.jpg",
-    "released": "2010-04-07T03:00:00.000Z",
-    "synopsis": "KHR: Mr. Rebokku no Ciao Ciao Interview is set of 3 DVD specials in which, Reborn, dressed as host interviews various characters selected by a wheel.\n\nEpisode #1\nFeatures Reborn as Host, and Tsunayoshi, Gokudera and Xanxus as guests.\n\nEpisode #2\nFeatures Reborn as Host, and Hibari, Belphegor and Dino as guests.\n\nEpisode #3\nFeatures Reborn as Host, and, differently than before, four characters which are Byakuran, Mukuro, Squalo and Yamamoto.\n\n[Written by Katekyo Hitman Reborn! FC]",
+    "synopsis": "KHR: Mr. Rebokku no Ciao Ciao Interview is set of 3 DVD specials in which, Reborn, dressed as host interviews various characters selected by a wheel.",
+    "type": "Special",
+    "episodes": 3,
     "tags": [
         "comedy"
     ],
-    "title": "Katekyo Hitman Reborn!: Mr. Rebokku no Ciao Ciao Interview",
-    "title_jp": "家庭教師ヒットマンREBORN! ミスターリボックのちゃおちゃおインタビュ",
-    "type": "Special"
+    "released": "2010-04-07T03:00:00.000Z",
+    "characters": [
+        671,
+        4372,
+        10752,
+        1854,
+        1535,
+        1858,
+        1853,
+        670,
+        4377,
+        4373,
+        1556
+    ]
 }

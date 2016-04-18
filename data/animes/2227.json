@@ -1,36 +1,27 @@
 {
-    "characters": [
-        13099,
-        13099,
-        13098,
-        13098,
-        13097,
-        13097,
-        13096,
-        13096,
-        25512,
-        25512,
-        89613,
-        89613,
-        25509,
-        25509,
-        25508,
-        25508,
-        25510,
-        25510,
-        25511,
-        25511
-    ],
-    "episodes": 21,
-    "id": "2227",
+    "id": 2227,
+    "title": "Lady Lady!!",
+    "title_en": null,
+    "title_jp": "レディレディ！！",
     "picture": "http://cdn.myanimelist.net/images/anime/13/16818.jpg",
-    "released": "1987-10-21T02:00:00.000Z",
-    "synopsis": "Lynn lost her mother at the age of five and lives in with her father in England. Lynn's father is not able to be by her side all the time because of his busy schedule and Lynn is often left on her own. Despite having to endure the harsh loneliness, Lynn strives to protect her promise with her mother to become a strong and elegant lady.\n\n(Source: ANN)",
+    "synopsis": "Lynn lost her mother at the age of five and lives in with her father in England. Lynn's father is not able to be by her side all the time because of his busy schedule and Lynn is often left on her own. Despite having to endure the harsh loneliness, Lynn strives to protect her promise with her mother to become a strong and elegant lady.",
+    "type": "TV",
+    "episodes": 21,
     "tags": [
         "drama",
         "historical"
     ],
-    "title": "Lady Lady!!",
-    "title_jp": "レディレディ！！",
-    "type": "TV"
+    "released": "1987-10-21T02:00:00.000Z",
+    "characters": [
+        13099,
+        13098,
+        13097,
+        13096,
+        25512,
+        89613,
+        25509,
+        25508,
+        25510,
+        25511
+    ]
 }

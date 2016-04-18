@@ -1,25 +1,22 @@
 {
-    "characters": [
-        138670,
-        138670,
-        138673,
-        138673,
-        139789,
-        139789,
-        138674,
-        138674
-    ],
-    "episodes": 4,
-    "id": "32491",
+    "id": 32491,
+    "title": "Kanojo to Kanojo no Neko: Everything Flows",
+    "title_en": null,
+    "title_jp": "彼女と彼女の猫 -Everything Flows-",
     "picture": "http://cdn.myanimelist.net/images/anime/9/79716.jpg",
-    "released": "2016-03-04T03:00:00.000Z",
-    "synopsis": "For the longest time, it's just been the two of them. \"Kanojo\" and her cat Daru are inseparable, having grown up together. Now a junior in college, Tomoka—her roommate of a year and a half—moves out of their shared apartment, and in order to keep her living space, Kanojo must find a job. Day by day, Daru watches her continued efforts from a cat's-eye view, eagerly awaiting his owner's return. When she gets back, once again, it's just she and her cat.\n\nKanojo to Kanojo no Neko: Everything Flows is a charming short series about the bond between a pet and his owner.\n\n[Written by MAL Rewrite]",
+    "synopsis": "For the longest time, it's just been the two of them. \"Kanojo\" and her cat Daru are inseparable, having grown up together. Now a junior in college, Tomoka—her roommate of a year and a half—moves out of their shared apartment, and in order to keep her living space, Kanojo must find a job. Day by day, Daru watches her continued efforts from a cat's-eye view, eagerly awaiting his owner's return. When she gets back, once again, it's just she and her cat.",
+    "type": "TV",
+    "episodes": 4,
     "tags": [
         "psychological",
         "romance",
         "slice_of_life"
     ],
-    "title": "Kanojo to Kanojo no Neko: Everything Flows",
-    "title_jp": "彼女と彼女の猫 -Everything Flows-",
-    "type": "TV"
+    "released": "2016-03-04T03:00:00.000Z",
+    "characters": [
+        138670,
+        138673,
+        139789,
+        138674
+    ]
 }

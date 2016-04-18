@@ -1,22 +1,21 @@
 {
-    "characters": [
-        134133,
-        134133,
-        43354,
-        43354
-    ],
-    "episodes": 35,
-    "id": "3213",
+    "id": 3213,
+    "title": "Ganbare Genki",
+    "title_en": null,
+    "title_jp": "がんばれ元気",
     "picture": "http://cdn.myanimelist.net/images/anime/9/25530.jpg",
-    "released": "1980-07-16T03:00:00.000Z",
-    "synopsis": "Horiguchi Genki was 5 years old boy. His mother died when he was born, and he was raised only by his father. His father, Shark Horiguchi, was a professional boxer, but he was ruined and become an itinerant boxer. However, Genki believed his father was strong and he would become a champion, and he had a dream to become a strong boxer as his father. \nAfter his father’s death, he was adopted by his grandparents. Although they opposed Genki boxing, Genki made up his mind to become a boxer, and he continued training secretly. Meeting with various people, for example, Teacher Ashikiwa who resembles his mother, Mishima who is a high school boxing champion, he made his way to be a boxer. \n\n(Source: AnimeNfo)",
+    "synopsis": "Horiguchi Genki was 5 years old boy. His mother died when he was born, and he was raised only by his father. His father, Shark Horiguchi, was a professional boxer, but he was ruined and become an itinerant boxer. However, Genki believed his father was strong and he would become a champion, and he had a dream to become a strong boxer as his father. ",
+    "type": "TV",
+    "episodes": 35,
     "tags": [
         "action",
         "comedy",
         "shounen",
         "sports"
     ],
-    "title": "Ganbare Genki",
-    "title_jp": "がんばれ元気",
-    "type": "TV"
+    "released": "1980-07-16T03:00:00.000Z",
+    "characters": [
+        134133,
+        43354
+    ]
 }

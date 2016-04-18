@@ -1,29 +1,24 @@
 {
-    "characters": [
-        33477,
-        33477,
-        30975,
-        30975,
-        40200,
-        40200,
-        48865,
-        48865,
-        40201,
-        40201,
-        129139,
-        129139
-    ],
-    "episodes": 1,
-    "id": "8768",
+    "id": 8768,
+    "title": "Hiyokoi",
+    "title_en": null,
+    "title_jp": "ひよ恋",
     "picture": "http://cdn.myanimelist.net/images/anime/7/27766.jpg",
-    "released": "2010-07-30T03:00:00.000Z",
-    "synopsis": "Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?\n\n(Source: One Manga)",
+    "synopsis": "Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "romance",
         "school",
         "shoujo"
     ],
-    "title": "Hiyokoi",
-    "title_jp": "ひよ恋",
-    "type": "Special"
+    "released": "2010-07-30T03:00:00.000Z",
+    "characters": [
+        33477,
+        30975,
+        40200,
+        48865,
+        40201,
+        129139
+    ]
 }

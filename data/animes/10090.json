@@ -1,10 +1,12 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "10090",
+    "id": 10090,
+    "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society 3D",
+    "title_en": "Ghost in the Shell: Stand Alone Complex: Solid State Society 3D",
+    "title_jp": "攻殻機動隊 S.A.C. Solid State Society 3D",
     "picture": "http://cdn.myanimelist.net/images/anime/4/29259.jpg",
-    "released": "2011-03-26T03:00:00.000Z",
     "synopsis": "Kenji Kamiyama and Production I.G's Ghost in the Shell: Stand Alone Complex: Solid State Society movie will be converted into stereoscopic 3D. Kamiyama himself is overseeing the conversion, and I.G will also add a newly animated opening sequence.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "mecha",
         "military",
@@ -13,8 +15,6 @@
         "sci-fi",
         "seinen"
     ],
-    "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society 3D",
-    "title_en": "Ghost in the Shell: Stand Alone Complex: Solid State Society 3D",
-    "title_jp": "攻殻機動隊 S.A.C. Solid State Society 3D",
-    "type": "Movie"
+    "released": "2011-03-26T03:00:00.000Z",
+    "characters": []
 }

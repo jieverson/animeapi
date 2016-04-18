@@ -1,37 +1,28 @@
 {
-    "characters": [
-        2160,
-        2160,
-        2164,
-        2164,
-        2166,
-        2166,
-        10787,
-        10787,
-        2163,
-        2163,
-        3214,
-        3214,
-        10730,
-        10730,
-        2165,
-        2165,
-        55117,
-        55117,
-        19289,
-        19289
-    ],
-    "episodes": 1,
-    "id": "4182",
+    "id": 4182,
+    "title": "Darker than Black: Kuro no Keiyakusha Special",
+    "title_en": null,
+    "title_jp": "Darker than BLACK -黒の契約者-",
     "picture": "http://cdn.myanimelist.net/images/anime/3/32729.jpg",
-    "released": "2008-03-27T03:00:00.000Z",
     "synopsis": "A side story of Darker than BLACK, also known as Episode 26. A Contractor was killed and it was rumored that his corpse and possessions were buried under a Sakura tree. Hei and the others (including the Police) decide to investigate.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy",
         "parody",
         "sci-fi"
     ],
-    "title": "Darker than Black: Kuro no Keiyakusha Special",
-    "title_jp": "Darker than BLACK -黒の契約者-",
-    "type": "Special"
+    "released": "2008-03-27T03:00:00.000Z",
+    "characters": [
+        2160,
+        2164,
+        2166,
+        10787,
+        2163,
+        3214,
+        10730,
+        2165,
+        55117,
+        19289
+    ]
 }

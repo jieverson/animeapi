@@ -1,35 +1,27 @@
 {
-    "characters": [
-        2819,
-        2819,
-        2820,
-        2820,
-        15003,
-        15003,
-        17255,
-        17255,
-        3867,
-        3867,
-        32008,
-        32008,
-        2821,
-        2821,
-        2822,
-        2822,
-        7955,
-        7955
-    ],
-    "episodes": 1,
-    "id": "28881",
+    "id": 28881,
+    "title": "New Initial D Movie: Legend 2 - Tousou",
+    "title_en": null,
+    "title_jp": "新劇場版　頭文字［イニシャル］D Legend2 -闘走-",
     "picture": "http://cdn.myanimelist.net/images/anime/6/72246.jpg",
-    "released": "2015-05-23T03:00:00.000Z",
     "synopsis": "The second movie in a trilogy.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "cars",
         "seinen",
         "sports"
     ],
-    "title": "New Initial D Movie: Legend 2 - Tousou",
-    "title_jp": "新劇場版　頭文字［イニシャル］D Legend2 -闘走-",
-    "type": "Movie"
+    "released": "2015-05-23T03:00:00.000Z",
+    "characters": [
+        2819,
+        2820,
+        15003,
+        17255,
+        3867,
+        32008,
+        2821,
+        2822,
+        7955
+    ]
 }

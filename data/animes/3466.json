@@ -1,22 +1,20 @@
 {
-    "characters": [
-        88,
-        88,
-        87,
-        87
-    ],
-    "episodes": 1,
-    "id": "3466",
+    "id": 3466,
+    "title": "Kino no Tabi: The Beautiful World - Tou no Kuni",
+    "title_en": "Kino's Journey: Tower Country",
+    "title_jp": "キノの旅 -the Beautiful World- 塔の国",
     "picture": "http://cdn.myanimelist.net/images/anime/11/62873.jpg",
-    "released": "2005-10-19T02:00:00.000Z",
     "synopsis": "Kino sets off to yet another country: Tower Country. Here all citizens work on the construction of a massive tower, without knowing what purpose it serves. The rather odd encounter with a young boy adds yet another twist to the story.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "adventure",
         "fantasy",
         "psychological"
     ],
-    "title": "Kino no Tabi: The Beautiful World - Tou no Kuni",
-    "title_en": "Kino's Journey: Tower Country",
-    "title_jp": "キノの旅 -the Beautiful World- 塔の国",
-    "type": "Special"
+    "released": "2005-10-19T02:00:00.000Z",
+    "characters": [
+        88,
+        87
+    ]
 }

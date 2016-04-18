@@ -1,21 +1,12 @@
 {
-    "characters": [
-        4304,
-        4304,
-        8262,
-        8262,
-        8261,
-        8261,
-        8260,
-        8260,
-        4303,
-        4303
-    ],
-    "episodes": 1,
-    "id": "7045",
+    "id": 7045,
+    "title": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+    "title_en": "Doraemon the Movie: Nobita's the Legend of the Sun King",
+    "title_jp": "映画 ドラえもん のび太の太陽王伝説",
     "picture": "http://cdn.myanimelist.net/images/anime/7/72426.jpg",
-    "released": "2000-03-04T03:00:00.000Z",
-    "synopsis": "Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.\n\n(Source: ANN)",
+    "synopsis": "Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -24,8 +15,12 @@
         "kids",
         "shounen"
     ],
-    "title": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
-    "title_en": "Doraemon the Movie: Nobita's the Legend of the Sun King",
-    "title_jp": "映画 ドラえもん のび太の太陽王伝説",
-    "type": "Movie"
+    "released": "2000-03-04T03:00:00.000Z",
+    "characters": [
+        4304,
+        8262,
+        8261,
+        8260,
+        4303
+    ]
 }

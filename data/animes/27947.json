@@ -1,37 +1,28 @@
 {
-    "characters": [
-        1046,
-        1046,
-        1045,
-        1045,
-        1044,
-        1044,
-        1047,
-        1047,
-        1048,
-        1048,
-        135658,
-        135658,
-        133136,
-        133136,
-        132771,
-        132771,
-        133930,
-        133930
-    ],
-    "episodes": 24,
-    "id": "27947",
+    "id": 27947,
+    "title": "Lupin III (2015)",
+    "title_en": "Lupin the Third",
+    "title_jp": "ルパン三世",
     "picture": "http://cdn.myanimelist.net/images/anime/9/75949.jpg",
-    "released": "2015-10-02T03:00:00.000Z",
-    "synopsis": "Lupin is the main character in this series which takes place in Italy and San Marino.\n\nReflecting its setting, the anime debuted in Italy before it aired in Japan. Lupin III fans will note that the titular thief now dons a blue coat, following his earlier appearances in green (first series and some OVAs), red (the second series as well as most films and television specials) and pink (third series).\n\n(Source: Crunchyroll)",
+    "synopsis": "Lupin is the main character in this series which takes place in Italy and San Marino.",
+    "type": "TV",
+    "episodes": 24,
     "tags": [
         "action",
         "adventure",
         "comedy",
         "shounen"
     ],
-    "title": "Lupin III (2015)",
-    "title_en": "Lupin the Third",
-    "title_jp": "ルパン三世",
-    "type": "TV"
+    "released": "2015-10-02T03:00:00.000Z",
+    "characters": [
+        1046,
+        1045,
+        1044,
+        1047,
+        1048,
+        135658,
+        133136,
+        132771,
+        133930
+    ]
 }

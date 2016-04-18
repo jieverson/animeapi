@@ -1,14 +1,15 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "6399",
+    "id": 6399,
+    "title": "Higashi no Eden: Falling Down",
+    "title_en": null,
+    "title_jp": "フォーリング・ダウン",
     "picture": "http://cdn.myanimelist.net/images/anime/8/14789.jpg",
-    "released": "2009-05-27T03:00:00.000Z",
-    "synopsis": "Music video by Oasis, animated by Production I.G\n\nThe song is also featured as the opening theme song in the anime series, Higashi no Eden, which is also animated by Production I.G.",
+    "synopsis": "Music video by Oasis, animated by Production I.G",
+    "type": "Music",
+    "episodes": 1,
     "tags": [
         "music"
     ],
-    "title": "Higashi no Eden: Falling Down",
-    "title_jp": "フォーリング・ダウン",
-    "type": "Music"
+    "released": "2009-05-27T03:00:00.000Z",
+    "characters": []
 }

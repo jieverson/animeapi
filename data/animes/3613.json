@@ -1,38 +1,29 @@
 {
-    "characters": [
-        9355,
-        9355,
-        9354,
-        9354,
-        12881,
-        12881,
-        11490,
-        11490,
-        11492,
-        11492,
-        11484,
-        11484,
-        37108,
-        37108,
-        11488,
-        11488,
-        11486,
-        11486,
-        13148,
-        13148
-    ],
-    "episodes": 12,
-    "id": "3613",
+    "id": 3613,
+    "title": "Toshokan Sensou",
+    "title_en": null,
+    "title_jp": "図書館戦争",
     "picture": "http://cdn.myanimelist.net/images/anime/5/79595.jpg",
-    "released": "2008-04-11T03:00:00.000Z",
     "synopsis": "Toshokan Sensou tells the story of Kasahara Iku, the first woman to join the Library Task Force. In the near future in Japan, the Media Enhancement Law has been forced upon the population censoring all books and media. To counter this, the Library Defense Force was created. To protect themselves against the Media Enhancement Law Commission, all major libraries are fully equipped with a military Task Force, who take it upon themselves to protect the books and freedom of media of the people. This anime follows Iku and her fellow soldiers as they protect various special books and artifacts from the oppression of the Media Enhancement Law Commission. A love story, war story, and comedy all rolled into one.",
+    "type": "TV",
+    "episodes": 12,
     "tags": [
         "action",
         "comedy",
         "military",
         "romance"
     ],
-    "title": "Toshokan Sensou",
-    "title_jp": "図書館戦争",
-    "type": "TV"
+    "released": "2008-04-11T03:00:00.000Z",
+    "characters": [
+        9355,
+        9354,
+        12881,
+        11490,
+        11492,
+        11484,
+        37108,
+        11488,
+        11486,
+        13148
+    ]
 }

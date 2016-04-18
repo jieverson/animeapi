@@ -1,31 +1,12 @@
 {
-    "characters": [
-        9028,
-        9028,
-        9055,
-        9055,
-        79705,
-        79705,
-        7895,
-        7895,
-        9112,
-        9112,
-        114605,
-        114605,
-        53285,
-        53285,
-        17707,
-        17707,
-        114629,
-        114629,
-        27902,
-        27902
-    ],
-    "episodes": 1,
-    "id": "1096",
+    "id": 1096,
+    "title": "Mobile Police Patlabor 2: The Movie",
+    "title_en": "Mobile Police Patlabor 2: The Movie",
+    "title_jp": "機動警察パトレイバー2 the Movie",
     "picture": "http://cdn.myanimelist.net/images/anime/6/74764.jpg",
-    "released": "1993-08-07T03:00:00.000Z",
-    "synopsis": "The date is 2002, three years after the events of PATLABOR 1 – Mobile Police. The destruction of a United Nations Labor team in South East Asia begins the build-up to a deadly terrorist plan that threatens to send shockwaves throughout Japan's military. With evidence of an impending military takeover, the scattered members of the original SVD (Special Vehicle Division) must gather to defend the city against danger. To make matters worse, the mastermind behind the operation is none other than Nagumo's former teacher and ex-lover Tsuge. \n\n(Source: ANN)",
+    "synopsis": "The date is 2002, three years after the events of PATLABOR 1 – Mobile Police. The destruction of a United Nations Labor team in South East Asia begins the build-up to a deadly terrorist plan that threatens to send shockwaves throughout Japan's military. With evidence of an impending military takeover, the scattered members of the original SVD (Special Vehicle Division) must gather to defend the city against danger. To make matters worse, the mastermind behind the operation is none other than Nagumo's former teacher and ex-lover Tsuge. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "mecha",
@@ -33,8 +14,17 @@
         "police",
         "sci-fi"
     ],
-    "title": "Mobile Police Patlabor 2: The Movie",
-    "title_en": "Mobile Police Patlabor 2: The Movie",
-    "title_jp": "機動警察パトレイバー2 the Movie",
-    "type": "Movie"
+    "released": "1993-08-07T03:00:00.000Z",
+    "characters": [
+        9028,
+        9055,
+        79705,
+        7895,
+        9112,
+        114605,
+        53285,
+        17707,
+        114629,
+        27902
+    ]
 }

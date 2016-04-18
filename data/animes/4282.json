@@ -1,31 +1,12 @@
 {
-    "characters": [
-        5266,
-        5266,
-        5269,
-        5269,
-        16743,
-        16743,
-        5267,
-        5267,
-        3105,
-        3105,
-        21284,
-        21284,
-        16751,
-        16751,
-        21288,
-        21288,
-        54965,
-        54965,
-        5268,
-        5268
-    ],
-    "episodes": 1,
-    "id": "4282",
+    "id": 4282,
+    "title": "Kara no Kyoukai 5: Mujun Rasen",
+    "title_en": "the Garden of sinners Chapter 5: Paradox Paradigm",
+    "title_jp": "劇場版 空の境界 the Garden of sinners 第五章『矛盾螺旋』",
     "picture": "http://cdn.myanimelist.net/images/anime/8/9246.jpg",
-    "released": "2008-08-16T03:00:00.000Z",
-    "synopsis": "November 1998: Shiki meets a boy named Tomoe Enjou, a runaway who claims to be a murderer. Shiki allows Tomoe to use her apartment as his hideout, but one day, Tomoe sees his mother whom he's sure he's killed.\n\n(Source: Aniplex USA)",
+    "synopsis": "November 1998: Shiki meets a boy named Tomoe Enjou, a runaway who claims to be a murderer. Shiki allows Tomoe to use her apartment as his hideout, but one day, Tomoe sees his mother whom he's sure he's killed.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "drama",
@@ -34,8 +15,17 @@
         "supernatural",
         "thriller"
     ],
-    "title": "Kara no Kyoukai 5: Mujun Rasen",
-    "title_en": "the Garden of sinners Chapter 5: Paradox Paradigm",
-    "title_jp": "劇場版 空の境界 the Garden of sinners 第五章『矛盾螺旋』",
-    "type": "Movie"
+    "released": "2008-08-16T03:00:00.000Z",
+    "characters": [
+        5266,
+        5269,
+        16743,
+        5267,
+        3105,
+        21284,
+        16751,
+        21288,
+        54965,
+        5268
+    ]
 }

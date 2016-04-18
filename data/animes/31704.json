@@ -1,17 +1,12 @@
 {
-    "characters": [
-        73935,
-        73935,
-        73979,
-        73979,
-        136428,
-        136428
-    ],
-    "episodes": 1,
-    "id": "31704",
+    "id": 31704,
+    "title": "One Punch Man: Road to Hero",
+    "title_en": null,
+    "title_jp": "ワンパンマン OVA「ロード・トゥ・ヒーロー」",
     "picture": "http://cdn.myanimelist.net/images/anime/8/76392.jpg",
-    "released": "2015-12-04T02:00:00.000Z",
-    "synopsis": "Bundled with the tenth volume of One Punch-Man manga.\n\nWhile Saitama is training to become a hero, he needs one more thing before he can become a real hero. The origins of his hero suit is revealed.",
+    "synopsis": "Bundled with the tenth volume of ",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "action",
         "comedy",
@@ -21,7 +16,10 @@
         "super_power",
         "supernatural"
     ],
-    "title": "One Punch Man: Road to Hero",
-    "title_jp": "ワンパンマン OVA「ロード・トゥ・ヒーロー」",
-    "type": "OVA"
+    "released": "2015-12-04T02:00:00.000Z",
+    "characters": [
+        73935,
+        73979,
+        136428
+    ]
 }

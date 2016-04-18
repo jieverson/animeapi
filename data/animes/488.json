@@ -1,29 +1,23 @@
 {
-    "characters": [
-        574,
-        574,
-        572,
-        572,
-        571,
-        571,
-        570,
-        570,
-        573,
-        573,
-        21090,
-        21090
-    ],
-    "episodes": 12,
-    "id": "488",
+    "id": 488,
+    "title": "Ichigo Mashimaro",
+    "title_en": "Strawberry Marshmallow",
+    "title_jp": "苺ましまろ",
     "picture": "http://cdn.myanimelist.net/images/anime/10/11042.jpg",
-    "released": "2005-07-15T03:00:00.000Z",
-    "synopsis": "\"Cute girls doing cute things in cute ways.\"\n\nEveryday things make up the fabric of life—whether it's making friends, going to school, trying to make money, or celebrating a holiday. Ichigo Mashimaro is a heartwarming series that follows the daily lives of Itou Chika, her sister Nobue, and her friends Miu, Matsuri, and Ana.\n\n[Written by MAL Rewrite]",
+    "synopsis": "\"Cute girls doing cute things in cute ways.\"",
+    "type": "TV",
+    "episodes": 12,
     "tags": [
         "comedy",
         "slice_of_life"
     ],
-    "title": "Ichigo Mashimaro",
-    "title_en": "Strawberry Marshmallow",
-    "title_jp": "苺ましまろ",
-    "type": "TV"
+    "released": "2005-07-15T03:00:00.000Z",
+    "characters": [
+        574,
+        572,
+        571,
+        570,
+        573,
+        21090
+    ]
 }

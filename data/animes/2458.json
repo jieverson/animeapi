@@ -1,23 +1,12 @@
 {
-    "characters": [
-        2756,
-        2756,
-        12938,
-        12938,
-        9014,
-        9014,
-        43586,
-        43586,
-        12939,
-        12939,
-        11076,
-        11076
-    ],
-    "episodes": 8,
-    "id": "2458",
+    "id": 2458,
+    "title": "Kimagure Orange☆Road OVA",
+    "title_en": null,
+    "title_jp": "きまぐれオレンジ☆ロード",
     "picture": "http://cdn.myanimelist.net/images/anime/2/6074.jpg",
-    "released": "1989-03-01T03:00:00.000Z",
-    "synopsis": "Kimagure Orange Road OVA is basically the extension from the TV series. The time frame is probably in the middle of the TV series.\n\nOrder to view with the TV series.\nWhite Lovers - among the episodes 35 and 45\nHawai Suspence - among the episodes 17 and 25\nI was a cat, Iwas a fish - among the episodes 17 and 30\nHurricane Akane, the shape-shifting girl - among the episodes 20 and 25\nSpring is for Idols - among the episodes 23 and 30\nBirth of a Star - Right after \"Spring is for Idols\"\nUnexpected Situation - after the OAV of Akane\nMessage in Rouge - after the episode 48",
+    "synopsis": "Kimagure Orange Road OVA is basically the extension from the TV series. The time frame is probably in the middle of the TV series.",
+    "type": "OVA",
+    "episodes": 8,
     "tags": [
         "comedy",
         "drama",
@@ -25,7 +14,13 @@
         "romance",
         "school"
     ],
-    "title": "Kimagure Orange☆Road OVA",
-    "title_jp": "きまぐれオレンジ☆ロード",
-    "type": "OVA"
+    "released": "1989-03-01T03:00:00.000Z",
+    "characters": [
+        2756,
+        12938,
+        9014,
+        43586,
+        12939,
+        11076
+    ]
 }

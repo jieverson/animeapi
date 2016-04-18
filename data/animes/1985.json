@@ -1,31 +1,25 @@
 {
-    "characters": [
-        7368,
-        7368,
-        42644,
-        42644,
-        7372,
-        7372,
-        82315,
-        82315,
-        14500,
-        14500,
-        108289,
-        108289,
-        20201,
-        20201
-    ],
-    "episodes": 74,
-    "id": "1985",
+    "id": 1985,
+    "title": "UFO Robo Grendizer",
+    "title_en": null,
+    "title_jp": "UFOロボ グレンダイザー",
     "picture": "http://cdn.myanimelist.net/images/anime/8/8669.jpg",
-    "released": "1975-10-05T03:00:00.000Z",
     "synopsis": "Duke Fleed is a survivor of the Fleed Planet who is escaped to the Earth, onboard a mysterious \"spaceship\", where is raised by Dr. Umon as his adoptive son, and known as Daisuke Umon. Years after his arrival, he's faced with the threat of King Vega and his army, who want to conquer the Earth. With his friends Koji and Hikaru (and later his younger sister Maria Grace), Duke decides to fight back using his best weapon - the almighty Grendizer.",
+    "type": "TV",
+    "episodes": 74,
     "tags": [
         "mecha",
         "sci-fi",
         "shounen"
     ],
-    "title": "UFO Robo Grendizer",
-    "title_jp": "UFOロボ グレンダイザー",
-    "type": "TV"
+    "released": "1975-10-05T03:00:00.000Z",
+    "characters": [
+        7368,
+        42644,
+        7372,
+        82315,
+        14500,
+        108289,
+        20201
+    ]
 }

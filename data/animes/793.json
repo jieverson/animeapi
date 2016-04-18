@@ -1,33 +1,12 @@
 {
-    "characters": [
-        567,
-        567,
-        236,
-        236,
-        235,
-        235,
-        20646,
-        20646,
-        3185,
-        3185,
-        568,
-        568,
-        3758,
-        3758,
-        6887,
-        6887,
-        29311,
-        29311,
-        127,
-        127,
-        126,
-        126
-    ],
-    "episodes": 1,
-    "id": "793",
+    "id": 793,
+    "title": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
+    "title_en": "xxxHOLiC - A Midsummer Night's Dream",
+    "title_jp": "劇場版　×××HOLiC　真夏ノ夜ノ夢",
     "picture": "http://cdn.myanimelist.net/images/anime/5/25078.jpg",
-    "released": "2005-08-20T03:00:00.000Z",
-    "synopsis": "Yuko receives a letter from an unknown sender. It is an invitation to an auction. Seven avid collectors were invited to an old mansion. They all admit that they accepted the invitation to complete their collections. They waited for the host, but he does not make an appearance. And one by one the collectors disappear. The strange host and a mysterious girl. A night where odd things happen one after another. What is being auctioned? Who is the host? The cunning and foolish people who are obsessed with \"possessions\" and the host's \"timeless\" passion. What is waiting at the end of this enigmatic series of riddles? And what is the conclusion of the sad love story behind them? Mystery leads to mystery, and reaches the unexpected!\n\n(Source: Production I.G.)",
+    "synopsis": "Yuko receives a letter from an unknown sender. It is an invitation to an auction. Seven avid collectors were invited to an old mansion. They all admit that they accepted the invitation to complete their collections. They waited for the host, but he does not make an appearance. And one by one the collectors disappear. The strange host and a mysterious girl. A night where odd things happen one after another. What is being auctioned? Who is the host? The cunning and foolish people who are obsessed with \"possessions\" and the host's \"timeless\" passion. What is waiting at the end of this enigmatic series of riddles? And what is the conclusion of the sad love story behind them? Mystery leads to mystery, and reaches the unexpected!",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "comedy",
         "drama",
@@ -35,8 +14,18 @@
         "psychological",
         "supernatural"
     ],
-    "title": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
-    "title_en": "xxxHOLiC - A Midsummer Night's Dream",
-    "title_jp": "劇場版　×××HOLiC　真夏ノ夜ノ夢",
-    "type": "Movie"
+    "released": "2005-08-20T03:00:00.000Z",
+    "characters": [
+        567,
+        236,
+        235,
+        20646,
+        3185,
+        568,
+        3758,
+        6887,
+        29311,
+        127,
+        126
+    ]
 }

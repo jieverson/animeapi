@@ -1,30 +1,23 @@
 {
-    "characters": [
-        36038,
-        36038,
-        31174,
-        31174,
-        31175,
-        31175,
-        87663,
-        87663,
-        31256,
-        31256,
-        31255,
-        31255,
-        31253,
-        31253
-    ],
-    "episodes": 1,
-    "id": "5998",
-    "picture": "http://cdn.myanimelist.net/images/anime/6/22255.jpg",
-    "released": "2009-08-22T03:00:00.000Z",
-    "synopsis": "Your favourite teddy bear. That model kit that took so long to complete. The picture book you used to read over and over again. The shining stone you found that day in the park. Where do all your childhood's treasures go when you grow up? In this story, we meet fantastic creatures that gather all these little objects that fall into oblivion as they are forgotten by their owners when they step into adulthood. These creatures sneak into our world from a different dimension, and unseen by humans, they take all the ditched and forgotten \"treasures\" into their world. Here, they use their booty to build their own city, a fairy tale-like place called... Oblivion Island!\n\n(Source: Production I.G)",
-    "tags": [
-        "fantasy"
-    ],
+    "id": 5998,
     "title": "Hottarake no Shima: Haruka to Mahou no Kagami",
     "title_en": "Oblivion Island: Haruka and the Magic Mirror",
     "title_jp": "ホッタラケの島　～遥と魔法の鏡～",
-    "type": "Movie"
+    "picture": "http://cdn.myanimelist.net/images/anime/6/22255.jpg",
+    "synopsis": "Your favourite teddy bear. That model kit that took so long to complete. The picture book you used to read over and over again. The shining stone you found that day in the park. Where do all your childhood's treasures go when you grow up? In this story, we meet fantastic creatures that gather all these little objects that fall into oblivion as they are forgotten by their owners when they step into adulthood. These creatures sneak into our world from a different dimension, and unseen by humans, they take all the ditched and forgotten \"treasures\" into their world. Here, they use their booty to build their own city, a fairy tale-like place called... Oblivion Island!",
+    "type": "Movie",
+    "episodes": 1,
+    "tags": [
+        "fantasy"
+    ],
+    "released": "2009-08-22T03:00:00.000Z",
+    "characters": [
+        36038,
+        31174,
+        31175,
+        87663,
+        31256,
+        31255,
+        31253
+    ]
 }

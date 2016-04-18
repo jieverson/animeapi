@@ -1,30 +1,23 @@
 {
-    "characters": [
-        32918,
-        32918,
-        32919,
-        32919,
-        35045,
-        35045,
-        35043,
-        35043,
-        35042,
-        35042,
-        35025,
-        35025,
-        35044,
-        35044
-    ],
-    "episodes": 1,
-    "id": "7711",
-    "picture": "http://cdn.myanimelist.net/images/anime/9/75905.jpg",
-    "released": "2010-07-17T03:00:00.000Z",
-    "synopsis": "Arrietty, a tiny but tenacious 14-year-old, lives with her parents in the recesses of a suburban garden home, unbeknownst to the homeowner and her housekeeper. Like all little people, Arrietty remains hidden from view, except during occasional covert ventures beyond the floorboards to \"borrow\" scrap supplies like sugar cubes from her human hosts. But when 12-year-old Shou, a human boy who comes to stay in the home, discovers his mysterious housemate one evening, a secret friendship blossoms. If discovered, their relationship could drive Arrietty's family from the home and straight into danger.\n\n(Source: Disney)",
-    "tags": [
-        "fantasy"
-    ],
+    "id": 7711,
     "title": "Karigurashi no Arrietty",
     "title_en": "The Secret World of Arrietty",
     "title_jp": "借りぐらしのアリエッティ",
-    "type": "Movie"
+    "picture": "http://cdn.myanimelist.net/images/anime/9/75905.jpg",
+    "synopsis": "Arrietty, a tiny but tenacious 14-year-old, lives with her parents in the recesses of a suburban garden home, unbeknownst to the homeowner and her housekeeper. Like all little people, Arrietty remains hidden from view, except during occasional covert ventures beyond the floorboards to \"borrow\" scrap supplies like sugar cubes from her human hosts. But when 12-year-old Shou, a human boy who comes to stay in the home, discovers his mysterious housemate one evening, a secret friendship blossoms. If discovered, their relationship could drive Arrietty's family from the home and straight into danger.",
+    "type": "Movie",
+    "episodes": 1,
+    "tags": [
+        "fantasy"
+    ],
+    "released": "2010-07-17T03:00:00.000Z",
+    "characters": [
+        32918,
+        32919,
+        35045,
+        35043,
+        35042,
+        35025,
+        35044
+    ]
 }

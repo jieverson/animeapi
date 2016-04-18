@@ -1,31 +1,12 @@
 {
-    "characters": [
-        18343,
-        18343,
-        18344,
-        18344,
-        24252,
-        24252,
-        37871,
-        37871,
-        37872,
-        37872,
-        50677,
-        50677,
-        71337,
-        71337,
-        37877,
-        37877,
-        50681,
-        50681,
-        72295,
-        72295
-    ],
-    "episodes": 2,
-    "id": "18661",
+    "id": 18661,
+    "title": "Kamisama Hajimemashita OVA",
+    "title_en": null,
+    "title_jp": "神様はじめました",
     "picture": "http://cdn.myanimelist.net/images/anime/6/56425.jpg",
-    "released": "2013-08-20T03:00:00.000Z",
-    "synopsis": "Two OVA episodes bundled with the 16th volume of the manga.\n\nOne of the included episodes is based on the story from the 15th volume, while the other contain an all-new original story.\n\n(Source: ANN)",
+    "synopsis": "Two OVA episodes bundled with the 16th volume of the manga.",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "comedy",
         "demons",
@@ -33,7 +14,17 @@
         "shoujo",
         "supernatural"
     ],
-    "title": "Kamisama Hajimemashita OVA",
-    "title_jp": "神様はじめました",
-    "type": "OVA"
+    "released": "2013-08-20T03:00:00.000Z",
+    "characters": [
+        18343,
+        18344,
+        24252,
+        37871,
+        37872,
+        50677,
+        71337,
+        37877,
+        50681,
+        72295
+    ]
 }

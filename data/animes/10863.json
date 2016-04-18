@@ -1,37 +1,27 @@
 {
-    "characters": [
-        34470,
-        34470,
-        35252,
-        35252,
-        35256,
-        35256,
-        57403,
-        57403,
-        35258,
-        35258,
-        35257,
-        35257,
-        35253,
-        35253,
-        38559,
-        38559,
-        38558,
-        38558,
-        30919,
-        30919
-    ],
-    "episodes": 1,
-    "id": "10863",
+    "id": 10863,
+    "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "title_en": "Steins;Gate: Egoistic Poriomania",
+    "title_jp": "シュタインズ ゲート 横行跋扈のポリオマニア",
     "picture": "http://cdn.myanimelist.net/images/anime/7/36531.jpg",
-    "released": "2012-02-22T03:00:00.000Z",
-    "synopsis": "Special episode included in the last of the nine Blu-ray/DVD volumes. \n\nThe story is set a few months after the last scene of the television series. On a calm day in Akihabara, Okabe and the other laboratory members are invited by Feyris to go to America. Mayuri and the rest are planning to reunite with Kurisu, who had come back to an American laboratory. A few days later, Okabe's mad scientist persona Hououin Kyouma arrives alone at the airport in Los Angeles, where he may be taking the first step to leading the world into chaos. \n\n(Source: ANN)",
+    "synopsis": "Special episode included in the last of the nine Blu-ray/DVD volumes. ",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "sci-fi",
         "thriller"
     ],
-    "title": "Steins;Gate: Oukoubakko no Poriomania",
-    "title_en": "Steins;Gate: Egoistic Poriomania",
-    "title_jp": "シュタインズ ゲート 横行跋扈のポリオマニア",
-    "type": "Special"
+    "released": "2012-02-22T03:00:00.000Z",
+    "characters": [
+        34470,
+        35252,
+        35256,
+        57403,
+        35258,
+        35257,
+        35253,
+        38559,
+        38558,
+        30919
+    ]
 }

@@ -145,11 +145,13 @@ This project uses [grunt](http://gruntjs.com/) for running `jshint` and `nodeuni
 grunt
 ```
 
-## Running Crawlers
+## Running Bots
 
-Make sure you have [Phantom.js](http://phantomjs.org/) installed.
+This __bots__ are scripts that can be used to access other APIs to download data/images, populating MongoDB from our `.json` files or even crawling websites.
 
 ```shell
-cd crawlers
-phantomjs hello.js
+cd bots
+node [file_name].js
 ```
+
+>**[EDIT]** [Phantom.js](http://phantomjs.org/) is not been used here anymore. Maybe in the future.

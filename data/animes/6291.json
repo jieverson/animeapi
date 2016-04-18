@@ -1,20 +1,20 @@
 {
-    "characters": [
-        168,
-        168
-    ],
-    "episodes": 1,
-    "id": "6291",
+    "id": 6291,
+    "title": "Full Metal Panic! The Second Raid Episode 000",
+    "title_en": null,
+    "title_jp": "フルメタル パニック！The Second Raid",
     "picture": "http://cdn.myanimelist.net/images/anime/9/45048.jpg",
-    "released": "2005-07-06T03:00:00.000Z",
-    "synopsis": "Sousuke, Kurz and Melissa are deployed to the Republic of Manistan in Central Asia to eradicate a growing civil war between rebels and the Manistani military. \n\n(Source: Wikipedia)",
+    "synopsis": "Sousuke, Kurz and Melissa are deployed to the Republic of Manistan in Central Asia to eradicate a growing civil war between rebels and the Manistani military. ",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
         "mecha",
         "military"
     ],
-    "title": "Full Metal Panic! The Second Raid Episode 000",
-    "title_jp": "フルメタル パニック！The Second Raid",
-    "type": "Special"
+    "released": "2005-07-06T03:00:00.000Z",
+    "characters": [
+        168
+    ]
 }

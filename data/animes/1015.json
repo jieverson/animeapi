@@ -1,31 +1,24 @@
 {
-    "characters": [
-        273,
-        273,
-        10678,
-        10678,
-        10655,
-        10655,
-        2747,
-        2747,
-        781,
-        781,
-        6255,
-        6255,
-        168,
-        168,
-        2168,
-        2168
-    ],
-    "episodes": 1,
-    "id": "1015",
+    "id": 1015,
+    "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+    "title_en": null,
+    "title_jp": "わりとヒマな戦隊長の一日",
     "picture": "http://cdn.myanimelist.net/images/anime/3/23458.jpg",
-    "released": "2006-05-26T03:00:00.000Z",
-    "synopsis": "On her day off, Tessa wakes up in her commander chair. After regaining her composure, she notices that her favorite stuffed animal is missing and thus tries to remember what actually transpired the night before. To do so, she will spend time with all the main characters of the Danaan crew, and eventually recalls the events of the previous night.\n\n[Written by MAL Rewrite]",
+    "synopsis": "On her day off, Tessa wakes up in her commander chair. After regaining her composure, she notices that her favorite stuffed animal is missing and thus tries to remember what actually transpired the night before. To do so, she will spend time with all the main characters of the Danaan crew, and eventually recalls the events of the previous night.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy"
     ],
-    "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
-    "title_jp": "わりとヒマな戦隊長の一日",
-    "type": "Special"
+    "released": "2006-05-26T03:00:00.000Z",
+    "characters": [
+        273,
+        10678,
+        10655,
+        2747,
+        781,
+        6255,
+        168,
+        2168
+    ]
 }

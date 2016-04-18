@@ -1,33 +1,26 @@
 {
-    "characters": [
-        21332,
-        21332,
-        18769,
-        18769,
-        42038,
-        42038,
-        36820,
-        36820,
-        22253,
-        22253,
-        36821,
-        36821,
-        36976,
-        36976
-    ],
-    "episodes": 1,
-    "id": "16916",
+    "id": 16916,
+    "title": "Kuroko no Basket: Tip Off",
+    "title_en": "Kuroko's Basketball Special",
+    "title_jp": "黒子のバスケ 第22.5Q 「Tip off」",
     "picture": "http://cdn.myanimelist.net/images/anime/10/76803.jpg",
-    "released": "2013-02-22T03:00:00.000Z",
-    "synopsis": "Episode 22.5 bundled with BD/DVD volume 8.\n\nThe episode covers Kuroko's past, when he was part of the \"Generation of Miracles.\"",
+    "synopsis": "Episode 22.5 bundled with BD/DVD volume 8.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy",
         "school",
         "shounen",
         "sports"
     ],
-    "title": "Kuroko no Basket: Tip Off",
-    "title_en": "Kuroko's Basketball Special",
-    "title_jp": "黒子のバスケ 第22.5Q 「Tip off」",
-    "type": "Special"
+    "released": "2013-02-22T03:00:00.000Z",
+    "characters": [
+        21332,
+        18769,
+        42038,
+        36820,
+        22253,
+        36821,
+        36976
+    ]
 }

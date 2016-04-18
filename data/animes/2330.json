@@ -1,36 +1,27 @@
 {
-    "characters": [
-        10006,
-        10006,
-        13526,
-        13526,
-        13528,
-        13528,
-        13527,
-        13527,
-        37487,
-        37487,
-        23653,
-        23653,
-        23034,
-        23034,
-        23613,
-        23613,
-        13529,
-        13529
-    ],
-    "episodes": 26,
-    "id": "2330",
+    "id": 2330,
+    "title": "Jibaku-kun",
+    "title_en": "Bucky: The Incredible Kid",
+    "title_jp": "ジバクくん",
     "picture": "http://cdn.myanimelist.net/images/anime/6/15166.jpg",
-    "released": "1999-10-05T03:00:00.000Z",
-    "synopsis": "Bucky, the protagonist of the history, is a normal boy that lives in the first world. He lives with a single and humble ambition: to dominate the world (in the sense of the whole planet). He is very certain and he would certainly die to reach his dream. \n\nOne day he meets with Spark, the Great Child of Primas (World One). Spark is known as the strongest Great Child of all of the worlds, and he is a successor's search. After finding Bucky and talk a little with him, Spark without apparent reason choose Bucky his successor. Bucky has just become a Great Child and to win the company of Jibaki, the spirit of the first world.\n\n(Source: Wikipedia)",
+    "synopsis": "Bucky, the protagonist of the history, is a normal boy that lives in the first world. He lives with a single and humble ambition: to dominate the world (in the sense of the whole planet). He is very certain and he would certainly die to reach his dream. ",
+    "type": "TV",
+    "episodes": 26,
     "tags": [
         "adventure",
         "comedy",
         "fantasy"
     ],
-    "title": "Jibaku-kun",
-    "title_en": "Bucky: The Incredible Kid",
-    "title_jp": "ジバクくん",
-    "type": "TV"
+    "released": "1999-10-05T03:00:00.000Z",
+    "characters": [
+        10006,
+        13526,
+        13528,
+        13527,
+        37487,
+        23653,
+        23034,
+        23613,
+        13529
+    ]
 }

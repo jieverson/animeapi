@@ -1,33 +1,25 @@
 {
-    "characters": [
-        3120,
-        3120,
-        2897,
-        2897,
-        2671,
-        2671,
-        3029,
-        3029,
-        3456,
-        3456,
-        6768,
-        6768,
-        7134,
-        7134,
-        3077,
-        3077,
-        7138,
-        7138
-    ],
-    "episodes": 3,
-    "id": "2424",
+    "id": 2424,
+    "title": "Cardcaptor Sakura Specials",
+    "title_en": null,
+    "title_jp": "すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!",
     "picture": "http://cdn.myanimelist.net/images/anime/10/68205.jpg",
-    "released": "1998-09-25T03:00:00.000Z",
     "synopsis": "These are 3 episodes of about 6 minutes of pure CCS fun! Refer to any point during the series.",
+    "type": "Special",
+    "episodes": 3,
     "tags": [
         "comedy"
     ],
-    "title": "Cardcaptor Sakura Specials",
-    "title_jp": "すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!",
-    "type": "Special"
+    "released": "1998-09-25T03:00:00.000Z",
+    "characters": [
+        3120,
+        2897,
+        2671,
+        3029,
+        3456,
+        6768,
+        7134,
+        3077,
+        7138
+    ]
 }

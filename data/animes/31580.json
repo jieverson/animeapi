@@ -1,31 +1,12 @@
 {
-    "characters": [
-        88317,
-        88317,
-        108553,
-        108553,
-        138706,
-        138706,
-        111803,
-        111803,
-        111247,
-        111247,
-        108555,
-        108555,
-        111801,
-        111801,
-        139102,
-        139102,
-        126531,
-        126531,
-        109397,
-        109397
-    ],
-    "episodes": 13,
-    "id": "31580",
+    "id": 31580,
+    "title": "Ajin",
+    "title_en": "Ajin: Demi-Human",
+    "title_jp": "亜人",
     "picture": "http://cdn.myanimelist.net/images/anime/13/77968.jpg",
-    "released": "2016-01-16T02:00:00.000Z",
-    "synopsis": "Where there is life, there is death... or is there? What would you do if you could never die? The possibilities are endless.\n\nSeventeen years ago, the existence of a special species called Ajin was discovered in Africa. They are said to be immortal beings, with several supernatural abilities, that look just like any other human being. Are these Ajin just random phenomena of nature or were they purposely sent to Earth to destroy it?\n\nSince their first discovery, several other Ajin appearances have been reported worldwide. For the majority of citizens though, these creatures are less reality and more of something you see every once in a while in a textbook or on the news. This is how it was for the young protagonist of the series, Kei. That was until a sudden turn of events changed his life forever...\n\nAjin is a supernatural anime full of complex ideas about life and death, as well as the dark side of human nature. What does it mean to truly be human?",
+    "synopsis": "Where there is life, there is death... or is there? What would you do if you could never die? The possibilities are endless.",
+    "type": "TV",
+    "episodes": 13,
     "tags": [
         "action",
         "horror",
@@ -33,8 +14,17 @@
         "seinen",
         "supernatural"
     ],
-    "title": "Ajin",
-    "title_en": "Ajin: Demi-Human",
-    "title_jp": "亜人",
-    "type": "TV"
+    "released": "2016-01-16T02:00:00.000Z",
+    "characters": [
+        88317,
+        108553,
+        138706,
+        111803,
+        111247,
+        108555,
+        111801,
+        139102,
+        126531,
+        109397
+    ]
 }

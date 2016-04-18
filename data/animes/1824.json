@@ -1,29 +1,23 @@
 {
-    "characters": [
-        22792,
-        22792,
-        23351,
-        23351,
-        22790,
-        22790,
-        23354,
-        23354,
-        23352,
-        23352,
-        22791,
-        22791
-    ],
-    "episodes": 1,
-    "id": "1824",
+    "id": 1824,
+    "title": "Hadashi no Gen",
+    "title_en": "Barefoot Gen",
+    "title_jp": "はだしのゲン",
     "picture": "http://cdn.myanimelist.net/images/anime/12/10128.jpg",
-    "released": "1983-07-21T03:00:00.000Z",
-    "synopsis": "It's the summer of 1945. 3 years have elapsed since the war between Japan and USA began. Gen is a young boy living a struggling yet satisfying life in the city of Hiroshima, that has been strangely spared by the bombing taken in almost every other Japanese City. Food is scarce, and Gen's family is suffering from severe malnutrition, which endangeres his pregnant mother. There isn't much spare time as Gen and his little brother Shinji help their father and mother at work and try to make sure their family survives the tought times. Little do they know, what the Americans have in store for the city of Hiroshima and as of the 6th of August 1945, their lives are about to change dramatically.\n\n(Source: ANN)",
+    "synopsis": "It's the summer of 1945. 3 years have elapsed since the war between Japan and USA began. Gen is a young boy living a struggling yet satisfying life in the city of Hiroshima, that has been strangely spared by the bombing taken in almost every other Japanese City. Food is scarce, and Gen's family is suffering from severe malnutrition, which endangeres his pregnant mother. There isn't much spare time as Gen and his little brother Shinji help their father and mother at work and try to make sure their family survives the tought times. Little do they know, what the Americans have in store for the city of Hiroshima and as of the 6th of August 1945, their lives are about to change dramatically.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "historical"
     ],
-    "title": "Hadashi no Gen",
-    "title_en": "Barefoot Gen",
-    "title_jp": "はだしのゲン",
-    "type": "Movie"
+    "released": "1983-07-21T03:00:00.000Z",
+    "characters": [
+        22792,
+        23351,
+        22790,
+        23354,
+        23352,
+        22791
+    ]
 }

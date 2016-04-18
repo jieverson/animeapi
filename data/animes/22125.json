@@ -1,36 +1,28 @@
 {
-    "characters": [
-        36820,
-        36820,
-        18769,
-        18769,
-        42038,
-        42038,
-        53569,
-        53569,
-        42809,
-        42809,
-        21332,
-        21332,
-        22253,
-        22253,
-        36821,
-        36821,
-        36976,
-        36976
-    ],
-    "episodes": 1,
-    "id": "22125",
+    "id": 22125,
+    "title": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+    "title_en": null,
+    "title_jp": "黒子のバスケ 「もう一回やりませんか」",
     "picture": "http://cdn.myanimelist.net/images/anime/12/68055.jpg",
-    "released": "2014-06-20T03:00:00.000Z",
     "synopsis": "Bundled with the 6 Blu-ray/DVD. It will adapt the 124th chapter of the manga, which depicts when Kuroko and Aomine first met.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy",
         "school",
         "shounen",
         "sports"
     ],
-    "title": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
-    "title_jp": "黒子のバスケ 「もう一回やりませんか」",
-    "type": "Special"
+    "released": "2014-06-20T03:00:00.000Z",
+    "characters": [
+        36820,
+        18769,
+        42038,
+        53569,
+        42809,
+        21332,
+        22253,
+        36821,
+        36976
+    ]
 }

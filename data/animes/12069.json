@@ -1,33 +1,26 @@
 {
-    "characters": [
-        10156,
-        10156,
-        845,
-        845,
-        15,
-        15,
-        36882,
-        36882,
-        137336,
-        137336,
-        55659,
-        55659,
-        15978,
-        15978
-    ],
-    "episodes": 1,
-    "id": "12069",
+    "id": 12069,
+    "title": "Hajime no Ippo Special",
+    "title_en": "Fighting Spirit Special",
+    "title_jp": "はじめの一歩 THE FIGHTING! ボクサーの拳",
     "picture": "http://cdn.myanimelist.net/images/anime/10/34019.jpg",
-    "released": "2003-03-21T03:00:00.000Z",
     "synopsis": "A special episode included in the DVDs. It tells how Takamura started boxing.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "comedy",
         "drama",
         "shounen",
         "sports"
     ],
-    "title": "Hajime no Ippo Special",
-    "title_en": "Fighting Spirit Special",
-    "title_jp": "はじめの一歩 THE FIGHTING! ボクサーの拳",
-    "type": "Special"
+    "released": "2003-03-21T03:00:00.000Z",
+    "characters": [
+        10156,
+        845,
+        15,
+        36882,
+        137336,
+        55659,
+        15978
+    ]
 }

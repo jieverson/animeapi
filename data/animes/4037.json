@@ -1,21 +1,12 @@
 {
-    "characters": [
-        3,
-        3,
-        1,
-        1,
-        2,
-        2,
-        16,
-        16,
-        4,
-        4
-    ],
-    "episodes": 1,
-    "id": "4037",
+    "id": 4037,
+    "title": "Cowboy Bebop: Yose Atsume Blues",
+    "title_en": "Cowboy Bebop Session XX",
+    "title_jp": "カウボーイビバップ よせあつめブルース",
     "picture": "http://cdn.myanimelist.net/images/anime/10/54341.jpg",
-    "released": "1998-06-26T03:00:00.000Z",
-    "synopsis": "Due to the violence portrayed in the Cowboy Bebop world and violence in Japanese schools, the series was briefly cancelled and an extra session was created as a final episode to the first thirteen episodes aired. Called \"Session XX: Mish-Mash Blues,\" a compilation of clips from previous episodes, it aired on June 26, 1998 on TV Tokyo. The episode was never released on DVD. In it, the characters provide a philosophical commentary and end with the words: This Is Not The End. You Will See The Real \"Cowboy Bebop\" Someday!\n\n(Source: AniDB)",
+    "synopsis": "Due to the violence portrayed in the Cowboy Bebop world and violence in Japanese schools, the series was briefly cancelled and an extra session was created as a final episode to the first thirteen episodes aired. Called \"Session XX: Mish-Mash Blues,\" a compilation of clips from previous episodes, it aired on June 26, 1998 on TV Tokyo. The episode was never released on DVD. In it, the characters provide a philosophical commentary and end with the words: This Is Not The End. You Will See The Real \"Cowboy Bebop\" Someday!",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
@@ -24,8 +15,12 @@
         "sci-fi",
         "space"
     ],
-    "title": "Cowboy Bebop: Yose Atsume Blues",
-    "title_en": "Cowboy Bebop Session XX",
-    "title_jp": "カウボーイビバップ よせあつめブルース",
-    "type": "Special"
+    "released": "1998-06-26T03:00:00.000Z",
+    "characters": [
+        3,
+        1,
+        2,
+        16,
+        4
+    ]
 }

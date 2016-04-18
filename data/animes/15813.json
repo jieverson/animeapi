@@ -1,37 +1,27 @@
 {
-    "characters": [
-        90165,
-        90165,
-        80905,
-        80905,
-        93507,
-        93507,
-        93511,
-        93511,
-        93513,
-        93513,
-        93509,
-        93509,
-        93517,
-        93517,
-        93515,
-        93515,
-        93503,
-        93503,
-        93505,
-        93505
-    ],
-    "episodes": 1,
-    "id": "15813",
+    "id": 15813,
+    "title": "Majokko Shimai no Yoyo to Nene",
+    "title_en": "Magical Sisters Yoyo & Nene",
+    "title_jp": "魔女っこ姉妹のヨヨとネネ",
     "picture": "http://cdn.myanimelist.net/images/anime/5/53567.jpg",
-    "released": "2013-12-28T02:00:00.000Z",
-    "synopsis": "Based on a manga \"Noroiya Shimai\" written by Hirarin and serialized in Monthly Comic Ryuu. \n\nIt is a story about a pair of sisters who work as \"noroiya\" (cursers) using magic in a fantasy world. One day a big tree suddenly appears in a forest, and tall buildings that look like they are from our world can be seen entangled in it. The two sisters go there to investigate and get ported to our world. They then encounter two children who are startled by the sisters' sudden appearance and rush back home but at home they see their parents turned into monsters...\n\n(Source: MAL News)",
+    "synopsis": "Based on a manga \"Noroiya Shimai\" written by Hirarin and serialized in Monthly Comic Ryuu. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "fantasy",
         "magic"
     ],
-    "title": "Majokko Shimai no Yoyo to Nene",
-    "title_en": "Magical Sisters Yoyo &amp; Nene",
-    "title_jp": "魔女っこ姉妹のヨヨとネネ",
-    "type": "Movie"
+    "released": "2013-12-28T02:00:00.000Z",
+    "characters": [
+        90165,
+        80905,
+        93507,
+        93511,
+        93513,
+        93509,
+        93517,
+        93515,
+        93503,
+        93505
+    ]
 }

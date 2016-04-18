@@ -1,10 +1,12 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "12725",
+    "id": 12725,
+    "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
+    "title_en": null,
+    "title_jp": "頭文字D to the Next Stage ～プロジェクトDへ向けて～",
     "picture": "http://cdn.myanimelist.net/images/anime/12/35739.jpg",
-    "released": "2007-03-14T03:00:00.000Z",
     "synopsis": "A special that comes with the Fourth Stage DVD-BOX. It is comprised of a recap from First Stage to Third Stage, along with staff commentary and sneak preview of the making of the Fourth Stage.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "action",
         "cars",
@@ -12,7 +14,6 @@
         "seinen",
         "sports"
     ],
-    "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
-    "title_jp": "頭文字D to the Next Stage ～プロジェクトDへ向けて～",
-    "type": "Special"
+    "released": "2007-03-14T03:00:00.000Z",
+    "characters": []
 }

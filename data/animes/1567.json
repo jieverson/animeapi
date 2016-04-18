@@ -1,37 +1,28 @@
 {
-    "characters": [
-        1621,
-        1621,
-        1619,
-        1619,
-        1620,
-        1620,
-        129118,
-        129118,
-        91435,
-        91435,
-        51709,
-        51709,
-        1624,
-        1624,
-        1623,
-        1623,
-        1622,
-        1622
-    ],
-    "episodes": 43,
-    "id": "1567",
+    "id": 1567,
+    "title": "Kaitou Saint Tail",
+    "title_en": "Mysterious Thief Saint Tail",
+    "title_jp": "怪盗セイント・テール",
     "picture": "http://cdn.myanimelist.net/images/anime/6/46607.jpg",
-    "released": "1995-10-12T03:00:00.000Z",
-    "synopsis": "Meimi Haneoka, 14, is a normal girl during the daytime, but during the night, she assumes the \"position\" of Saint Tail, a modern-day Robin Hood who steals from thieves and gives items back to their original owners. She is aided by her friend, Seira Mimori, a nun-in-training, and she is chased by her classmate (and soon-to-be love interest), Daiki Asuka (often called \"Asuka Jr.\"). \n\n(Source: ANN)",
+    "synopsis": "Meimi Haneoka, 14, is a normal girl during the daytime, but during the night, she assumes the \"position\" of Saint Tail, a modern-day Robin Hood who steals from thieves and gives items back to their original owners. She is aided by her friend, Seira Mimori, a nun-in-training, and she is chased by her classmate (and soon-to-be love interest), Daiki Asuka (often called \"Asuka Jr.\"). ",
+    "type": "TV",
+    "episodes": 43,
     "tags": [
         "adventure",
         "magic",
         "romance",
         "shoujo"
     ],
-    "title": "Kaitou Saint Tail",
-    "title_en": "Mysterious Thief Saint Tail",
-    "title_jp": "怪盗セイント・テール",
-    "type": "TV"
+    "released": "1995-10-12T03:00:00.000Z",
+    "characters": [
+        1621,
+        1619,
+        1620,
+        129118,
+        91435,
+        51709,
+        1624,
+        1623,
+        1622
+    ]
 }

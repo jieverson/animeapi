@@ -1,33 +1,12 @@
 {
-    "characters": [
-        38535,
-        38535,
-        38536,
-        38536,
-        38538,
-        38538,
-        38537,
-        38537,
-        40310,
-        40310,
-        41512,
-        41512,
-        41549,
-        41549,
-        39950,
-        39950,
-        40760,
-        40760,
-        41550,
-        41550,
-        38539,
-        38539
-    ],
-    "episodes": 2,
-    "id": "10209",
+    "id": 10209,
+    "title": "Kore wa Zombie Desu ka? OVA",
+    "title_en": "Is This a Zombie? OVA",
+    "title_jp": "これはゾンビですか? OVA",
     "picture": "http://cdn.myanimelist.net/images/anime/12/36243.jpg",
-    "released": "2011-06-10T03:00:00.000Z",
-    "synopsis": "Two OVAs released with the 8th and 10th volumes of the original novel. They fall chronologically between the first and second seasons.\n\nSeason 1, Episode 13:\nHaruna is given the task to hold a Spring Festival at the local shrine, in her own magical-Equipment-girl way, of course... Seraphim does not want to be a freeloader at Haruna's and Ayumu's place, so she starts cooking... And a concentration-game contest in the school's main assembly hall pushes Ayumu and Orito to their limits... (Source: AniDB)\n\nSeason 2, Episode 0 part 1:\nHaruna wants to play more with Hellscythe at a swimming pool.\nSeason 2, Episode 0 part 2:\nHellscythe's birthday is near! Haruna prepares a birthday party for Hellscythe in her own magical-Equipment-girl-way. What kind of party could Haruna be holding? What kind of birthday presents will Ayumu and gang give to Hellscythe?",
+    "synopsis": "Two OVAs released with the 8th and 10th volumes of the original novel. They fall chronologically between the first and second seasons.",
+    "type": "OVA",
+    "episodes": 2,
     "tags": [
         "action",
         "comedy",
@@ -36,8 +15,18 @@
         "magic",
         "supernatural"
     ],
-    "title": "Kore wa Zombie Desu ka? OVA",
-    "title_en": "Is This a Zombie? OVA",
-    "title_jp": "これはゾンビですか? OVA",
-    "type": "OVA"
+    "released": "2011-06-10T03:00:00.000Z",
+    "characters": [
+        38535,
+        38536,
+        38538,
+        38537,
+        40310,
+        41512,
+        41549,
+        39950,
+        40760,
+        41550,
+        38539
+    ]
 }

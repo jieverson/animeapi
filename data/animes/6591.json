@@ -1,23 +1,20 @@
 {
-    "characters": [
-        147,
-        147,
-        148,
-        148,
-        3792,
-        3792
-    ],
-    "episodes": 1,
-    "id": "6591",
+    "id": 6591,
+    "title": "Rurouni Kenshin DVD-BOX Special Ending",
+    "title_en": "Samurai X DVD-BOX Special Ending",
+    "title_jp": "るろうに剣心",
     "picture": "http://cdn.myanimelist.net/images/anime/4/25808.jpg",
-    "released": "2007-01-01T00:00:00.000Z",
     "synopsis": "The last scene of the 10 Years Special DVD BOX released in Japan in 2007. Follows the manga's ending.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "historical",
         "romance"
     ],
-    "title": "Rurouni Kenshin DVD-BOX Special Ending",
-    "title_en": "Samurai X DVD-BOX Special Ending",
-    "title_jp": "るろうに剣心",
-    "type": "Special"
+    "released": "2007-01-01T00:00:00.000Z",
+    "characters": [
+        147,
+        148,
+        3792
+    ]
 }

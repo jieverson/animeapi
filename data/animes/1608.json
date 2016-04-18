@@ -1,33 +1,26 @@
 {
-    "characters": [
-        132791,
-        132791,
-        35593,
-        35593,
-        132797,
-        132797,
-        132794,
-        132794,
-        132796,
-        132796,
-        132795,
-        132795,
-        132792,
-        132792,
-        132793,
-        132793
-    ],
-    "episodes": 20,
-    "id": "1608",
+    "id": 1608,
+    "title": "Salaryman Kintarou",
+    "title_en": null,
+    "title_jp": "サラリーマン金太郎",
     "picture": "http://cdn.myanimelist.net/images/anime/8/62593.jpg",
-    "released": "2001-02-18T01:00:00.000Z",
-    "synopsis": "The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to \"straighten out\" and become a \"salaryman\" since his wife died and he has to take care of his young son.\n\n(Source: AniDB)",
+    "synopsis": "The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to \"straighten out\" and become a \"salaryman\" since his wife died and he has to take care of his young son.",
+    "type": "TV",
+    "episodes": 20,
     "tags": [
         "comedy",
         "drama",
         "seinen"
     ],
-    "title": "Salaryman Kintarou",
-    "title_jp": "サラリーマン金太郎",
-    "type": "TV"
+    "released": "2001-02-18T03:00:00.000Z",
+    "characters": [
+        132791,
+        35593,
+        132797,
+        132794,
+        132796,
+        132795,
+        132792,
+        132793
+    ]
 }

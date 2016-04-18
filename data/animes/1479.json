@@ -1,29 +1,23 @@
 {
-    "characters": [
-        28093,
-        28093,
-        2066,
-        2066,
-        2065,
-        2065,
-        2068,
-        2068,
-        2067,
-        2067,
-        61529,
-        61529,
-        2069,
-        2069
-    ],
-    "episodes": 1,
-    "id": "1479",
+    "id": 1479,
+    "title": "City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
+    "title_en": null,
+    "title_jp": "シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽リョウの最期",
     "picture": "http://cdn.myanimelist.net/images/anime/13/3029.jpg",
-    "released": "1999-04-23T03:00:00.000Z",
     "synopsis": "City Hunter, Saeba Ryo, after months of idleness, finally scores a client and it is none other than the beautiful Mega City TV newscaster, Sayaka, who fears for her life. What's more, the enemy are her employers who are ready to resort to any means necessary to kill her. Ryo takes on the might of a TV station in a bid to save Sayaka, but finds that all is not what it seems...",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "shounen"
     ],
-    "title": "City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
-    "title_jp": "シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽リョウの最期",
-    "type": "Special"
+    "released": "1999-04-23T03:00:00.000Z",
+    "characters": [
+        28093,
+        2066,
+        2065,
+        2068,
+        2067,
+        61529,
+        2069
+    ]
 }

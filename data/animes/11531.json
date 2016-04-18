@@ -1,35 +1,26 @@
 {
-    "characters": [
-        44211,
-        44211,
-        44212,
-        44212,
-        64279,
-        64279,
-        47385,
-        47385,
-        47383,
-        47383,
-        47379,
-        47379,
-        47381,
-        47381,
-        63353,
-        63353,
-        63355,
-        63355
-    ],
-    "episodes": 1,
-    "id": "11531",
+    "id": 11531,
+    "title": "UN-GO: Inga-ron",
+    "title_en": "UN-GO: Episode 0 Chapter of Inga",
+    "title_jp": "UN-GO episode:0 因果論",
     "picture": "http://cdn.myanimelist.net/images/anime/5/35071.jpg",
-    "released": "2011-11-19T02:00:00.000Z",
     "synopsis": "Prequel film of UN-GO telling the encounter of Shinjuurou and Inga.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "mystery",
         "supernatural"
     ],
-    "title": "UN-GO: Inga-ron",
-    "title_en": "UN-GO: Episode 0 Chapter of Inga",
-    "title_jp": "UN-GO episode:0 因果論",
-    "type": "Movie"
+    "released": "2011-11-19T02:00:00.000Z",
+    "characters": [
+        44211,
+        44212,
+        64279,
+        47385,
+        47383,
+        47379,
+        47381,
+        63353,
+        63355
+    ]
 }

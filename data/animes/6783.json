@@ -1,36 +1,27 @@
 {
-    "characters": [
-        4691,
-        4691,
-        4689,
-        4689,
-        4692,
-        4692,
-        12618,
-        12618,
-        4693,
-        4693,
-        4687,
-        4687,
-        4686,
-        4686,
-        4688,
-        4688,
-        4690,
-        4690
-    ],
-    "episodes": 1,
-    "id": "6783",
+    "id": 6783,
+    "title": "ef: A Tale of Memories. - Recollections",
+    "title_en": "ef ~ A Tale of Melodies - Recollections",
+    "title_jp": "ef - a tale of memories. ~Recollections~",
     "picture": "http://cdn.myanimelist.net/images/anime/2/15710.jpg",
-    "released": "2008-09-26T03:00:00.000Z",
-    "synopsis": "Asou Renji comes back at the station with Chihiro, after the events of ef - a tale of melodies. They recollect various moments in this 'summary' of the first season of ef, with special new intermissions.\n\n(Source: Animeka)",
+    "synopsis": "Asou Renji comes back at the station with Chihiro, after the events of ef - a tale of melodies. They recollect various moments in this 'summary' of the first season of ef, with special new intermissions.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "drama",
         "mystery",
         "romance"
     ],
-    "title": "ef: A Tale of Memories. - Recollections",
-    "title_en": "ef ~ A Tale of Melodies - Recollections",
-    "title_jp": "ef - a tale of memories. ~Recollections~",
-    "type": "Special"
+    "released": "2008-09-26T03:00:00.000Z",
+    "characters": [
+        4691,
+        4689,
+        4692,
+        12618,
+        4693,
+        4687,
+        4686,
+        4688,
+        4690
+    ]
 }

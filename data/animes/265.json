@@ -1,16 +1,35 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "265",
+    "id": 265,
+    "title": "Hajime no Ippo: Mashiba vs. Kimura",
+    "title_en": null,
+    "title_jp": "はじめの一歩 間柴vs木村 死刑執行",
     "picture": "http://cdn.myanimelist.net/images/anime/4/64737.jpg",
-    "released": "2003-09-05T03:00:00.000Z",
-    "synopsis": "Kimura finally has his championship match. It takes place at the annual champion carnival. But now he must face the intense champion, Mashiba for the Junior Lightweight championship. \n\n(Source: ANN)",
+    "synopsis": "Kimura finally has his championship match. It takes place at the annual champion carnival. But now he must face the intense champion, Mashiba for the Junior Lightweight championship. ",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "comedy",
         "shounen",
         "sports"
     ],
-    "title": "Hajime no Ippo: Mashiba vs. Kimura",
-    "title_jp": "はじめの一歩 間柴vs木村 死刑執行",
-    "type": "OVA"
+    "released": "2003-09-05T03:00:00.000Z",
+    "characters": [
+        846,
+        10156,
+        847,
+        1817,
+        4110,
+        30130,
+        36885,
+        51691,
+        51689,
+        15,
+        1818,
+        36882,
+        55659,
+        845,
+        137345,
+        93189,
+        15978
+    ]
 }

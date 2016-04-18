@@ -1,10 +1,12 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "9786",
+    "id": 9786,
+    "title": "Detective Conan: Conan vs. Kid - Jet Black Sniper",
+    "title_en": null,
+    "title_jp": "名探偵コナン コナンvsキッド 漆黒の狙撃者(スナイパー)",
     "picture": "http://cdn.myanimelist.net/images/anime/13/27102.jpg",
-    "released": "2006-07-28T03:00:00.000Z",
-    "synopsis": "3D IMAX movie, shown only at the Suntory Museum in Osaka.\n\nThe story involves a heist taking place on 15 Aug at the Takaramachi Jewelry Museum where a jewel worth 1 Billion Yen is stolen.",
+    "synopsis": "3D IMAX movie, shown only at the Suntory Museum in Osaka.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -12,7 +14,6 @@
         "police",
         "shounen"
     ],
-    "title": "Detective Conan: Conan vs. Kid - Jet Black Sniper",
-    "title_jp": "名探偵コナン コナンvsキッド 漆黒の狙撃者(スナイパー)",
-    "type": "Movie"
+    "released": "2006-07-28T03:00:00.000Z",
+    "characters": []
 }

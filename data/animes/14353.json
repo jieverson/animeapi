@@ -1,19 +1,12 @@
 {
-    "characters": [
-        81853,
-        81853,
-        82037,
-        82037,
-        82041,
-        82041,
-        82039,
-        82039
-    ],
-    "episodes": 1,
-    "id": "14353",
+    "id": 14353,
+    "title": "Death Billiards",
+    "title_en": null,
+    "title_jp": "デス・ビリヤード",
     "picture": "http://cdn.myanimelist.net/images/anime/11/48721.jpg",
-    "released": "2013-03-02T03:00:00.000Z",
-    "synopsis": "Two men suddenly arrive within a bar without any knowledge of how they got there. They're not alone either. A man stands before them, dressed as a bartender, informing them that there is no way out unless they participate in a game of billiards. The terms of the game are not explicitly stated, though if they refuse to play at all the bartender reveals to them a room full of suspended corpses, with the implication that they will be set to join them if they don’t start the game within an hour.\n\nSo begins the game of Death Billiards, a contest of skill with no clear terms of what will happen to the winner and loser. The only information the bartender bestows upon the competitors is that they should play the game as if their lives are at stake. It seems straightforward beyond that; sink all of your opponent's balls followed by the eight ball. However, a twist awaits the players as they find out what the billiard balls symbolize. It's just a game... right?",
+    "synopsis": "Two men suddenly arrive within a bar without any knowledge of how they got there. They're not alone either. A man stands before them, dressed as a bartender, informing them that there is no way out unless they participate in a game of billiards. The terms of the game are not explicitly stated, though if they refuse to play at all the bartender reveals to them a room full of suspended corpses, with the implication that they will be set to join them if they don’t start the game within an hour.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "game",
@@ -21,7 +14,11 @@
         "psychological",
         "thriller"
     ],
-    "title": "Death Billiards",
-    "title_jp": "デス・ビリヤード",
-    "type": "Movie"
+    "released": "2013-03-02T03:00:00.000Z",
+    "characters": [
+        81853,
+        82037,
+        82041,
+        82039
+    ]
 }

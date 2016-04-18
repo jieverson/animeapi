@@ -1,27 +1,23 @@
 {
-    "characters": [
-        1184,
-        1184,
-        1185,
-        1185,
-        32614,
-        32614,
-        32576,
-        32576,
-        16659,
-        16659
-    ],
-    "episodes": 1,
-    "id": "8190",
+    "id": 8190,
+    "title": "Nodame Cantabile OVA 2",
+    "title_en": null,
+    "title_jp": "のだめカンタービレ OVA 2",
     "picture": "http://cdn.myanimelist.net/images/anime/13/22335.jpg",
-    "released": "2010-04-26T03:00:00.000Z",
-    "synopsis": "An anime-original story written by Ninomiya Tomoko, this is an extra episode that falls between the end of Nodame Cantabile (Finale) and Nodame Cantabile Opera-hen. It's spring. Nodame is getting very close to graduating from the Conservatoire and Chiaki is keeping himself busy professionally.",
+    "synopsis": "An anime-original story written by Ninomiya Tomoko, this is an extra episode that falls between the end of Nodame Cantabile (Finale) and Nodame Cantabile Opera-hen.  It's spring.  Nodame is getting very close to graduating from the Conservatoire and Chiaki is keeping himself busy professionally.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "comedy",
         "josei",
         "romance"
     ],
-    "title": "Nodame Cantabile OVA 2",
-    "title_jp": "のだめカンタービレ OVA 2",
-    "type": "OVA"
+    "released": "2010-04-26T03:00:00.000Z",
+    "characters": [
+        1184,
+        1185,
+        32614,
+        32576,
+        16659
+    ]
 }

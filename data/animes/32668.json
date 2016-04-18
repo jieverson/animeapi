@@ -1,36 +1,28 @@
 {
-    "characters": [
-        48967,
-        48967,
-        48753,
-        48753,
-        49079,
-        49079,
-        66227,
-        66227,
-        50791,
-        50791,
-        56367,
-        56367,
-        66223,
-        66223,
-        49077,
-        49077,
-        56347,
-        56347
-    ],
-    "episodes": 1,
-    "id": "32668",
+    "id": 32668,
+    "title": "Noblesse: Awakening",
+    "title_en": null,
+    "title_jp": "Noblesse: Awakening",
     "picture": "http://cdn.myanimelist.net/images/anime/5/78406.jpg",
-    "released": "2016-02-04T02:00:00.000Z",
-    "synopsis": "Cadis Etrama di Raizel wakes up from 820-years long sleep and starts a new life as a high school student. His peaceful days as a student are soon interrupted by a group of attackers known as the \"Unions.\" Noblesse follows Raizel and his loyal servant, Frankenstein, as they constantly protect and save Raizel's new human friends from the mysterious threats.\n\n(Source: Crunchyroll)",
+    "synopsis": "Cadis Etrama di Raizel wakes up from 820-years long sleep and starts a new life as a high school student. His peaceful days as a student are soon interrupted by a group of attackers known as the \"Unions.\" ",
+    "type": "ONA",
+    "episodes": 1,
     "tags": [
         "action",
         "school",
         "supernatural",
         "vampire"
     ],
-    "title": "Noblesse: Awakening",
-    "title_jp": "Noblesse: Awakening",
-    "type": "ONA"
+    "released": "2016-02-04T02:00:00.000Z",
+    "characters": [
+        48967,
+        48753,
+        49079,
+        66227,
+        50791,
+        56367,
+        66223,
+        49077,
+        56347
+    ]
 }

@@ -1,32 +1,26 @@
 {
-    "characters": [
-        6893,
-        6893,
-        6894,
-        6894,
-        108241,
-        108241,
-        6897,
-        6897,
-        6919,
-        6919,
-        6896,
-        6896,
-        10709,
-        10709
-    ],
-    "episodes": 1,
-    "id": "2154",
+    "id": 2154,
+    "title": "Tekkon Kinkreet",
+    "title_en": null,
+    "title_jp": "鉄コン筋クリート",
     "picture": "http://cdn.myanimelist.net/images/anime/12/8520.jpg",
-    "released": "2006-12-23T02:00:00.000Z",
-    "synopsis": "Black and White are two orphans who roam the streets of Treasure Town, beating down any thug or yakuza who gets in their way. When mysterious foreign entrepreneurs appear with the intention of tearing down Treasure Town and replacing it with an amusement park, Black and White face their greatest adversaries yet. It is up to the destructive Black to save the fate of the city and up to the gentle White to save Black from his own dark nature.",
+    "synopsis": "Black and White are two orphans who roam the streets of Treasure Town, beating down any thug or yakuza who gets in their way. When mysterious foreign entrepreneurs appear with the intention of tearing down Treasure Town and replacing it with an amusement park, Black and White face their greatest adversaries yet. It is up to the destructive Black to save the fate of the city and up to the gentle White to save Black from his own dark nature. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
         "psychological",
         "supernatural"
     ],
-    "title": "Tekkon Kinkreet",
-    "title_jp": "鉄コン筋クリート",
-    "type": "Movie"
+    "released": "2006-12-23T02:00:00.000Z",
+    "characters": [
+        6893,
+        6894,
+        108241,
+        6897,
+        6919,
+        6896,
+        10709
+    ]
 }

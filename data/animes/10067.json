@@ -1,21 +1,20 @@
 {
-    "characters": [
-        91277,
-        91277,
-        24502,
-        24502
-    ],
-    "episodes": 1,
-    "id": "10067",
+    "id": 10067,
+    "title": "Angel Beats!: Another Epilogue",
+    "title_en": null,
+    "title_jp": "エンジェルビーツ! アナザーエピローグ",
     "picture": "http://cdn.myanimelist.net/images/anime/4/65355.jpg",
-    "released": "2010-12-22T02:00:00.000Z",
-    "synopsis": "Another ending epilogue included with the 7th volume of the DVD and Blu-ray. \n\nOne day, during the middle of a test, a new student begins to rebel against the system and angrily questions whether good grades will really get him into heaven. With the teacher and his classmates unable to calm the frenzied boy, it’s up to the new Student Council President to show him the way...\n\n(Source: Anime-Planet)",
+    "synopsis": "Another ending epilogue included with the 7th volume of the DVD and Blu-ray. ",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "drama",
         "school",
         "supernatural"
     ],
-    "title": "Angel Beats!: Another Epilogue",
-    "title_jp": "エンジェルビーツ! アナザーエピローグ",
-    "type": "Special"
+    "released": "2010-12-22T02:00:00.000Z",
+    "characters": [
+        91277,
+        24502
+    ]
 }

@@ -1,25 +1,12 @@
 {
-    "characters": [
-        109475,
-        109475,
-        125135,
-        125135,
-        94189,
-        94189,
-        109493,
-        109493,
-        125136,
-        125136,
-        129647,
-        129647,
-        129646,
-        129646
-    ],
-    "episodes": 12,
-    "id": "24765",
+    "id": 24765,
+    "title": "Gakkougurashi!",
+    "title_en": "School-Live!",
+    "title_jp": "がっこうぐらし！",
     "picture": "http://cdn.myanimelist.net/images/anime/5/75082.jpg",
-    "released": "2015-07-09T03:00:00.000Z",
-    "synopsis": "Yuki Takeya loves her school so much that she does not want to ever leave! Megurigaoka Private High School is a unique and lively place where Yuki enjoys her carefree life as a third-year high school student and member of the School Living Club. The club, consisting of the president Yuuri Wakasa, the athletic Kurumi Ebisuzawa, the mature junior Miki Naoki, the supervising teacher Megumi Sakura, and the club dog Taroumaru, prides itself on making the most of life at school. However, this illusion of endless bliss is just a bubble waiting to be burst because Yuki is unable to perceive what is truly happening around her. In reality, all is not as it seems—the real purpose of the School Living Club is to escape from the shocking and disturbing truth: the girls are in the middle of a zombie apocalypse and have barricaded themselves inside the school as the sole survivors.\n\nBased on the manga by Kaihou Norimitsu, Gakkougurashi! follows a group of girls who are forced to adapt to a post-apocalyptic life all by themselves. They have no means of contact with the outside world and are surrounded by hostile undead waiting to devour them. The girls must not only contend with the challenge of survival; they must also strive to maintain a false appearance of normality in Yuki's presence.\n\n[Written by MAL Rewrite]",
+    "synopsis": "Yuki Takeya loves her school so much that she does not want to ever leave! Megurigaoka Private High School is a unique and lively place where Yuki enjoys her carefree life as a third-year high school student and member of the School Living Club. The club, consisting of the president Yuuri Wakasa, the athletic Kurumi Ebisuzawa, the mature junior Miki Naoki, the supervising teacher Megumi Sakura, and the club dog Taroumaru, prides itself on making the most of life at school. However, this illusion of endless bliss is just a bubble waiting to be burst because Yuki is unable to perceive what is truly happening around her. In reality, all is not as it seems—the real purpose of the School Living Club is to escape from the shocking and disturbing truth: the girls are in the middle of a zombie apocalypse and have barricaded themselves inside the school as the sole survivors.",
+    "type": "TV",
+    "episodes": 12,
     "tags": [
         "horror",
         "mystery",
@@ -27,8 +14,14 @@
         "school",
         "slice_of_life"
     ],
-    "title": "Gakkougurashi!",
-    "title_en": "School-Live!",
-    "title_jp": "がっこうぐらし！",
-    "type": "TV"
+    "released": "2015-07-09T03:00:00.000Z",
+    "characters": [
+        109475,
+        125135,
+        94189,
+        109493,
+        125136,
+        129647,
+        129646
+    ]
 }

@@ -1,22 +1,20 @@
 {
-    "characters": [
-        101867,
-        101867,
-        101869,
-        101869,
-        101873,
-        101873
-    ],
-    "episodes": 1,
-    "id": "22839",
+    "id": 22839,
+    "title": "Cross Road",
+    "title_en": null,
+    "title_jp": "クロスロード",
     "picture": "http://cdn.myanimelist.net/images/anime/12/59379.jpg",
-    "released": "2014-02-25T03:00:00.000Z",
-    "synopsis": "High school students Miho and Shouta are preparing for college entrance examinations. Miho comes from an island without even one cram school, while Shouta lives in Tokyo and works a part-time job. Both are striving to pass exams so they can enter college. The pair enroll in Z-Kai's correspondence education courses, and their lives cross before they realize it.\n\n(Source: ANN)",
+    "synopsis": "High school students Miho and Shouta are preparing for college entrance examinations. Miho comes from an island without even one cram school, while Shouta lives in Tokyo and works a part-time job. Both are striving to pass exams so they can enter college. The pair enroll in Z-Kai's correspondence education courses, and their lives cross before they realize it.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "school",
         "slice_of_life"
     ],
-    "title": "Cross Road",
-    "title_jp": "クロスロード",
-    "type": "Special"
+    "released": "2014-02-25T03:00:00.000Z",
+    "characters": [
+        101867,
+        101869,
+        101873
+    ]
 }

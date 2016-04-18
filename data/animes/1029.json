@@ -1,34 +1,26 @@
 {
-    "characters": [
-        10055,
-        10055,
-        90941,
-        90941,
-        36293,
-        36293,
-        90869,
-        90869,
-        90863,
-        90863,
-        90861,
-        90861,
-        100571,
-        100571,
-        36292,
-        36292
-    ],
-    "episodes": 1,
-    "id": "1029",
+    "id": 1029,
+    "title": "Omoide Poroporo",
+    "title_en": "Only Yesterday",
+    "title_jp": "おもひでぽろぽろ",
     "picture": "http://cdn.myanimelist.net/images/anime/9/75922.jpg",
-    "released": "1991-07-20T03:00:00.000Z",
-    "synopsis": "Taeko Okajima is a typical \"office lady\" in a big company in a big city. When she takes a sabbatical to the countryside in Yamagata Prefecture, the hometown of her brother-in-law, the journey recalled her memory of her 5th grade year. During her stay in Yamagata, she works hard and happily as a farmer and is surrounded by friendly relatives and villagers, bringing up more memories. Their hospitality makes her to reconsider her choice of life. \n\n(Source: ANN)",
+    "synopsis": "Taeko Okajima is a typical \"office lady\" in a big company in a big city. When she takes a sabbatical to the countryside in Yamagata Prefecture, the hometown of her brother-in-law, the journey recalled her memory of her 5th grade year. During her stay in Yamagata, she works hard and happily as a farmer and is surrounded by friendly relatives and villagers, bringing up more memories. Their hospitality makes her to reconsider her choice of life. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "romance",
         "slice_of_life"
     ],
-    "title": "Omoide Poroporo",
-    "title_en": "Only Yesterday",
-    "title_jp": "おもひでぽろぽろ",
-    "type": "Movie"
+    "released": "1991-07-20T03:00:00.000Z",
+    "characters": [
+        10055,
+        90941,
+        36293,
+        90869,
+        90863,
+        90861,
+        100571,
+        36292
+    ]
 }

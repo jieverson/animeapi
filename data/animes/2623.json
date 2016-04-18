@@ -1,23 +1,20 @@
 {
-    "characters": [
-        30244,
-        30244,
-        19688,
-        19688,
-        39165,
-        39165
-    ],
-    "episodes": 1,
-    "id": "2623",
+    "id": 2623,
+    "title": "Flanders no Inu (Movie)",
+    "title_en": "The Dog of Flanders",
+    "title_jp": "フランダースの犬 (1997)",
     "picture": "http://cdn.myanimelist.net/images/anime/3/75599.jpg",
-    "released": "1997-03-15T03:00:00.000Z",
-    "synopsis": "Set in 19th-century Belgium, this classic tale, based on the Flemish novel by Oui'da, celebrates the affectionate bond between an innocent boy and his faithful dog. The stunning animation, a masterful combination of traditional and computer-aided animation, captures the natural splendor of the Flanders countryside and recreates the spirit of this classic story that has captivated audiences world wide for more than 130 years. In fact, the popularity of The Dog Of Flanders led the local Belgian government of Flanders to dedicate a statue to Nello and Patrash in 1985, immortalizing their devotion to each other. \n\n(Source: AniDB)",
+    "synopsis": "Set in 19th-century Belgium, this classic tale, based on the Flemish novel by Oui'da, celebrates the affectionate bond between an innocent boy and his faithful dog. The stunning animation, a masterful combination of traditional and computer-aided animation, captures the natural splendor of the Flanders countryside and recreates the spirit of this classic story that has captivated audiences world wide for more than 130 years. In fact, the popularity of The Dog Of Flanders led the local Belgian government of Flanders to dedicate a statue to Nello and Patrash in 1985, immortalizing their devotion to each other. ",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "drama",
         "historical"
     ],
-    "title": "Flanders no Inu (Movie)",
-    "title_en": "The Dog of Flanders",
-    "title_jp": "フランダースの犬 (1997)",
-    "type": "Movie"
+    "released": "1997-03-15T03:00:00.000Z",
+    "characters": [
+        30244,
+        19688,
+        39165
+    ]
 }

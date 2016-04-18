@@ -1,23 +1,12 @@
 {
-    "characters": [
-        601,
-        601,
-        603,
-        603,
-        624,
-        624,
-        606,
-        606,
-        78217,
-        78217,
-        609,
-        609
-    ],
-    "episodes": 1,
-    "id": "6904",
+    "id": 6904,
+    "title": "Hellsing I: Digest for Freaks",
+    "title_en": null,
+    "title_jp": "HELLSING I OVA DIGEST FOR FREAKS",
     "picture": "http://cdn.myanimelist.net/images/anime/7/26935.jpg",
-    "released": "2006-01-22T02:00:00.000Z",
     "synopsis": "This OVA is a summary of the first three episodes of Hellsing, with the animation style of Hellsing Ultimate and following the events of the Hellsing manga.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "action",
         "horror",
@@ -27,7 +16,13 @@
         "supernatural",
         "vampire"
     ],
-    "title": "Hellsing I: Digest for Freaks",
-    "title_jp": "HELLSING I OVA DIGEST FOR FREAKS",
-    "type": "OVA"
+    "released": "2006-01-22T02:00:00.000Z",
+    "characters": [
+        601,
+        603,
+        624,
+        606,
+        78217,
+        609
+    ]
 }

@@ -1,17 +1,12 @@
 {
-    "characters": [
-        15422,
-        15422,
-        15421,
-        15421,
-        86163,
-        86163
-    ],
-    "episodes": 1,
-    "id": "875",
+    "id": 875,
+    "title": "Mind Game",
+    "title_en": null,
+    "title_jp": "マインド・ゲーム",
     "picture": "http://cdn.myanimelist.net/images/anime/8/4028.jpg",
-    "released": "2004-08-07T03:00:00.000Z",
-    "synopsis": "Nishi has always loved Myon since they were little. And now as adults, he wants to pursue his dream of becoming a manga artist and marrying his childhood sweetheart. There's one problem, though. She's already been proposed to and she thinks Nishi is too much of a wimp. But upon meeting the fiancé while at her family's diner and accepting him as a good guy, they encounter a couple Yakuza (Japanese mafia), only to have Nishi grasp a certain revelation. And, with his newly aquired look on life, adventures abound as he, Myon, and her sister Yan escape the Yakuza into a most unlikely location where they meet an old man...\n\n(Source: ANN)",
+    "synopsis": "Nishi has always loved Myon since they were little. And now as adults, he wants to pursue his dream of becoming a manga artist and marrying his childhood sweetheart. There's one problem, though. She's already been proposed to and she thinks Nishi is too much of a wimp. But upon meeting the fiancé while at her family's diner and accepting him as a good guy, they encounter a couple Yakuza (Japanese mafia), only to have Nishi grasp a certain revelation. And, with his newly aquired look on life, adventures abound as he, Myon, and her sister Yan escape the Yakuza into a most unlikely location where they meet an old man...",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "adventure",
         "comedy",
@@ -19,7 +14,10 @@
         "psychological",
         "romance"
     ],
-    "title": "Mind Game",
-    "title_jp": "マインド・ゲーム",
-    "type": "Movie"
+    "released": "2004-08-07T03:00:00.000Z",
+    "characters": [
+        15422,
+        15421,
+        86163
+    ]
 }

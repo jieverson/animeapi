@@ -1,25 +1,12 @@
 {
-    "characters": [
-        9277,
-        9277,
-        9278,
-        9278,
-        218,
-        218,
-        9273,
-        9273,
-        9266,
-        9266,
-        29901,
-        29901,
-        9276,
-        9276
-    ],
-    "episodes": 3,
-    "id": "9088",
+    "id": 9088,
+    "title": "Saiyuuki Gaiden",
+    "title_en": null,
+    "title_jp": "最遊記外伝",
     "picture": "http://cdn.myanimelist.net/images/anime/5/75818.jpg",
-    "released": "2011-03-25T03:00:00.000Z",
-    "synopsis": "An OVA adaptation of the climactic part of Saiyuuki Gaiden.",
+    "synopsis": " An OVA adaptation of the climactic part of Saiyuuki Gaiden. ",
+    "type": "OVA",
+    "episodes": 3,
     "tags": [
         "action",
         "adventure",
@@ -27,7 +14,14 @@
         "fantasy",
         "shoujo"
     ],
-    "title": "Saiyuuki Gaiden",
-    "title_jp": "最遊記外伝",
-    "type": "OVA"
+    "released": "2011-03-25T03:00:00.000Z",
+    "characters": [
+        9277,
+        9278,
+        218,
+        9273,
+        9266,
+        29901,
+        9276
+    ]
 }

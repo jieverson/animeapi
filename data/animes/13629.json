@@ -1,18 +1,18 @@
 {
-    "characters": [],
-    "episodes": 1,
-    "id": "13629",
+    "id": 13629,
+    "title": "Furiko",
+    "title_en": "Pendulum",
+    "title_jp": "振り子",
     "picture": "http://cdn.myanimelist.net/images/anime/2/68985.jpg",
-    "released": "",
-    "synopsis": "A short called \"Furiko\" (or \"Pendulum\"), that was featured on Japanese variety show.\n\nThe anime was drawn by the Japanese comedian Tekken (鉄拳), who named himself after the fighting game.\n\nThe short was later adapted into the official music video for the song used in the short, \"Exogenesis Part 3 (Redemption)\" by Muse, and was extended to meet the full length of the song.\n\n(Source: AniDB)",
+    "synopsis": "A short called \"Furiko\" (or \"Pendulum\"), that was featured on Japanese variety show.",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "drama",
         "music",
         "romance",
         "slice_of_life"
     ],
-    "title": "Furiko",
-    "title_en": "Pendulum",
-    "title_jp": "振り子",
-    "type": "Special"
+    "released": "2012-03-01T03:00:00.000Z",
+    "characters": []
 }

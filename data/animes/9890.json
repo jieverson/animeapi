@@ -1,37 +1,28 @@
 {
-    "characters": [
-        467,
-        467,
-        40441,
-        40441,
-        40457,
-        40457,
-        10835,
-        10835,
-        9501,
-        9501,
-        6090,
-        6090,
-        4276,
-        4276,
-        4265,
-        4265,
-        20146,
-        20146,
-        4266,
-        4266
-    ],
-    "episodes": 1,
-    "id": "9890",
+    "id": 9890,
+    "title": "Major: Message",
+    "title_en": null,
+    "title_jp": "メジャー・メッセージ",
     "picture": "http://cdn.myanimelist.net/images/anime/11/75219.jpg",
-    "released": "2010-12-17T02:00:00.000Z",
     "synopsis": "Ten years have passed. Following an injury that put Gorou's career as a pitcher into a standstill, he prepares to restart his baseball career as a fielder. His family struggles with his decisions, especially his daughter Izumi, who doesn't know enough about her father to understand why he is so absent from their lives. Gorou will stop at nothing until he's in the game once again; everything is now for the sake of the only gift he has to offer his children: Baseball.",
+    "type": "OVA",
+    "episodes": 1,
     "tags": [
         "comedy",
         "drama",
         "sports"
     ],
-    "title": "Major: Message",
-    "title_jp": "メジャー・メッセージ",
-    "type": "OVA"
+    "released": "2010-12-17T02:00:00.000Z",
+    "characters": [
+        467,
+        40441,
+        40457,
+        10835,
+        9501,
+        6090,
+        4276,
+        4265,
+        20146,
+        4266
+    ]
 }

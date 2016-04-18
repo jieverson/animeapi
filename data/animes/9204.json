@@ -1,27 +1,23 @@
 {
-    "characters": [
-        41493,
-        41493,
-        43561,
-        43561,
-        43460,
-        43460,
-        42699,
-        42699
-    ],
-    "episodes": 1,
-    "id": "9204",
+    "id": 9204,
+    "title": "Omae Umasou da na",
+    "title_en": "You Are Umasou",
+    "title_jp": "おまえうまそうだな",
     "picture": "http://cdn.myanimelist.net/images/anime/8/25517.jpg",
-    "released": "2010-10-16T03:00:00.000Z",
     "synopsis": "A Tyrannosaurus called Heart was raised by a herbivorous dinosaur. As he grew up, he was scared by other dinosaurs. One day, Heart meets a baby Ankylosaurus and he names the baby \"Umasou (looks delicious)\". Umasou started to be attached to Heart and a strange family love develops between the two.",
+    "type": "Movie",
+    "episodes": 1,
     "tags": [
         "action",
         "adventure",
         "fantasy",
         "kids"
     ],
-    "title": "Omae Umasou da na",
-    "title_en": "You Are Umasou",
-    "title_jp": "おまえうまそうだな",
-    "type": "Movie"
+    "released": "2010-10-16T03:00:00.000Z",
+    "characters": [
+        41493,
+        43561,
+        43460,
+        42699
+    ]
 }

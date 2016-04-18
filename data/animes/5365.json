@@ -1,18 +1,17 @@
 {
-    "characters": [
-        25681,
-        25681
-    ],
-    "episodes": 1,
-    "id": "5365",
-    "picture": "http://cdn.myanimelist.net/images/anime/13/13357.jpg",
-    "released": "2008-06-10T03:00:00.000Z",
-    "synopsis": "In a flooded town where the waters are ever-rising, an old man must constantly build new floors onto his home in order to keep dry. But when his favorite smoking pipe falls into the watery abyss beneath him, he dives into the depths of not only his house, but memories of years past.\n\nTsumiki no Ie is a short film about the everlasting effect of time on one's life—how it can swallow the past entirely, and how one must learn to continue moving forward despite what has already happened.\n\n[Written by MAL Rewrite]",
-    "tags": [
-        "drama"
-    ],
+    "id": 5365,
     "title": "Tsumiki no Ie",
     "title_en": "La Maison en Petits Cubes",
     "title_jp": "つみきのいえ",
-    "type": "Movie"
+    "picture": "http://cdn.myanimelist.net/images/anime/13/13357.jpg",
+    "synopsis": "In a flooded town where the waters are ever-rising, an old man must constantly build new floors onto his home in order to keep dry. But when his favorite smoking pipe falls into the watery abyss beneath him, he dives into the depths of not only his house, but memories of years past.",
+    "type": "Movie",
+    "episodes": 1,
+    "tags": [
+        "drama"
+    ],
+    "released": "2008-06-10T03:00:00.000Z",
+    "characters": [
+        25681
+    ]
 }

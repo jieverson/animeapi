@@ -1,28 +1,23 @@
 {
-    "characters": [
-        35255,
-        35255,
-        34470,
-        34470,
-        35252,
-        35252,
-        35258,
-        35258,
-        41897,
-        41897,
-        35253,
-        35253
-    ],
-    "episodes": 1,
-    "id": "32188",
+    "id": 32188,
+    "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+    "title_en": null,
+    "title_jp": "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-",
     "picture": "http://cdn.myanimelist.net/images/anime/7/77324.jpg",
-    "released": "2015-12-03T02:00:00.000Z",
-    "synopsis": "Alternate 23rd episode of Steins;Gate, which leads into the story of Steins;Gate 0. It will be included with the Steins;Gate Complete Blu-ray Box.",
+    "synopsis": "Alternate 23rd episode of ",
+    "type": "Special",
+    "episodes": 1,
     "tags": [
         "sci-fi",
         "thriller"
     ],
-    "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
-    "title_jp": "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-",
-    "type": "Special"
+    "released": "2015-12-03T02:00:00.000Z",
+    "characters": [
+        35255,
+        34470,
+        35252,
+        35258,
+        41897,
+        35253
+    ]
 }
