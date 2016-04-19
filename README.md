@@ -10,7 +10,7 @@ It's a javascript API built using `node.js` and `express.js`.
 
 ## Usage
 
-[AnimeAPI](http://animedata.herokuapp.com) is going to provide a complete service for requesting anime data.
+[AnimeAPI](http://162.243.198.238:3000/api) is going to provide a complete service for requesting anime data.
 
 Here are some examples:
 
