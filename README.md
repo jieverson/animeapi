@@ -1,6 +1,6 @@
 # AnimeAPI
 
-[![status](https://img.shields.io/badge/status-early%20development-red.svg)](https://img.shields.io/badge/status-early%20development-red.svg)
+[![status](https://img.shields.io/badge/status-early%20development-red.svg)](http://162.243.198.238:3000/api)
 [![travis](https://travis-ci.org/jieverson/animeapi.svg?branch=master)](https://travis-ci.org/jieverson/animeapi)
 [![gitter](https://badges.gitter.im/jieverson/animeapi.svg)](https://gitter.im/jieverson/animeapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![license](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](./LICENSE)
